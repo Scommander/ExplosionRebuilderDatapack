@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 17374 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17375 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17376 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17377 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17378 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17379 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17380 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17381 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17382 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17383 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17384 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17385 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17386 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17387 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17388 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17389 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle",Count:1b}}

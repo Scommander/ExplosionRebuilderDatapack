@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 17470 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17471 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17472 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17473 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17484 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_candle",Count:1b}}

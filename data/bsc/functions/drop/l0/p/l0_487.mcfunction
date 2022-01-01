@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 17566 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17567 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17568 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17569 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17570 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17571 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17572 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17573 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17574 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17575 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17576 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17577 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17578 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17579 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17580 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17581 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle",Count:1b}}

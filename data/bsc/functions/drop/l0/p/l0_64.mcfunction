@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1404 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1405 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1406 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1407 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1408 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1409 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1410 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1411 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1412 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1413 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1414 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}
+execute if score @s s.crhf.block_id matches 1415 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston",Count:1b}}

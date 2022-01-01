@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=down_east] run scoreboard players set @s s.crhf.block_id 15993
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=down_north] run scoreboard players set @s s.crhf.block_id 15994
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=down_south] run scoreboard players set @s s.crhf.block_id 15995
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=down_west] run scoreboard players set @s s.crhf.block_id 15996
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=up_east] run scoreboard players set @s s.crhf.block_id 15997
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=up_north] run scoreboard players set @s s.crhf.block_id 15998
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=up_south] run scoreboard players set @s s.crhf.block_id 15999
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=up_west] run scoreboard players set @s s.crhf.block_id 16000
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=west_up] run scoreboard players set @s s.crhf.block_id 16001
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=east_up] run scoreboard players set @s s.crhf.block_id 16002
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=north_up] run scoreboard players set @s s.crhf.block_id 16003
+execute if block ~ ~ ~ minecraft:jigsaw[orientation=south_up] run scoreboard players set @s s.crhf.block_id 16004

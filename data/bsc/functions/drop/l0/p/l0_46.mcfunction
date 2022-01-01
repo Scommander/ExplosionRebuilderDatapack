@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 1113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed",Count:1b}}

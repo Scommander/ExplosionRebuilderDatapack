@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 6544 run setblock ~ ~ ~ minecraft:potatoes[age=0]
+execute if score @s s.crhf.block_id matches 6545 run setblock ~ ~ ~ minecraft:potatoes[age=1]
+execute if score @s s.crhf.block_id matches 6546 run setblock ~ ~ ~ minecraft:potatoes[age=2]
+execute if score @s s.crhf.block_id matches 6547 run setblock ~ ~ ~ minecraft:potatoes[age=3]
+execute if score @s s.crhf.block_id matches 6548 run setblock ~ ~ ~ minecraft:potatoes[age=4]
+execute if score @s s.crhf.block_id matches 6549 run setblock ~ ~ ~ minecraft:potatoes[age=5]
+execute if score @s s.crhf.block_id matches 6550 run setblock ~ ~ ~ minecraft:potatoes[age=6]
+execute if score @s s.crhf.block_id matches 6551 run setblock ~ ~ ~ minecraft:potatoes[age=7]

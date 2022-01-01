@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 16014 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16015 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16016 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16017 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16018 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16019 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16020 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16021 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16022 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16023 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16024 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16025 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16026 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16027 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16028 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}
+execute if score @s s.crhf.block_id matches 16029 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target",Count:1b}}

@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 8106 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8107 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8108 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8109 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8110 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8111 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=false]

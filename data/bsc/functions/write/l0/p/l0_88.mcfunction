@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 3818 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3819 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3820 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3821 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3822 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3823 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3824 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3825 run setblock ~ ~ ~ minecraft:birch_wall_sign[facing=east,waterlogged=false]

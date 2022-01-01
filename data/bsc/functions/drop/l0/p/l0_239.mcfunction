@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 8355 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8356 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8357 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8358 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8359 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8360 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8361 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8362 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8363 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8364 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8365 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8366 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8367 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8368 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8369 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8370 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_banner",Count:1b}}

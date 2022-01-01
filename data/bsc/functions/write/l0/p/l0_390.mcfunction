@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 11057 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11058 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11059 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11060 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11061 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11062 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=double,waterlogged=false]

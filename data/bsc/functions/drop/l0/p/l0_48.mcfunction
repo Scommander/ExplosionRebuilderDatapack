@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 1145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1159 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1160 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed",Count:1b}}

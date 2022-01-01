@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 11045 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11046 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11047 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11048 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11049 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11050 run setblock ~ ~ ~ minecraft:smooth_red_sandstone_slab[type=double,waterlogged=false]

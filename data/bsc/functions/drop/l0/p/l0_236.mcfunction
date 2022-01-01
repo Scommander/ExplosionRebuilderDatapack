@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 8307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8315 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8316 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8317 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8318 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8319 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8320 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8321 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}
+execute if score @s s.crhf.block_id matches 8322 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner",Count:1b}}

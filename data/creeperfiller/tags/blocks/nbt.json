@@ -1,0 +1,24 @@
+{
+    "values": [
+      "minecraft:beehive",
+      "minecraft:bee_nest",
+      "#minecraft:signs",
+      "#minecraft:banners",
+      "minecraft:chest",
+      "minecraft:trapped_chest",
+      "minecraft:dispenser",
+      "minecraft:furnace",
+      "minecraft:brewing_stand",
+      "minecraft:hopper",
+      "#minecraft:shulker_boxes",
+      "minecraft:barrel",
+      "minecraft:smoker",
+      "minecraft:blast_furnace",
+      "minecraft:campfire",
+      "minecraft:soul_campfire",
+      "minecraft:lectern",
+      "minecraft:beacon",
+      "minecraft:spawner",
+      "minecraft:jukebox"
+    ]
+}

@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 1289 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1290 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1291 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1292 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1293 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1294 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1295 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1296 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1297 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1298 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1299 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1300 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1301 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1302 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1303 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1304 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_bed",Count:1b}}

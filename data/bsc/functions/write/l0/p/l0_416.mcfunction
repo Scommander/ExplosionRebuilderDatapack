@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 15061 run setblock ~ ~ ~ minecraft:blast_furnace[facing=north,lit=true]
+execute if score @s s.crhf.block_id matches 15062 run setblock ~ ~ ~ minecraft:blast_furnace[facing=north,lit=false]
+execute if score @s s.crhf.block_id matches 15063 run setblock ~ ~ ~ minecraft:blast_furnace[facing=south,lit=true]
+execute if score @s s.crhf.block_id matches 15064 run setblock ~ ~ ~ minecraft:blast_furnace[facing=south,lit=false]
+execute if score @s s.crhf.block_id matches 15065 run setblock ~ ~ ~ minecraft:blast_furnace[facing=west,lit=true]
+execute if score @s s.crhf.block_id matches 15066 run setblock ~ ~ ~ minecraft:blast_furnace[facing=west,lit=false]
+execute if score @s s.crhf.block_id matches 15067 run setblock ~ ~ ~ minecraft:blast_furnace[facing=east,lit=true]
+execute if score @s s.crhf.block_id matches 15068 run setblock ~ ~ ~ minecraft:blast_furnace[facing=east,lit=false]

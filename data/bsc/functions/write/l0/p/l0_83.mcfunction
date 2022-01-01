@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 3694 run setblock ~ ~ ~ minecraft:ladder[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3695 run setblock ~ ~ ~ minecraft:ladder[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3696 run setblock ~ ~ ~ minecraft:ladder[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3697 run setblock ~ ~ ~ minecraft:ladder[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3698 run setblock ~ ~ ~ minecraft:ladder[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3699 run setblock ~ ~ ~ minecraft:ladder[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3700 run setblock ~ ~ ~ minecraft:ladder[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3701 run setblock ~ ~ ~ minecraft:ladder[facing=east,waterlogged=false]

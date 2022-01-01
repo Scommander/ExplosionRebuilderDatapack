@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 17598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17602 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17603 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17604 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17605 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17606 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17607 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17608 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17609 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17610 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17611 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17612 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle",Count:1b}}

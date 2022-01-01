@@ -1,0 +1,14 @@
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=1,persistent=true] run scoreboard players set @s s.crhf.block_id 148
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=1,persistent=false] run scoreboard players set @s s.crhf.block_id 149
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=2,persistent=true] run scoreboard players set @s s.crhf.block_id 150
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=2,persistent=false] run scoreboard players set @s s.crhf.block_id 151
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=3,persistent=true] run scoreboard players set @s s.crhf.block_id 152
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=3,persistent=false] run scoreboard players set @s s.crhf.block_id 153
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=4,persistent=true] run scoreboard players set @s s.crhf.block_id 154
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=4,persistent=false] run scoreboard players set @s s.crhf.block_id 155
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=5,persistent=true] run scoreboard players set @s s.crhf.block_id 156
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=5,persistent=false] run scoreboard players set @s s.crhf.block_id 157
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=6,persistent=true] run scoreboard players set @s s.crhf.block_id 158
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=6,persistent=false] run scoreboard players set @s s.crhf.block_id 159
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=7,persistent=true] run scoreboard players set @s s.crhf.block_id 160
+execute if block ~ ~ ~ minecraft:oak_leaves[distance=7,persistent=false] run scoreboard players set @s s.crhf.block_id 161

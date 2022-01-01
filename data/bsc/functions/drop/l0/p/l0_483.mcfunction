@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 17502 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17503 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17504 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17505 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17506 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17507 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17508 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17509 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17510 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17511 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17512 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17513 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17514 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17515 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17516 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}
+execute if score @s s.crhf.block_id matches 17517 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle",Count:1b}}

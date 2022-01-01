@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 9564 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 9565 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 9566 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 9567 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 9568 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 9569 run setblock ~ ~ ~ minecraft:pink_shulker_box[facing=down]

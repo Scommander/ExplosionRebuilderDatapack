@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:sugar_cane[age=0] run scoreboard players set @s s.crhf.block_id 4017
+execute if block ~ ~ ~ minecraft:sugar_cane[age=1] run scoreboard players set @s s.crhf.block_id 4018
+execute if block ~ ~ ~ minecraft:sugar_cane[age=2] run scoreboard players set @s s.crhf.block_id 4019
+execute if block ~ ~ ~ minecraft:sugar_cane[age=3] run scoreboard players set @s s.crhf.block_id 4020
+execute if block ~ ~ ~ minecraft:sugar_cane[age=4] run scoreboard players set @s s.crhf.block_id 4021
+execute if block ~ ~ ~ minecraft:sugar_cane[age=5] run scoreboard players set @s s.crhf.block_id 4022
+execute if block ~ ~ ~ minecraft:sugar_cane[age=6] run scoreboard players set @s s.crhf.block_id 4023
+execute if block ~ ~ ~ minecraft:sugar_cane[age=7] run scoreboard players set @s s.crhf.block_id 4024
+execute if block ~ ~ ~ minecraft:sugar_cane[age=8] run scoreboard players set @s s.crhf.block_id 4025
+execute if block ~ ~ ~ minecraft:sugar_cane[age=9] run scoreboard players set @s s.crhf.block_id 4026
+execute if block ~ ~ ~ minecraft:sugar_cane[age=10] run scoreboard players set @s s.crhf.block_id 4027
+execute if block ~ ~ ~ minecraft:sugar_cane[age=11] run scoreboard players set @s s.crhf.block_id 4028
+execute if block ~ ~ ~ minecraft:sugar_cane[age=12] run scoreboard players set @s s.crhf.block_id 4029
+execute if block ~ ~ ~ minecraft:sugar_cane[age=13] run scoreboard players set @s s.crhf.block_id 4030
+execute if block ~ ~ ~ minecraft:sugar_cane[age=14] run scoreboard players set @s s.crhf.block_id 4031
+execute if block ~ ~ ~ minecraft:sugar_cane[age=15] run scoreboard players set @s s.crhf.block_id 4032

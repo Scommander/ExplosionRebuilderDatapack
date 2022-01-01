@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 18508 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 18509 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 18510 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 18511 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 18512 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 18513 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_slab[type=double,waterlogged=false]

@@ -1,0 +1,16 @@
+execute if score @s s.crhf.block_id matches 1257 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1258 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1259 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1260 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1264 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1265 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1266 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1267 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1268 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1269 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1270 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1271 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}
+execute if score @s s.crhf.block_id matches 1272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed",Count:1b}}

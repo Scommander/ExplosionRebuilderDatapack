@@ -1,0 +1,10 @@
+execute if score @s s.crhf.block_id matches 6934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6935 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6936 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6937 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6938 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6939 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6940 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6941 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6942 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}
+execute if score @s s.crhf.block_id matches 6943 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper",Count:1b}}

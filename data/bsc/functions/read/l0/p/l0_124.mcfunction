@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:moving_piston[facing=north,type=normal] run scoreboard players set @s s.crhf.block_id 1456
+execute if block ~ ~ ~ minecraft:moving_piston[facing=north,type=sticky] run scoreboard players set @s s.crhf.block_id 1457
+execute if block ~ ~ ~ minecraft:moving_piston[facing=east,type=normal] run scoreboard players set @s s.crhf.block_id 1458
+execute if block ~ ~ ~ minecraft:moving_piston[facing=east,type=sticky] run scoreboard players set @s s.crhf.block_id 1459
+execute if block ~ ~ ~ minecraft:moving_piston[facing=south,type=normal] run scoreboard players set @s s.crhf.block_id 1460
+execute if block ~ ~ ~ minecraft:moving_piston[facing=south,type=sticky] run scoreboard players set @s s.crhf.block_id 1461
+execute if block ~ ~ ~ minecraft:moving_piston[facing=west,type=normal] run scoreboard players set @s s.crhf.block_id 1462
+execute if block ~ ~ ~ minecraft:moving_piston[facing=west,type=sticky] run scoreboard players set @s s.crhf.block_id 1463
+execute if block ~ ~ ~ minecraft:moving_piston[facing=up,type=normal] run scoreboard players set @s s.crhf.block_id 1464
+execute if block ~ ~ ~ minecraft:moving_piston[facing=up,type=sticky] run scoreboard players set @s s.crhf.block_id 1465
+execute if block ~ ~ ~ minecraft:moving_piston[facing=down,type=normal] run scoreboard players set @s s.crhf.block_id 1466
+execute if block ~ ~ ~ minecraft:moving_piston[facing=down,type=sticky] run scoreboard players set @s s.crhf.block_id 1467
