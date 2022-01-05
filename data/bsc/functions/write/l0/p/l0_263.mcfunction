@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8574 run setblock ~ ~ ~ minecraft:acacia_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8575 run setblock ~ ~ ~ minecraft:acacia_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8576 run setblock ~ ~ ~ minecraft:acacia_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8577 run setblock ~ ~ ~ minecraft:acacia_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8578 run setblock ~ ~ ~ minecraft:acacia_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8579 run setblock ~ ~ ~ minecraft:acacia_slab[type=double,waterlogged=false]

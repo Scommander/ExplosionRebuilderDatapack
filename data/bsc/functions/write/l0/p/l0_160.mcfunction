@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 6536 run setblock ~ ~ ~ minecraft:carrots[age=0]
-execute if score @s s.crhf.block_id matches 6537 run setblock ~ ~ ~ minecraft:carrots[age=1]
-execute if score @s s.crhf.block_id matches 6538 run setblock ~ ~ ~ minecraft:carrots[age=2]
-execute if score @s s.crhf.block_id matches 6539 run setblock ~ ~ ~ minecraft:carrots[age=3]
-execute if score @s s.crhf.block_id matches 6540 run setblock ~ ~ ~ minecraft:carrots[age=4]
-execute if score @s s.crhf.block_id matches 6541 run setblock ~ ~ ~ minecraft:carrots[age=5]
-execute if score @s s.crhf.block_id matches 6542 run setblock ~ ~ ~ minecraft:carrots[age=6]
-execute if score @s s.crhf.block_id matches 6543 run setblock ~ ~ ~ minecraft:carrots[age=7]

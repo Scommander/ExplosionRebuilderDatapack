@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 20000 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 20001 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 20002 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 20003 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 20004 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 20005 run setblock ~ ~ ~ minecraft:deepslate_brick_slab[type=double,waterlogged=false]

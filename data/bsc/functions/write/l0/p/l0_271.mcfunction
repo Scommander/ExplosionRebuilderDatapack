@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8622 run setblock ~ ~ ~ minecraft:brick_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8623 run setblock ~ ~ ~ minecraft:brick_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8624 run setblock ~ ~ ~ minecraft:brick_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8625 run setblock ~ ~ ~ minecraft:brick_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8626 run setblock ~ ~ ~ minecraft:brick_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8627 run setblock ~ ~ ~ minecraft:brick_slab[type=double,waterlogged=false]

@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 11081 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 11082 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 11083 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 11084 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 11085 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 11086 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=double,waterlogged=false]

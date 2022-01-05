@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8592 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8593 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8594 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8595 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8596 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8597 run setblock ~ ~ ~ minecraft:smooth_stone_slab[type=double,waterlogged=false]

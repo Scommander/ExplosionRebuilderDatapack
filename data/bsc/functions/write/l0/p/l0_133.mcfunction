@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 4845 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=0]
-execute if score @s s.crhf.block_id matches 4846 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=1]
-execute if score @s s.crhf.block_id matches 4847 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=2]
-execute if score @s s.crhf.block_id matches 4848 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=3]
-execute if score @s s.crhf.block_id matches 4849 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=4]
-execute if score @s s.crhf.block_id matches 4850 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=5]
-execute if score @s s.crhf.block_id matches 4851 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=6]
-execute if score @s s.crhf.block_id matches 4852 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=7]
