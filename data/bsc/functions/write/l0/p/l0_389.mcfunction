@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 11051 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11052 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11053 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11054 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11055 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11056 run setblock ~ ~ ~ minecraft:mossy_stone_brick_slab[type=double,waterlogged=false]

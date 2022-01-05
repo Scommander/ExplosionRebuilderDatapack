@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:orange_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1097
+execute if block ~ ~ ~ minecraft:orange_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1098
+execute if block ~ ~ ~ minecraft:orange_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1099
+execute if block ~ ~ ~ minecraft:orange_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1100
+execute if block ~ ~ ~ minecraft:orange_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1101
+execute if block ~ ~ ~ minecraft:orange_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1102
+execute if block ~ ~ ~ minecraft:orange_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1103
+execute if block ~ ~ ~ minecraft:orange_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1104
+execute if block ~ ~ ~ minecraft:orange_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1105
+execute if block ~ ~ ~ minecraft:orange_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1106
+execute if block ~ ~ ~ minecraft:orange_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1107
+execute if block ~ ~ ~ minecraft:orange_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1108
+execute if block ~ ~ ~ minecraft:orange_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1109
+execute if block ~ ~ ~ minecraft:orange_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1110
+execute if block ~ ~ ~ minecraft:orange_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1111
+execute if block ~ ~ ~ minecraft:orange_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1112

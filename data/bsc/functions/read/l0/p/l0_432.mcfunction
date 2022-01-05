@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 8179
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 8180
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 8181
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 8182
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 8183
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 8184
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 8185
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 8186
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 8187
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 8188
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 8189
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 8190
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 8191
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 8192
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 8193
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 8194

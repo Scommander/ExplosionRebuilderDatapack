@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": {
+          "dimension": "minecraft:the_nether",
+          "block": {
+            "blocks": ["minecraft:fire", "minecraft:air"]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "explosion_rebuilder:explode_bed"
+  }
+}

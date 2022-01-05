@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 8339
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 8340
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 8341
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 8342
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 8343
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 8344
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 8345
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 8346
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 8347
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 8348
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 8349
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 8350
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 8351
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 8352
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 8353
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 8354

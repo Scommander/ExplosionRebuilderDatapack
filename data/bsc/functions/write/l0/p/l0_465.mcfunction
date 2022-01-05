@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 16498 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 16499 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 16500 run setblock ~ ~ ~ minecraft:blackstone_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 16501 run setblock ~ ~ ~ minecraft:blackstone_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 16502 run setblock ~ ~ ~ minecraft:blackstone_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 16503 run setblock ~ ~ ~ minecraft:blackstone_slab[type=double,waterlogged=false]

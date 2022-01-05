@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 8562 run setblock ~ ~ ~ minecraft:birch_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8563 run setblock ~ ~ ~ minecraft:birch_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8564 run setblock ~ ~ ~ minecraft:birch_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8565 run setblock ~ ~ ~ minecraft:birch_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8566 run setblock ~ ~ ~ minecraft:birch_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8567 run setblock ~ ~ ~ minecraft:birch_slab[type=double,waterlogged=false]

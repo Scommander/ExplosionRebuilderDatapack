@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=0] run scoreboard players set @s s.crhf.block_id 6696
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=1] run scoreboard players set @s s.crhf.block_id 6697
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=2] run scoreboard players set @s s.crhf.block_id 6698
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=3] run scoreboard players set @s s.crhf.block_id 6699
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=4] run scoreboard players set @s s.crhf.block_id 6700
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=5] run scoreboard players set @s s.crhf.block_id 6701
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=6] run scoreboard players set @s s.crhf.block_id 6702
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=7] run scoreboard players set @s s.crhf.block_id 6703
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=8] run scoreboard players set @s s.crhf.block_id 6704
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=9] run scoreboard players set @s s.crhf.block_id 6705
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=10] run scoreboard players set @s s.crhf.block_id 6706
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=11] run scoreboard players set @s s.crhf.block_id 6707
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=12] run scoreboard players set @s s.crhf.block_id 6708
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=13] run scoreboard players set @s s.crhf.block_id 6709
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=14] run scoreboard players set @s s.crhf.block_id 6710
+execute if block ~ ~ ~ minecraft:skeleton_skull[rotation=15] run scoreboard players set @s s.crhf.block_id 6711

@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 9558 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 9559 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 9560 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 9561 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 9562 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 9563 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=down]

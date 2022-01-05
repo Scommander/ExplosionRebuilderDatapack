@@ -1,0 +1,14 @@
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=1,persistent=true] run scoreboard players set @s s.crhf.block_id 176
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=1,persistent=false] run scoreboard players set @s s.crhf.block_id 177
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=2,persistent=true] run scoreboard players set @s s.crhf.block_id 178
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=2,persistent=false] run scoreboard players set @s s.crhf.block_id 179
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=3,persistent=true] run scoreboard players set @s s.crhf.block_id 180
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=3,persistent=false] run scoreboard players set @s s.crhf.block_id 181
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=4,persistent=true] run scoreboard players set @s s.crhf.block_id 182
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=4,persistent=false] run scoreboard players set @s s.crhf.block_id 183
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=5,persistent=true] run scoreboard players set @s s.crhf.block_id 184
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=5,persistent=false] run scoreboard players set @s s.crhf.block_id 185
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=6,persistent=true] run scoreboard players set @s s.crhf.block_id 186
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=6,persistent=false] run scoreboard players set @s s.crhf.block_id 187
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=7,persistent=true] run scoreboard players set @s s.crhf.block_id 188
+execute if block ~ ~ ~ minecraft:birch_leaves[distance=7,persistent=false] run scoreboard players set @s s.crhf.block_id 189

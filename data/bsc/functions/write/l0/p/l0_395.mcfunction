@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 11087 run setblock ~ ~ ~ minecraft:granite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11088 run setblock ~ ~ ~ minecraft:granite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11089 run setblock ~ ~ ~ minecraft:granite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11090 run setblock ~ ~ ~ minecraft:granite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11091 run setblock ~ ~ ~ minecraft:granite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11092 run setblock ~ ~ ~ minecraft:granite_slab[type=double,waterlogged=false]

@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 11105 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11106 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11107 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11108 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11109 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11110 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=false]

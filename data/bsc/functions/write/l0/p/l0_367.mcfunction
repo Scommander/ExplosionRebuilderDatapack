@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 9874 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9875 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9876 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9877 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9878 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9879 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9880 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9881 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=false]

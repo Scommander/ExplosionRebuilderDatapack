@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 3802 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3803 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3804 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3805 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3806 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3807 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3808 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3809 run setblock ~ ~ ~ minecraft:oak_wall_sign[facing=east,waterlogged=false]

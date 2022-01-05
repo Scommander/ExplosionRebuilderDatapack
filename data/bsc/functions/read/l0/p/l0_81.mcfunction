@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:white_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1081
+execute if block ~ ~ ~ minecraft:white_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1082
+execute if block ~ ~ ~ minecraft:white_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1083
+execute if block ~ ~ ~ minecraft:white_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1084
+execute if block ~ ~ ~ minecraft:white_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1085
+execute if block ~ ~ ~ minecraft:white_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1086
+execute if block ~ ~ ~ minecraft:white_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1087
+execute if block ~ ~ ~ minecraft:white_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1088
+execute if block ~ ~ ~ minecraft:white_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1089
+execute if block ~ ~ ~ minecraft:white_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1090
+execute if block ~ ~ ~ minecraft:white_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1091
+execute if block ~ ~ ~ minecraft:white_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1092
+execute if block ~ ~ ~ minecraft:white_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 1093
+execute if block ~ ~ ~ minecraft:white_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 1094
+execute if block ~ ~ ~ minecraft:white_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 1095
+execute if block ~ ~ ~ minecraft:white_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 1096

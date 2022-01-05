@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 3810 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3811 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3812 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3813 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3814 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3815 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3816 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3817 run setblock ~ ~ ~ minecraft:spruce_wall_sign[facing=east,waterlogged=false]

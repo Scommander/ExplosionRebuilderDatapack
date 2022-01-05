@@ -1,0 +1,6 @@
+execute if score @s s.crhf.block_id matches 8604 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8605 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8606 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8607 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8608 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8609 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=false]

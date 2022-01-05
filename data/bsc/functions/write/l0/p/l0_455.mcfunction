@@ -1,0 +1,8 @@
+execute if score @s s.crhf.block_id matches 15981 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15982 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15983 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15984 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15985 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15986 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15987 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15988 run setblock ~ ~ ~ minecraft:warped_wall_sign[facing=east,waterlogged=false]

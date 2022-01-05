@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:cave_air",
+    "minecraft:void_air",
+    "minecraft:water",
+    "minecraft:lava",
+    "minecraft:fire",
+    "minecraft:nether_portal",
+    "minecraft:end_portal",
+    "minecraft:bedrock",
+    "minecraft:frosted_ice",
+    "minecraft:end_gateway",
+    "minecraft:spawner",
+    "minecraft:farmland",
+    "minecraft:dirt_path",
+    "minecraft:chorus_plant"
+  ]
+}
