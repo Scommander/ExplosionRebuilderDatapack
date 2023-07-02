@@ -85,7 +85,6 @@ f.close()
 
 '''Read, write, and drop scripts'''
 
-
 def load_block_data(filename):
     with open(filename, 'r') as f:
         json_data = f.read()
