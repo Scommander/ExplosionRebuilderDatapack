@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24004 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24005 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24006 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24007 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24008 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24009 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24010 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24011 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24012 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24013 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24014 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24015 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_banner", Count: 1b}}

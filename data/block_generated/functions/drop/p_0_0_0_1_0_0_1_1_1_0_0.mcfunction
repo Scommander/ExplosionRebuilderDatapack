@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1838 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1839 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1840 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1841 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1842 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1843 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1844 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1845 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1846 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1847 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1848 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_leaves", Count: 1b}}

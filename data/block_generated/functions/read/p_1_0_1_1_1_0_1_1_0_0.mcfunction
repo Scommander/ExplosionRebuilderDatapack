@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:purple_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 17828
+execute if block ~ ~ ~ minecraft:purple_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 17829
+execute if block ~ ~ ~ minecraft:purple_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 17830
+execute if block ~ ~ ~ minecraft:purple_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 17831
+execute if block ~ ~ ~ minecraft:purple_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 17832
+execute if block ~ ~ ~ minecraft:purple_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 17833
+execute if block ~ ~ ~ minecraft:purple_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 17834
+execute if block ~ ~ ~ minecraft:purple_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 17835
+execute if block ~ ~ ~ minecraft:purple_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 17836
+execute if block ~ ~ ~ minecraft:purple_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 17837
+execute if block ~ ~ ~ minecraft:purple_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 17838
+execute if block ~ ~ ~ minecraft:purple_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 17839
+execute if block ~ ~ ~ minecraft:purple_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 17840
+execute if block ~ ~ ~ minecraft:purple_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 17841
+execute if block ~ ~ ~ minecraft:purple_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 17842
+execute if block ~ ~ ~ minecraft:purple_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 17843

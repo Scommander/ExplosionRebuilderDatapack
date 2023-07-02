@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22722 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22723 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22724 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22725 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22726 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22727 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22728 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22729 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22730 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}

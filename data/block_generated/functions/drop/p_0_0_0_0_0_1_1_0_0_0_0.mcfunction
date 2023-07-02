@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 565 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 566 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 567 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 568 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 569 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 570 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 571 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 572 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 573 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 574 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 575 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}

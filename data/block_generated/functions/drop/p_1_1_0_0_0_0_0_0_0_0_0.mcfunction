@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 18101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18107 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18108 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18109 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18110 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18111 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}

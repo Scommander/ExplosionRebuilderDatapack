@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5973 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5974 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5975 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5976 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5977 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5978 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5979 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5980 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5981 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5982 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5983 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5984 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_wall_hanging_sign", Count: 1b}}

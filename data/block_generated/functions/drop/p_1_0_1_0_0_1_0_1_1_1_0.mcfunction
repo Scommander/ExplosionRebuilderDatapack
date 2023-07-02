@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15625 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15626 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15627 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15628 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15629 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15630 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15631 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15632 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15633 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15634 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15635 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15636 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston_head", Count: 1b}}

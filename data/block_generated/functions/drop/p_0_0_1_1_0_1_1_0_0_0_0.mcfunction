@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 5089 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5090 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5091 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5092 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5093 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5094 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5095 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5096 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5097 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5098 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5099 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}

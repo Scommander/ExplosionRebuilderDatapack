@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 424 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 425 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 426 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 427 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 428 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 429 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 430 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 431 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 432 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 433 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 434 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}

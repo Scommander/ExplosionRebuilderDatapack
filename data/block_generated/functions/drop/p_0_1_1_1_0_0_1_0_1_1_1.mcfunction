@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10834 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10835 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10836 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10838 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10839 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}

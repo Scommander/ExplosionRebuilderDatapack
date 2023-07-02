@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 23946 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 23947 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 23948 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 23949 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 23950 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 23951 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 23952 run setblock ~ ~ ~ minecraft:white_stained_glass
+execute if score @s s.crhf.block_id matches 23953 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 23954 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 23955 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 23956 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15075 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15076 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15078 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15079 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15080 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15081 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15082 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sign", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 15502
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 15503
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 15504
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 15505
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 15506
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 15507
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 15508
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 15509
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 15510
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 15511
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 15512
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 15513
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 15514
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 15515
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 15516
+execute if block ~ ~ ~ minecraft:pink_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 15517

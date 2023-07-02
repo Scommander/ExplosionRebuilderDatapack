@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15621 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15622 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15623 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15624 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piston", Count: 1b}}

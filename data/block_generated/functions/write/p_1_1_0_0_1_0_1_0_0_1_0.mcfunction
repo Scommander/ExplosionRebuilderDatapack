@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19066 run setblock ~ ~ ~ minecraft:red_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 19067 run setblock ~ ~ ~ minecraft:red_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 19068 run setblock ~ ~ ~ minecraft:red_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 19069 run setblock ~ ~ ~ minecraft:red_stained_glass
+execute if score @s s.crhf.block_id matches 19070 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 19071 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 19072 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 19073 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 19074 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 19075 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 19076 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 19077 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]

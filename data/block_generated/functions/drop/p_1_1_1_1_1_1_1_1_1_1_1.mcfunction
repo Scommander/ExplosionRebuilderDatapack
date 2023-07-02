@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_wall_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_wall_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24133 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_wall_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24134 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_wall_head", Count: 1b}}

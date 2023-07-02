@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13126 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 13127 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 13128 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 13129 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 13130 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 13131 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 13132 run setblock ~ ~ ~ minecraft:mud_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 13133 run setblock ~ ~ ~ minecraft:mud_bricks
+execute if score @s s.crhf.block_id matches 13134 run setblock ~ ~ ~ minecraft:muddy_mangrove_roots[axis=x]
+execute if score @s s.crhf.block_id matches 13135 run setblock ~ ~ ~ minecraft:muddy_mangrove_roots[axis=y]
+execute if score @s s.crhf.block_id matches 13136 run setblock ~ ~ ~ minecraft:muddy_mangrove_roots[axis=z]
+execute if score @s s.crhf.block_id matches 13137 run setblock ~ ~ ~ minecraft:mushroom_stem[down=true,east=true,north=true,south=true,up=true,west=true]

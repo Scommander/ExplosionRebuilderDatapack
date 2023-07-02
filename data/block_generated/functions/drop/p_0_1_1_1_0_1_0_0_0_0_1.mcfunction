@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10946 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10947 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10948 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10949 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10950 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10951 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10952 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10953 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10954 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10955 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10956 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10957 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_blue_candle", Count: 1b}}

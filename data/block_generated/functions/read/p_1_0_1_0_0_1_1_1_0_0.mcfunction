@@ -1,0 +1,10 @@
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=0,half=upper] run scoreboard players set @s s.crhf.block_id 15657
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=0,half=lower] run scoreboard players set @s s.crhf.block_id 15658
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=1,half=upper] run scoreboard players set @s s.crhf.block_id 15659
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=1,half=lower] run scoreboard players set @s s.crhf.block_id 15660
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=2,half=upper] run scoreboard players set @s s.crhf.block_id 15661
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=2,half=lower] run scoreboard players set @s s.crhf.block_id 15662
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=3,half=upper] run scoreboard players set @s s.crhf.block_id 15663
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=3,half=lower] run scoreboard players set @s s.crhf.block_id 15664
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=4,half=upper] run scoreboard players set @s s.crhf.block_id 15665
+execute if block ~ ~ ~ minecraft:pitcher_crop[age=4,half=lower] run scoreboard players set @s s.crhf.block_id 15666

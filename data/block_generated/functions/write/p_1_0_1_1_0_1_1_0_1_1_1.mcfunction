@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17239 run setblock ~ ~ ~ minecraft:potatoes[age=4]
+execute if score @s s.crhf.block_id matches 17240 run setblock ~ ~ ~ minecraft:potatoes[age=5]
+execute if score @s s.crhf.block_id matches 17241 run setblock ~ ~ ~ minecraft:potatoes[age=6]
+execute if score @s s.crhf.block_id matches 17242 run setblock ~ ~ ~ minecraft:potatoes[age=7]
+execute if score @s s.crhf.block_id matches 17243 run setblock ~ ~ ~ minecraft:potted_acacia_sapling
+execute if score @s s.crhf.block_id matches 17244 run setblock ~ ~ ~ minecraft:potted_allium
+execute if score @s s.crhf.block_id matches 17245 run setblock ~ ~ ~ minecraft:potted_azalea_bush
+execute if score @s s.crhf.block_id matches 17246 run setblock ~ ~ ~ minecraft:potted_azure_bluet
+execute if score @s s.crhf.block_id matches 17247 run setblock ~ ~ ~ minecraft:potted_bamboo
+execute if score @s s.crhf.block_id matches 17248 run setblock ~ ~ ~ minecraft:potted_birch_sapling
+execute if score @s s.crhf.block_id matches 17249 run setblock ~ ~ ~ minecraft:potted_blue_orchid
+execute if score @s s.crhf.block_id matches 17250 run setblock ~ ~ ~ minecraft:potted_brown_mushroom

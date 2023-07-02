@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17793 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 17794 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 17795 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 17796 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 17797 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 17798 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 17799 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 17800 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 17801 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 17802 run setblock ~ ~ ~ minecraft:prismarine_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 17803 run setblock ~ ~ ~ minecraft:pumpkin
+execute if score @s s.crhf.block_id matches 17804 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=0]

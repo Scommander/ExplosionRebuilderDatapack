@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4286 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4287 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wall_hanging_sign", Count: 1b}}

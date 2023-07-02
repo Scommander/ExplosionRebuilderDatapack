@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22731 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22732 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22733 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22734 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22735 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22736 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22737 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22738 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22739 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22740 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22741 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22742 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire", Count: 1b}}

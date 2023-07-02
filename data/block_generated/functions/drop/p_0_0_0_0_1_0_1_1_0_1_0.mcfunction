@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1059 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1060 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1061 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1062 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence", Count: 1b}}

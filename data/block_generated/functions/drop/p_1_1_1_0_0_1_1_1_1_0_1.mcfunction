@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21836 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21838 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21839 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21840 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21841 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21842 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21843 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21844 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21845 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21846 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21847 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_sign", Count: 1b}}

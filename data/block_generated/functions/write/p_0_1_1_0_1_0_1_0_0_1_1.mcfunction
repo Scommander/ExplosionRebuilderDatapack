@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10027 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 10028 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 10029 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 10030 run setblock ~ ~ ~ minecraft:green_stained_glass
+execute if score @s s.crhf.block_id matches 10031 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 10032 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 10033 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 10034 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 10035 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 10036 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 10037 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 10038 run setblock ~ ~ ~ minecraft:green_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]

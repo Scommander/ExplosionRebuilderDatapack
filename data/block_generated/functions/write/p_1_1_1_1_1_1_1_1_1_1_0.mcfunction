@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24111 run setblock ~ ~ ~ minecraft:yellow_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 24112 run setblock ~ ~ ~ minecraft:yellow_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 24113 run setblock ~ ~ ~ minecraft:yellow_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 24114 run setblock ~ ~ ~ minecraft:yellow_wool
+execute if score @s s.crhf.block_id matches 24115 run setblock ~ ~ ~ minecraft:zombie_head[rotation=0]
+execute if score @s s.crhf.block_id matches 24116 run setblock ~ ~ ~ minecraft:zombie_head[rotation=1]
+execute if score @s s.crhf.block_id matches 24117 run setblock ~ ~ ~ minecraft:zombie_head[rotation=2]
+execute if score @s s.crhf.block_id matches 24118 run setblock ~ ~ ~ minecraft:zombie_head[rotation=3]
+execute if score @s s.crhf.block_id matches 24119 run setblock ~ ~ ~ minecraft:zombie_head[rotation=4]
+execute if score @s s.crhf.block_id matches 24120 run setblock ~ ~ ~ minecraft:zombie_head[rotation=5]
+execute if score @s s.crhf.block_id matches 24121 run setblock ~ ~ ~ minecraft:zombie_head[rotation=6]
+execute if score @s s.crhf.block_id matches 24122 run setblock ~ ~ ~ minecraft:zombie_head[rotation=7]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 133 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 134 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 135 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 136 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 137 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 138 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 139 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 140 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_fence_gate", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4653 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=true,west=false]
+execute if score @s s.crhf.block_id matches 4654 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=true]
+execute if score @s s.crhf.block_id matches 4655 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=false]
+execute if score @s s.crhf.block_id matches 4656 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=true]
+execute if score @s s.crhf.block_id matches 4657 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=false]
+execute if score @s s.crhf.block_id matches 4658 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=true]
+execute if score @s s.crhf.block_id matches 4659 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=false]
+execute if score @s s.crhf.block_id matches 4660 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=true]
+execute if score @s s.crhf.block_id matches 4661 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=false]
+execute if score @s s.crhf.block_id matches 4662 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=true]
+execute if score @s s.crhf.block_id matches 4663 run setblock ~ ~ ~ minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=false]
+execute if score @s s.crhf.block_id matches 4664 run setblock ~ ~ ~ minecraft:clay

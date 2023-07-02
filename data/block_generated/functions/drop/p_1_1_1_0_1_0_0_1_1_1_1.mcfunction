@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22048 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22049 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22050 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22051 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22052 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22053 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22054 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22055 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22056 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22057 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22058 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22059 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_stairs", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2593 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2602 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_bed", Count: 1b}}

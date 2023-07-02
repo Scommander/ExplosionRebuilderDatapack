@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 1932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1935 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1936 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1937 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1938 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1939 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1940 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1941 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1942 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_stairs", Count: 1b}}

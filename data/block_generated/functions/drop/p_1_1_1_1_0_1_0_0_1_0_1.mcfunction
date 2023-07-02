@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23061 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23062 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence", Count: 1b}}

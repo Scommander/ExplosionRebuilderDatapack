@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8094 run setblock ~ ~ ~ minecraft:prismarine_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8095 run setblock ~ ~ ~ minecraft:prismarine_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8096 run setblock ~ ~ ~ minecraft:prismarine_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8097 run setblock ~ ~ ~ minecraft:prismarine_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8098 run setblock ~ ~ ~ minecraft:prismarine_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8099 run setblock ~ ~ ~ minecraft:prismarine_slab[type=double,waterlogged=false]

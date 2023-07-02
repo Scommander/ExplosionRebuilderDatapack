@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8709 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:farmland", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}

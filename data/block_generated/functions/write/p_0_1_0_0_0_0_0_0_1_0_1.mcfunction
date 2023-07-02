@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6091 run setblock ~ ~ ~ minecraft:cut_red_sandstone_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6092 run setblock ~ ~ ~ minecraft:cut_sandstone
+execute if score @s s.crhf.block_id matches 6093 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6094 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6095 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6096 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6097 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6098 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6099 run setblock ~ ~ ~ minecraft:cyan_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 6100 run setblock ~ ~ ~ minecraft:cyan_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 6101 run setblock ~ ~ ~ minecraft:cyan_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 6102 run setblock ~ ~ ~ minecraft:cyan_banner[rotation=3]

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15225 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15226 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15227 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15228 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15229 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15230 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15231 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15232 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15233 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15234 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15235 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}

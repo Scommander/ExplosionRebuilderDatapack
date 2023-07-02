@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10958 run setblock ~ ~ ~ minecraft:light_blue_candle[candles=4,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10959 run setblock ~ ~ ~ minecraft:light_blue_candle[candles=4,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 10960 run setblock ~ ~ ~ minecraft:light_blue_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10961 run setblock ~ ~ ~ minecraft:light_blue_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 10962 run setblock ~ ~ ~ minecraft:light_blue_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 10963 run setblock ~ ~ ~ minecraft:light_blue_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 10964 run setblock ~ ~ ~ minecraft:light_blue_carpet
+execute if score @s s.crhf.block_id matches 10965 run setblock ~ ~ ~ minecraft:light_blue_concrete
+execute if score @s s.crhf.block_id matches 10966 run setblock ~ ~ ~ minecraft:light_blue_concrete_powder
+execute if score @s s.crhf.block_id matches 10967 run setblock ~ ~ ~ minecraft:light_blue_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 10968 run setblock ~ ~ ~ minecraft:light_blue_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 10969 run setblock ~ ~ ~ minecraft:light_blue_glazed_terracotta[facing=west]

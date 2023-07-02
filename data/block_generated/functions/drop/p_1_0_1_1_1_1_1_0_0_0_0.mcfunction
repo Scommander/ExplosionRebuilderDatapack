@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 17912 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_pillar", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_pillar", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_pillar", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17919 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17920 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17921 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17922 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}

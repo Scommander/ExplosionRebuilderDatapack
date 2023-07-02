@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3758 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3759 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3760 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3761 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3762 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3763 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3764 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3765 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3766 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3767 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3768 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3769 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 20410 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=14,south=none,west=none]
+execute if score @s s.crhf.block_id matches 20411 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=up,west=up]
+execute if score @s s.crhf.block_id matches 20412 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=up,west=side]
+execute if score @s s.crhf.block_id matches 20413 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=up,west=none]
+execute if score @s s.crhf.block_id matches 20414 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=side,west=up]
+execute if score @s s.crhf.block_id matches 20415 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=side,west=side]
+execute if score @s s.crhf.block_id matches 20416 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=side,west=none]
+execute if score @s s.crhf.block_id matches 20417 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=none,west=up]
+execute if score @s s.crhf.block_id matches 20418 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=none,west=side]
+execute if score @s s.crhf.block_id matches 20419 run setblock ~ ~ ~ minecraft:redstone_wire[east=none,north=none,power=15,south=none,west=none]
+execute if score @s s.crhf.block_id matches 20420 run setblock ~ ~ ~ minecraft:reinforced_deepslate

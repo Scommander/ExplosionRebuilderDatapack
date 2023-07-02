@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 270 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 271 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}

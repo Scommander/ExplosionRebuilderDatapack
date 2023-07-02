@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 16639 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 16640 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 16641 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 16642 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 16643 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 16644 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 16645 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 16646 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 16647 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 16648 run setblock ~ ~ ~ minecraft:polished_blackstone_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 16649 run setblock ~ ~ ~ minecraft:polished_deepslate

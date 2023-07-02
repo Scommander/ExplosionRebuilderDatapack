@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=none,stage=0] run scoreboard players set @s s.crhf.block_id 946
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=none,stage=1] run scoreboard players set @s s.crhf.block_id 947
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=small,stage=0] run scoreboard players set @s s.crhf.block_id 948
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=small,stage=1] run scoreboard players set @s s.crhf.block_id 949
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=large,stage=0] run scoreboard players set @s s.crhf.block_id 950
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=large,stage=1] run scoreboard players set @s s.crhf.block_id 951
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=none,stage=0] run scoreboard players set @s s.crhf.block_id 952
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=none,stage=1] run scoreboard players set @s s.crhf.block_id 953
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=small,stage=0] run scoreboard players set @s s.crhf.block_id 954
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=small,stage=1] run scoreboard players set @s s.crhf.block_id 955
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=large,stage=0] run scoreboard players set @s s.crhf.block_id 956
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=large,stage=1] run scoreboard players set @s s.crhf.block_id 957

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13133 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13134 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:muddy_mangrove_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13135 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:muddy_mangrove_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13136 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:muddy_mangrove_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13137 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}

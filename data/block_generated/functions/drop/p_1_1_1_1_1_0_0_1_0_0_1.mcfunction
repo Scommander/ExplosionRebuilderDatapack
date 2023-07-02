@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23486 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23487 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23488 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23495 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23496 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper_stairs", Count: 1b}}

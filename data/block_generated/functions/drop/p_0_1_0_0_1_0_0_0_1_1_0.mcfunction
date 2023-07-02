@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6857 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6858 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6859 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6860 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6862 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6863 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6864 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6865 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6866 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6867 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6868 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_slab", Count: 1b}}

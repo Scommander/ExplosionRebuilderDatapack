@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1460 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1461 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1462 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1463 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1464 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1465 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1466 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1467 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1468 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1469 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1470 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1471 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}

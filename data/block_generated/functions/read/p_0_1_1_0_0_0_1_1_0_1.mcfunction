@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:gray_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9897
+execute if block ~ ~ ~ minecraft:gray_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9898
+execute if block ~ ~ ~ minecraft:gray_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9899
+execute if block ~ ~ ~ minecraft:gray_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9900
+execute if block ~ ~ ~ minecraft:gray_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9901
+execute if block ~ ~ ~ minecraft:gray_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9902
+execute if block ~ ~ ~ minecraft:gray_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9903
+execute if block ~ ~ ~ minecraft:gray_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9904
+execute if block ~ ~ ~ minecraft:gray_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9905
+execute if block ~ ~ ~ minecraft:gray_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9906
+execute if block ~ ~ ~ minecraft:gray_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9907
+execute if block ~ ~ ~ minecraft:gray_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9908
+execute if block ~ ~ ~ minecraft:gray_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9909
+execute if block ~ ~ ~ minecraft:gray_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9910
+execute if block ~ ~ ~ minecraft:gray_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 9911
+execute if block ~ ~ ~ minecraft:gray_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 9912

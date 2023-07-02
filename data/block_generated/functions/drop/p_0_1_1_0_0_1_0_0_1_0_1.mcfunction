@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9486 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9487 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9488 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9495 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9496 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:granite_stairs", Count: 1b}}

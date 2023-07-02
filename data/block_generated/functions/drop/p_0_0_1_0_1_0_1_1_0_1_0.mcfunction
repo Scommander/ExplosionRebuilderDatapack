@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4075 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4076 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4078 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4079 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4080 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4081 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4082 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4084 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4085 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4086 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}

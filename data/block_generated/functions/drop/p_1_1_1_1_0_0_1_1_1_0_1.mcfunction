@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22967 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22968 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22969 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22970 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22971 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22972 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22973 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22974 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22975 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22976 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22977 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22978 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_button", Count: 1b}}

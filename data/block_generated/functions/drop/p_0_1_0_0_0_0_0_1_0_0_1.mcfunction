@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6138 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6139 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6140 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6141 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6142 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6143 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6144 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_carpet", Count: 1b}}

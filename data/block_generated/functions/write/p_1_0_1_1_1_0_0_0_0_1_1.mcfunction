@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17381 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=top,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17382 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17383 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17384 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17385 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17386 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17387 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17388 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17389 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17390 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17391 run setblock ~ ~ ~ minecraft:prismarine_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17392 run setblock ~ ~ ~ minecraft:prismarine_bricks

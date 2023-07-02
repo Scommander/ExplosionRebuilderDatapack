@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 12702 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12703 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12704 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12705 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12709 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}

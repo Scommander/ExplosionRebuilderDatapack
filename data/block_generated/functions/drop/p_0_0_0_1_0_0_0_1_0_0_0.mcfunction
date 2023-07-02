@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 1602 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1603 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1604 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1605 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1606 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1607 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:big_dripleaf_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1608 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1609 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1610 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1611 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1612 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}

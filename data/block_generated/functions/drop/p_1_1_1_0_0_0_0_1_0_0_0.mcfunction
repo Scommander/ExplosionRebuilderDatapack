@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 21212 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21213 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21214 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21215 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21216 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21217 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21218 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21219 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21220 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_wall_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21221 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:slime_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21222 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_amethyst_bud", Count: 1b}}

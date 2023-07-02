@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5834 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5835 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5836 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5838 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5839 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5840 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5841 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5842 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5843 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_stairs", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_stairs", Count: 1b}}

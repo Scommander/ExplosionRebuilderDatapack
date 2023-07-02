@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 246 run setblock ~ ~ ~ minecraft:acacia_log[axis=z]
+execute if score @s s.crhf.block_id matches 247 run setblock ~ ~ ~ minecraft:acacia_planks
+execute if score @s s.crhf.block_id matches 248 run setblock ~ ~ ~ minecraft:acacia_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 249 run setblock ~ ~ ~ minecraft:acacia_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 250 run setblock ~ ~ ~ minecraft:acacia_sapling[stage=0]
+execute if score @s s.crhf.block_id matches 251 run setblock ~ ~ ~ minecraft:acacia_sapling[stage=1]
+execute if score @s s.crhf.block_id matches 252 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=0,waterlogged=true]
+execute if score @s s.crhf.block_id matches 253 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=0,waterlogged=false]
+execute if score @s s.crhf.block_id matches 254 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=1,waterlogged=true]
+execute if score @s s.crhf.block_id matches 255 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=1,waterlogged=false]
+execute if score @s s.crhf.block_id matches 256 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=2,waterlogged=true]
+execute if score @s s.crhf.block_id matches 257 run setblock ~ ~ ~ minecraft:acacia_sign[rotation=2,waterlogged=false]

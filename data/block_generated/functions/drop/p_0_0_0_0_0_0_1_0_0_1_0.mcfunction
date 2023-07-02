@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 211 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 212 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 213 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 214 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 215 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 216 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 217 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 218 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 219 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 220 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 221 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 222 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}

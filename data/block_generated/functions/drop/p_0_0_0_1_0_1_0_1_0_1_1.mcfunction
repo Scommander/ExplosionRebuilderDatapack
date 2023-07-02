@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2014 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2015 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2016 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2017 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2018 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2019 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2020 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2021 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2022 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2023 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2024 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2025 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}

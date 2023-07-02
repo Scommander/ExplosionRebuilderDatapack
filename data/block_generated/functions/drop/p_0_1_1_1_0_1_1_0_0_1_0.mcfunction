@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lightning_rod", Count: 1b}}

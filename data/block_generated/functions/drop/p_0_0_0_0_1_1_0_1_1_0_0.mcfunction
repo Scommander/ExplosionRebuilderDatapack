@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 1272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_sign", Count: 1b}}

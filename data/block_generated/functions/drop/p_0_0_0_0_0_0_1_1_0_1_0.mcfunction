@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 315 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 316 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}

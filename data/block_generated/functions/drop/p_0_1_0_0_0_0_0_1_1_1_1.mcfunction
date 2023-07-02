@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6209 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6210 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6211 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6212 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6213 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6214 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6215 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6216 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6217 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6218 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6219 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6220 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}

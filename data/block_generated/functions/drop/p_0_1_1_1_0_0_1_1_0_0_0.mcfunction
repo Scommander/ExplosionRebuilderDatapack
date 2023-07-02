@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10840 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10841 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10842 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10843 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10844 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10845 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10846 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10847 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10848 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10849 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10850 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lectern", Count: 1b}}

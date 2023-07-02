@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2002 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2003 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2004 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2005 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2006 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2007 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2008 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2009 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2010 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2011 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2012 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2013 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}

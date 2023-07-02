@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11076 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11078 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11079 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11080 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11081 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11082 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11084 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11085 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11086 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_stained_glass_pane", Count: 1b}}

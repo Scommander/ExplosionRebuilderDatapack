@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 23191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_sign", Count: 1b}}

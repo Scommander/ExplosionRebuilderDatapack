@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8556 run setblock ~ ~ ~ minecraft:spruce_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8557 run setblock ~ ~ ~ minecraft:spruce_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8558 run setblock ~ ~ ~ minecraft:spruce_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8559 run setblock ~ ~ ~ minecraft:spruce_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8560 run setblock ~ ~ ~ minecraft:spruce_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8561 run setblock ~ ~ ~ minecraft:spruce_slab[type=double,waterlogged=false]

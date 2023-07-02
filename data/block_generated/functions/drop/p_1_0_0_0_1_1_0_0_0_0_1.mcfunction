@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13209 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13210 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13211 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13212 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13213 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13214 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13215 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13216 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13217 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13218 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13219 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13220 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}

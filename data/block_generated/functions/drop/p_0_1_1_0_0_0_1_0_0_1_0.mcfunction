@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9264 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9265 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9266 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9267 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9268 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9269 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9270 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9271 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:frogspawn", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3746 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3747 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3748 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3749 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3750 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3751 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3752 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3753 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3754 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3755 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3756 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3757 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}

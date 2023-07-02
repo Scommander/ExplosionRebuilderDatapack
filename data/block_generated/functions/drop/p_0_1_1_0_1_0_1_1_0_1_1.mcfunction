@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ice", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:infested_chiseled_stone_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:infested_cobblestone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:infested_cracked_stone_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:infested_deepslate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:infested_deepslate", Count: 1b}}

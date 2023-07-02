@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 2686 run setblock ~ ~ ~ minecraft:bone_block[axis=x]
+execute if score @s s.crhf.block_id matches 2687 run setblock ~ ~ ~ minecraft:bone_block[axis=y]
+execute if score @s s.crhf.block_id matches 2688 run setblock ~ ~ ~ minecraft:bone_block[axis=z]
+execute if score @s s.crhf.block_id matches 2689 run setblock ~ ~ ~ minecraft:bookshelf
+execute if score @s s.crhf.block_id matches 2690 run setblock ~ ~ ~ minecraft:brain_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 2691 run setblock ~ ~ ~ minecraft:brain_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 2692 run setblock ~ ~ ~ minecraft:brain_coral_block
+execute if score @s s.crhf.block_id matches 2693 run setblock ~ ~ ~ minecraft:brain_coral_fan[waterlogged=true]
+execute if score @s s.crhf.block_id matches 2694 run setblock ~ ~ ~ minecraft:brain_coral_fan[waterlogged=false]
+execute if score @s s.crhf.block_id matches 2695 run setblock ~ ~ ~ minecraft:brain_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 2696 run setblock ~ ~ ~ minecraft:brain_coral_wall_fan[facing=north,waterlogged=false]

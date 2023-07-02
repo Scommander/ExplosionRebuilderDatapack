@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3286 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3287 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3288 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3289 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_column", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3290 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_column", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3291 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3292 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3293 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3294 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3295 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3296 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3297 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}

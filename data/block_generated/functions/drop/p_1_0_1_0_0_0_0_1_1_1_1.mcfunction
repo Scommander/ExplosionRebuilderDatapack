@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15260 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15264 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15265 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15266 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15267 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15268 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15269 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15270 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15271 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}

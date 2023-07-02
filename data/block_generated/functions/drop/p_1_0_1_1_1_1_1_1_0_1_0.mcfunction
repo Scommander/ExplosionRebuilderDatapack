@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18029 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18030 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18031 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18032 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18033 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18034 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18035 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18036 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18037 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18038 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18039 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18040 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:quartz_stairs", Count: 1b}}

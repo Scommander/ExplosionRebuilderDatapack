@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 9285 run setblock ~ ~ ~ minecraft:gilded_blackstone
+execute if score @s s.crhf.block_id matches 9286 run setblock ~ ~ ~ minecraft:glass
+execute if score @s s.crhf.block_id matches 9287 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 9288 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 9289 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 9290 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 9291 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 9292 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 9293 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 9294 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 9295 run setblock ~ ~ ~ minecraft:glass_pane[east=true,north=false,south=true,waterlogged=true,west=true]

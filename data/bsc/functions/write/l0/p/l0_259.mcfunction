@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8550 run setblock ~ ~ ~ minecraft:oak_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8551 run setblock ~ ~ ~ minecraft:oak_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8552 run setblock ~ ~ ~ minecraft:oak_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8553 run setblock ~ ~ ~ minecraft:oak_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8554 run setblock ~ ~ ~ minecraft:oak_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8555 run setblock ~ ~ ~ minecraft:oak_slab[type=double,waterlogged=false]

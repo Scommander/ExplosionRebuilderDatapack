@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18112 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:raw_copper_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:raw_gold_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:raw_iron_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_banner", Count: 1b}}

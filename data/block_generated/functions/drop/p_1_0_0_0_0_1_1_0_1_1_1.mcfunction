@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 12714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12719 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moving_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12722 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12723 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12724 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12725 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}

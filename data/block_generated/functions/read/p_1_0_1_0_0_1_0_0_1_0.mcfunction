@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=1] run scoreboard players set @s s.crhf.block_id 15559
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=2] run scoreboard players set @s s.crhf.block_id 15560
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=3] run scoreboard players set @s s.crhf.block_id 15561
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=4] run scoreboard players set @s s.crhf.block_id 15562
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=1] run scoreboard players set @s s.crhf.block_id 15563
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=2] run scoreboard players set @s s.crhf.block_id 15564
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=3] run scoreboard players set @s s.crhf.block_id 15565
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=4] run scoreboard players set @s s.crhf.block_id 15566
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=1] run scoreboard players set @s s.crhf.block_id 15567
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=2] run scoreboard players set @s s.crhf.block_id 15568
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=3] run scoreboard players set @s s.crhf.block_id 15569
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=4] run scoreboard players set @s s.crhf.block_id 15570
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=1] run scoreboard players set @s s.crhf.block_id 15571
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=2] run scoreboard players set @s s.crhf.block_id 15572
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=3] run scoreboard players set @s s.crhf.block_id 15573
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=4] run scoreboard players set @s s.crhf.block_id 15574

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15295 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15296 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15297 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15298 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15299 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15300 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15301 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15302 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15303 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15304 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_bed", Count: 1b}}

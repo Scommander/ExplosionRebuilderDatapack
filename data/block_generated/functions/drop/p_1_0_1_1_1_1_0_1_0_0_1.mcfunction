@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17834 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17835 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17836 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17838 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17839 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_bed", Count: 1b}}

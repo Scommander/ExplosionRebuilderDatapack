@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15319 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15320 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15321 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15322 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15323 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15324 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15325 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_concrete", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_concrete_powder", Count: 1b}}

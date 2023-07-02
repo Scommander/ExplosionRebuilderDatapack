@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8176 run setblock ~ ~ ~ minecraft:dropper[facing=up,triggered=true]
+execute if score @s s.crhf.block_id matches 8177 run setblock ~ ~ ~ minecraft:dropper[facing=up,triggered=false]
+execute if score @s s.crhf.block_id matches 8178 run setblock ~ ~ ~ minecraft:dropper[facing=down,triggered=true]
+execute if score @s s.crhf.block_id matches 8179 run setblock ~ ~ ~ minecraft:dropper[facing=down,triggered=false]
+execute if score @s s.crhf.block_id matches 8180 run setblock ~ ~ ~ minecraft:emerald_block
+execute if score @s s.crhf.block_id matches 8181 run setblock ~ ~ ~ minecraft:emerald_ore
+execute if score @s s.crhf.block_id matches 8182 run setblock ~ ~ ~ minecraft:enchanting_table
+execute if score @s s.crhf.block_id matches 8183 run setblock ~ ~ ~ minecraft:end_gateway
+execute if score @s s.crhf.block_id matches 8184 run setblock ~ ~ ~ minecraft:end_portal
+execute if score @s s.crhf.block_id matches 8185 run setblock ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=north]
+execute if score @s s.crhf.block_id matches 8186 run setblock ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=south]
+execute if score @s s.crhf.block_id matches 8187 run setblock ~ ~ ~ minecraft:end_portal_frame[eye=true,facing=west]

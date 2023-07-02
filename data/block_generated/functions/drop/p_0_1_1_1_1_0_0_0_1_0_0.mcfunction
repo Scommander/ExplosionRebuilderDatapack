@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11359 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11360 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11361 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11362 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11363 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11364 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11365 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11366 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11367 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11368 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11369 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_wall_banner", Count: 1b}}

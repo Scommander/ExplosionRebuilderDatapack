@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:observer[facing=north,powered=true] run scoreboard players set @s s.crhf.block_id 15261
+execute if block ~ ~ ~ minecraft:observer[facing=north,powered=false] run scoreboard players set @s s.crhf.block_id 15262
+execute if block ~ ~ ~ minecraft:observer[facing=east,powered=true] run scoreboard players set @s s.crhf.block_id 15263
+execute if block ~ ~ ~ minecraft:observer[facing=east,powered=false] run scoreboard players set @s s.crhf.block_id 15264
+execute if block ~ ~ ~ minecraft:observer[facing=south,powered=true] run scoreboard players set @s s.crhf.block_id 15265
+execute if block ~ ~ ~ minecraft:observer[facing=south,powered=false] run scoreboard players set @s s.crhf.block_id 15266
+execute if block ~ ~ ~ minecraft:observer[facing=west,powered=true] run scoreboard players set @s s.crhf.block_id 15267
+execute if block ~ ~ ~ minecraft:observer[facing=west,powered=false] run scoreboard players set @s s.crhf.block_id 15268
+execute if block ~ ~ ~ minecraft:observer[facing=up,powered=true] run scoreboard players set @s s.crhf.block_id 15269
+execute if block ~ ~ ~ minecraft:observer[facing=up,powered=false] run scoreboard players set @s s.crhf.block_id 15270
+execute if block ~ ~ ~ minecraft:observer[facing=down,powered=true] run scoreboard players set @s s.crhf.block_id 15271
+execute if block ~ ~ ~ minecraft:observer[facing=down,powered=false] run scoreboard players set @s s.crhf.block_id 15272

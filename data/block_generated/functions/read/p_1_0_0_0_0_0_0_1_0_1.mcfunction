@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:lime_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11194
+execute if block ~ ~ ~ minecraft:lime_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11195
+execute if block ~ ~ ~ minecraft:lime_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11196
+execute if block ~ ~ ~ minecraft:lime_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11197
+execute if block ~ ~ ~ minecraft:lime_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11198
+execute if block ~ ~ ~ minecraft:lime_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11199
+execute if block ~ ~ ~ minecraft:lime_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11200
+execute if block ~ ~ ~ minecraft:lime_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11201
+execute if block ~ ~ ~ minecraft:lime_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11202
+execute if block ~ ~ ~ minecraft:lime_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11203
+execute if block ~ ~ ~ minecraft:lime_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11204
+execute if block ~ ~ ~ minecraft:lime_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11205
+execute if block ~ ~ ~ minecraft:lime_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11206
+execute if block ~ ~ ~ minecraft:lime_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11207
+execute if block ~ ~ ~ minecraft:lime_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 11208
+execute if block ~ ~ ~ minecraft:lime_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 11209

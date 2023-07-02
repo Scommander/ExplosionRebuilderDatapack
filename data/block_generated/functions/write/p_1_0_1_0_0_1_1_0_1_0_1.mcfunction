@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15707 run setblock ~ ~ ~ minecraft:pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15708 run setblock ~ ~ ~ minecraft:pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15709 run setblock ~ ~ ~ minecraft:pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15710 run setblock ~ ~ ~ minecraft:pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15711 run setblock ~ ~ ~ minecraft:polished_andesite
+execute if score @s s.crhf.block_id matches 15712 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15713 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15714 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15715 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15716 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15717 run setblock ~ ~ ~ minecraft:polished_andesite_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15718 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=north,half=top,shape=straight,waterlogged=true]

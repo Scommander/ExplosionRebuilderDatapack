@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10003 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10004 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10005 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10006 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10007 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10008 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10009 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10010 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10011 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10012 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10013 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10014 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_candle", Count: 1b}}

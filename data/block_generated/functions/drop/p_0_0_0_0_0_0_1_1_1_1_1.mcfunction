@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 365 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 366 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 367 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 368 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 369 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 370 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 371 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 372 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 373 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 374 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 375 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 376 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_trapdoor", Count: 1b}}

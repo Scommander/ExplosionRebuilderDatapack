@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 930 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 931 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 935 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 936 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 937 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 938 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 939 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 940 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 941 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}

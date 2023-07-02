@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22696 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22697 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22698 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22699 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tinted_glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22700 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tnt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22701 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tnt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22702 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22703 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:torchflower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22704 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:torchflower_crop", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22705 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:torchflower_crop", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:trapped_chest", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2155 run setblock ~ ~ ~ minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 2156 run setblock ~ ~ ~ minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 2157 run setblock ~ ~ ~ minecraft:black_terracotta
+execute if score @s s.crhf.block_id matches 2158 run setblock ~ ~ ~ minecraft:black_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 2159 run setblock ~ ~ ~ minecraft:black_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 2160 run setblock ~ ~ ~ minecraft:black_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 2161 run setblock ~ ~ ~ minecraft:black_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 2162 run setblock ~ ~ ~ minecraft:black_wool
+execute if score @s s.crhf.block_id matches 2163 run setblock ~ ~ ~ minecraft:blackstone
+execute if score @s s.crhf.block_id matches 2164 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 2165 run setblock ~ ~ ~ minecraft:blackstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 2166 run setblock ~ ~ ~ minecraft:blackstone_slab[type=bottom,waterlogged=true]

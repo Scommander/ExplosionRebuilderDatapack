@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15696 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15697 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15698 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15699 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15700 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15701 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15702 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15703 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15704 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15705 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}

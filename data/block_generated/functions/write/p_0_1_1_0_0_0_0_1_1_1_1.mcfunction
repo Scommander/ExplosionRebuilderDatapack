@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9226 run setblock ~ ~ ~ minecraft:fire[age=15,east=false,north=false,south=false,up=false,west=true]
+execute if score @s s.crhf.block_id matches 9227 run setblock ~ ~ ~ minecraft:fire[age=15,east=false,north=false,south=false,up=false,west=false]
+execute if score @s s.crhf.block_id matches 9228 run setblock ~ ~ ~ minecraft:fire_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 9229 run setblock ~ ~ ~ minecraft:fire_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 9230 run setblock ~ ~ ~ minecraft:fire_coral_block
+execute if score @s s.crhf.block_id matches 9231 run setblock ~ ~ ~ minecraft:fire_coral_fan[waterlogged=true]
+execute if score @s s.crhf.block_id matches 9232 run setblock ~ ~ ~ minecraft:fire_coral_fan[waterlogged=false]
+execute if score @s s.crhf.block_id matches 9233 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9234 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9235 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9236 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9237 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=true]

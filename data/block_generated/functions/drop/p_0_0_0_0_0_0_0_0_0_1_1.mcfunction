@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 35 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 36 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 37 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 38 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 39 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 40 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 41 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 42 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 43 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 44 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 45 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 46 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_door", Count: 1b}}

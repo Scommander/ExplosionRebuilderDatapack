@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9909 run setblock ~ ~ ~ minecraft:gray_candle[candles=4,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9910 run setblock ~ ~ ~ minecraft:gray_candle[candles=4,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9911 run setblock ~ ~ ~ minecraft:gray_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9912 run setblock ~ ~ ~ minecraft:gray_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9913 run setblock ~ ~ ~ minecraft:gray_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 9914 run setblock ~ ~ ~ minecraft:gray_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 9915 run setblock ~ ~ ~ minecraft:gray_carpet
+execute if score @s s.crhf.block_id matches 9916 run setblock ~ ~ ~ minecraft:gray_concrete
+execute if score @s s.crhf.block_id matches 9917 run setblock ~ ~ ~ minecraft:gray_concrete_powder
+execute if score @s s.crhf.block_id matches 9918 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 9919 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 9920 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=west]

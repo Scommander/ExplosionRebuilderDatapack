@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17145 run setblock ~ ~ ~ minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17146 run setblock ~ ~ ~ minecraft:polished_diorite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17147 run setblock ~ ~ ~ minecraft:polished_granite
+execute if score @s s.crhf.block_id matches 17148 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17149 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17150 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17151 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17152 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17153 run setblock ~ ~ ~ minecraft:polished_granite_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17154 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17155 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17156 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 21212 run setblock ~ ~ ~ minecraft:skeleton_skull[rotation=11]
+execute if score @s s.crhf.block_id matches 21213 run setblock ~ ~ ~ minecraft:skeleton_skull[rotation=12]
+execute if score @s s.crhf.block_id matches 21214 run setblock ~ ~ ~ minecraft:skeleton_skull[rotation=13]
+execute if score @s s.crhf.block_id matches 21215 run setblock ~ ~ ~ minecraft:skeleton_skull[rotation=14]
+execute if score @s s.crhf.block_id matches 21216 run setblock ~ ~ ~ minecraft:skeleton_skull[rotation=15]
+execute if score @s s.crhf.block_id matches 21217 run setblock ~ ~ ~ minecraft:skeleton_wall_skull[facing=north]
+execute if score @s s.crhf.block_id matches 21218 run setblock ~ ~ ~ minecraft:skeleton_wall_skull[facing=south]
+execute if score @s s.crhf.block_id matches 21219 run setblock ~ ~ ~ minecraft:skeleton_wall_skull[facing=west]
+execute if score @s s.crhf.block_id matches 21220 run setblock ~ ~ ~ minecraft:skeleton_wall_skull[facing=east]
+execute if score @s s.crhf.block_id matches 21221 run setblock ~ ~ ~ minecraft:slime_block
+execute if score @s s.crhf.block_id matches 21222 run setblock ~ ~ ~ minecraft:small_amethyst_bud[facing=north,waterlogged=true]

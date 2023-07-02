@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3817 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3818 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3819 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3820 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3821 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3822 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3823 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3824 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3825 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3826 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}

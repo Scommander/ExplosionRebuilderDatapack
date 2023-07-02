@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 21542 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21546 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21547 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21548 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21549 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21550 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21551 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21552 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}

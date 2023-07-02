@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 471 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 472 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 473 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:air", Count: 1b}}
+execute if score @s s.crhf.block_id matches 478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:allium", Count: 1b}}
+execute if score @s s.crhf.block_id matches 479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}

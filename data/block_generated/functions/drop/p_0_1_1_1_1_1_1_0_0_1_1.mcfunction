@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11919 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11920 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11921 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11922 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11923 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11924 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone_stairs", Count: 1b}}

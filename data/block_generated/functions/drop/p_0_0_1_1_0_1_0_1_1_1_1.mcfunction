@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5078 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5079 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5080 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5081 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5082 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5084 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5085 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5086 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5087 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5088 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_stairs", Count: 1b}}

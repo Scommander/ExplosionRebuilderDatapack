@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20539 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20540 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20541 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20542 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20546 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20547 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20548 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20549 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20550 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sandstone_stairs", Count: 1b}}

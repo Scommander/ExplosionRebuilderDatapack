@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11842 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11843 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11844 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11845 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11846 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11847 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11848 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11849 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11850 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11851 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11852 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11853 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_wall_hanging_sign", Count: 1b}}

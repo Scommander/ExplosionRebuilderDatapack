@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5536 run setblock ~ ~ ~ minecraft:composter[level=5]
+execute if score @s s.crhf.block_id matches 5537 run setblock ~ ~ ~ minecraft:composter[level=6]
+execute if score @s s.crhf.block_id matches 5538 run setblock ~ ~ ~ minecraft:composter[level=7]
+execute if score @s s.crhf.block_id matches 5539 run setblock ~ ~ ~ minecraft:composter[level=8]
+execute if score @s s.crhf.block_id matches 5540 run setblock ~ ~ ~ minecraft:conduit[waterlogged=true]
+execute if score @s s.crhf.block_id matches 5541 run setblock ~ ~ ~ minecraft:conduit[waterlogged=false]
+execute if score @s s.crhf.block_id matches 5542 run setblock ~ ~ ~ minecraft:copper_block
+execute if score @s s.crhf.block_id matches 5543 run setblock ~ ~ ~ minecraft:copper_ore
+execute if score @s s.crhf.block_id matches 5544 run setblock ~ ~ ~ minecraft:cornflower
+execute if score @s s.crhf.block_id matches 5545 run setblock ~ ~ ~ minecraft:cracked_deepslate_bricks
+execute if score @s s.crhf.block_id matches 5546 run setblock ~ ~ ~ minecraft:cracked_deepslate_tiles
+execute if score @s s.crhf.block_id matches 5547 run setblock ~ ~ ~ minecraft:cracked_nether_bricks

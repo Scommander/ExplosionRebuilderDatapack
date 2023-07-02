@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23179 run setblock ~ ~ ~ minecraft:warped_hanging_sign[attached=false,rotation=13,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23180 run setblock ~ ~ ~ minecraft:warped_hanging_sign[attached=false,rotation=14,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23181 run setblock ~ ~ ~ minecraft:warped_hanging_sign[attached=false,rotation=14,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23182 run setblock ~ ~ ~ minecraft:warped_hanging_sign[attached=false,rotation=15,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23183 run setblock ~ ~ ~ minecraft:warped_hanging_sign[attached=false,rotation=15,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23184 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=x]
+execute if score @s s.crhf.block_id matches 23185 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=y]
+execute if score @s s.crhf.block_id matches 23186 run setblock ~ ~ ~ minecraft:warped_hyphae[axis=z]
+execute if score @s s.crhf.block_id matches 23187 run setblock ~ ~ ~ minecraft:warped_nylium
+execute if score @s s.crhf.block_id matches 23188 run setblock ~ ~ ~ minecraft:warped_planks
+execute if score @s s.crhf.block_id matches 23189 run setblock ~ ~ ~ minecraft:warped_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 23190 run setblock ~ ~ ~ minecraft:warped_pressure_plate[powered=false]

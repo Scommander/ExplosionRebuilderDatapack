@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10484 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_hanging_sign", Count: 1b}}

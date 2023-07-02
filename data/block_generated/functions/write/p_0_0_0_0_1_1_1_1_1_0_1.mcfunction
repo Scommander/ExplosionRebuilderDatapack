@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1472 run setblock ~ ~ ~ minecraft:barrel[facing=west,open=true]
+execute if score @s s.crhf.block_id matches 1473 run setblock ~ ~ ~ minecraft:barrel[facing=west,open=false]
+execute if score @s s.crhf.block_id matches 1474 run setblock ~ ~ ~ minecraft:barrel[facing=up,open=true]
+execute if score @s s.crhf.block_id matches 1475 run setblock ~ ~ ~ minecraft:barrel[facing=up,open=false]
+execute if score @s s.crhf.block_id matches 1476 run setblock ~ ~ ~ minecraft:barrel[facing=down,open=true]
+execute if score @s s.crhf.block_id matches 1477 run setblock ~ ~ ~ minecraft:barrel[facing=down,open=false]
+execute if score @s s.crhf.block_id matches 1478 run setblock ~ ~ ~ minecraft:barrier
+execute if score @s s.crhf.block_id matches 1479 run setblock ~ ~ ~ minecraft:basalt[axis=x]
+execute if score @s s.crhf.block_id matches 1480 run setblock ~ ~ ~ minecraft:basalt[axis=y]
+execute if score @s s.crhf.block_id matches 1481 run setblock ~ ~ ~ minecraft:basalt[axis=z]
+execute if score @s s.crhf.block_id matches 1482 run setblock ~ ~ ~ minecraft:beacon
+execute if score @s s.crhf.block_id matches 1483 run setblock ~ ~ ~ minecraft:bedrock

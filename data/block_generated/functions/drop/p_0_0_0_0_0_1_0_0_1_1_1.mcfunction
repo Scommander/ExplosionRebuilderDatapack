@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 459 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 460 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 461 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 462 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 463 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 464 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 465 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 466 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 467 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 468 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 469 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 470 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17227 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17228 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17229 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17230 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17231 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17232 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17233 run setblock ~ ~ ~ minecraft:polished_granite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17234 run setblock ~ ~ ~ minecraft:poppy
+execute if score @s s.crhf.block_id matches 17235 run setblock ~ ~ ~ minecraft:potatoes[age=0]
+execute if score @s s.crhf.block_id matches 17236 run setblock ~ ~ ~ minecraft:potatoes[age=1]
+execute if score @s s.crhf.block_id matches 17237 run setblock ~ ~ ~ minecraft:potatoes[age=2]
+execute if score @s s.crhf.block_id matches 17238 run setblock ~ ~ ~ minecraft:potatoes[age=3]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21411 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21412 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21413 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21414 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21415 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21416 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21417 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21418 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21419 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21420 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21421 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21422 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smooth_red_sandstone_stairs", Count: 1b}}

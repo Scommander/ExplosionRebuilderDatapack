@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 286 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 287 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 288 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 289 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 290 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 291 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 292 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_stairs", Count: 1b}}

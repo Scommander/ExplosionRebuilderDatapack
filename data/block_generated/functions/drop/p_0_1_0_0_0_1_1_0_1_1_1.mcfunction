@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6682 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6683 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6684 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6685 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6686 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6687 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6688 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6689 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6690 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6691 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}

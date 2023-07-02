@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 14953 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14954 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14955 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14956 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14957 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14958 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14959 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14960 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14961 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14962 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14963 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14964 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_hanging_sign", Count: 1b}}

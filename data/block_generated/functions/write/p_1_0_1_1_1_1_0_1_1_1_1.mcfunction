@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17900 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 17901 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 17902 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 17903 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 17904 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 17905 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 17906 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 17907 run setblock ~ ~ ~ minecraft:purple_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 17908 run setblock ~ ~ ~ minecraft:purple_terracotta
+execute if score @s s.crhf.block_id matches 17909 run setblock ~ ~ ~ minecraft:purple_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 17910 run setblock ~ ~ ~ minecraft:purple_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 17911 run setblock ~ ~ ~ minecraft:purple_wall_banner[facing=west]

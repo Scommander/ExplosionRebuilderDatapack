@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10840 run setblock ~ ~ ~ minecraft:lava[level=15]
+execute if score @s s.crhf.block_id matches 10841 run setblock ~ ~ ~ minecraft:lava_cauldron
+execute if score @s s.crhf.block_id matches 10842 run setblock ~ ~ ~ minecraft:lectern[facing=north,has_book=true,powered=true]
+execute if score @s s.crhf.block_id matches 10843 run setblock ~ ~ ~ minecraft:lectern[facing=north,has_book=true,powered=false]
+execute if score @s s.crhf.block_id matches 10844 run setblock ~ ~ ~ minecraft:lectern[facing=north,has_book=false,powered=true]
+execute if score @s s.crhf.block_id matches 10845 run setblock ~ ~ ~ minecraft:lectern[facing=north,has_book=false,powered=false]
+execute if score @s s.crhf.block_id matches 10846 run setblock ~ ~ ~ minecraft:lectern[facing=south,has_book=true,powered=true]
+execute if score @s s.crhf.block_id matches 10847 run setblock ~ ~ ~ minecraft:lectern[facing=south,has_book=true,powered=false]
+execute if score @s s.crhf.block_id matches 10848 run setblock ~ ~ ~ minecraft:lectern[facing=south,has_book=false,powered=true]
+execute if score @s s.crhf.block_id matches 10849 run setblock ~ ~ ~ minecraft:lectern[facing=south,has_book=false,powered=false]
+execute if score @s s.crhf.block_id matches 10850 run setblock ~ ~ ~ minecraft:lectern[facing=west,has_book=true,powered=true]

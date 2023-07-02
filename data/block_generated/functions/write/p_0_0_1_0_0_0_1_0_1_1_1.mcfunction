@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3286 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 3287 run setblock ~ ~ ~ minecraft:brown_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 3288 run setblock ~ ~ ~ minecraft:brown_wool
+execute if score @s s.crhf.block_id matches 3289 run setblock ~ ~ ~ minecraft:bubble_column[drag=true]
+execute if score @s s.crhf.block_id matches 3290 run setblock ~ ~ ~ minecraft:bubble_column[drag=false]
+execute if score @s s.crhf.block_id matches 3291 run setblock ~ ~ ~ minecraft:bubble_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 3292 run setblock ~ ~ ~ minecraft:bubble_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 3293 run setblock ~ ~ ~ minecraft:bubble_coral_block
+execute if score @s s.crhf.block_id matches 3294 run setblock ~ ~ ~ minecraft:bubble_coral_fan[waterlogged=true]
+execute if score @s s.crhf.block_id matches 3295 run setblock ~ ~ ~ minecraft:bubble_coral_fan[waterlogged=false]
+execute if score @s s.crhf.block_id matches 3296 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3297 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=north,waterlogged=false]

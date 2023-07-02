@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6798 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6799 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6800 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6801 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6802 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6803 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6804 run setblock ~ ~ ~ minecraft:dead_bush
+execute if score @s s.crhf.block_id matches 6805 run setblock ~ ~ ~ minecraft:dead_fire_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 6806 run setblock ~ ~ ~ minecraft:dead_fire_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 6807 run setblock ~ ~ ~ minecraft:dead_fire_coral_block
+execute if score @s s.crhf.block_id matches 6808 run setblock ~ ~ ~ minecraft:dead_fire_coral_fan[waterlogged=true]
+execute if score @s s.crhf.block_id matches 6809 run setblock ~ ~ ~ minecraft:dead_fire_coral_fan[waterlogged=false]

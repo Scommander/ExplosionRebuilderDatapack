@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22872 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire_hook", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22873 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tripwire_hook", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22874 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22875 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22876 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22877 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22878 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22879 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22880 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22881 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22882 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22883 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}

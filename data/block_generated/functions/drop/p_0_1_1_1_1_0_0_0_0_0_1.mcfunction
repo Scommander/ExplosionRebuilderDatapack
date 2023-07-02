@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11323 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11324 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11325 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11333 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11334 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_stained_glass_pane", Count: 1b}}

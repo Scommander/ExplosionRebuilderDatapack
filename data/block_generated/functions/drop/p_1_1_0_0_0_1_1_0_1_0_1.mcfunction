@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18724 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18725 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18726 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18727 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18728 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18729 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18730 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18731 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18732 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18733 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18734 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18735 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_stairs", Count: 1b}}

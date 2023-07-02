@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sea_pickle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sea_pickle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sea_pickle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sea_pickle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sea_pickle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:seagrass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shroomlight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}

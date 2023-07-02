@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11866 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11867 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11868 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11869 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11870 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11871 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11872 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11873 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11874 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11875 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11876 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:medium_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11877 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon", Count: 1b}}

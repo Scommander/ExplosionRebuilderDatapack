@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3321 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3322 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3323 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3324 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3325 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calcite", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}

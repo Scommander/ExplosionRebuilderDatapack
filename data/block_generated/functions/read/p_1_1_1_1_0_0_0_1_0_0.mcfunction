@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:water[level=0] run scoreboard players set @s s.crhf.block_id 23394
+execute if block ~ ~ ~ minecraft:water[level=1] run scoreboard players set @s s.crhf.block_id 23395
+execute if block ~ ~ ~ minecraft:water[level=2] run scoreboard players set @s s.crhf.block_id 23396
+execute if block ~ ~ ~ minecraft:water[level=3] run scoreboard players set @s s.crhf.block_id 23397
+execute if block ~ ~ ~ minecraft:water[level=4] run scoreboard players set @s s.crhf.block_id 23398
+execute if block ~ ~ ~ minecraft:water[level=5] run scoreboard players set @s s.crhf.block_id 23399
+execute if block ~ ~ ~ minecraft:water[level=6] run scoreboard players set @s s.crhf.block_id 23400
+execute if block ~ ~ ~ minecraft:water[level=7] run scoreboard players set @s s.crhf.block_id 23401
+execute if block ~ ~ ~ minecraft:water[level=8] run scoreboard players set @s s.crhf.block_id 23402
+execute if block ~ ~ ~ minecraft:water[level=9] run scoreboard players set @s s.crhf.block_id 23403
+execute if block ~ ~ ~ minecraft:water[level=10] run scoreboard players set @s s.crhf.block_id 23404
+execute if block ~ ~ ~ minecraft:water[level=11] run scoreboard players set @s s.crhf.block_id 23405
+execute if block ~ ~ ~ minecraft:water[level=12] run scoreboard players set @s s.crhf.block_id 23406
+execute if block ~ ~ ~ minecraft:water[level=13] run scoreboard players set @s s.crhf.block_id 23407
+execute if block ~ ~ ~ minecraft:water[level=14] run scoreboard players set @s s.crhf.block_id 23408
+execute if block ~ ~ ~ minecraft:water[level=15] run scoreboard players set @s s.crhf.block_id 23409

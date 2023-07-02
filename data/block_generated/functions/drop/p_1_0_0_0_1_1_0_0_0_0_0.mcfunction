@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 13198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mycelium", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13202 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mycelium", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13203 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13204 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13205 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13206 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13207 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13208 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_fence", Count: 1b}}

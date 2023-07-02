@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6656 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=x]
+execute if score @s s.crhf.block_id matches 6657 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=y]
+execute if score @s s.crhf.block_id matches 6658 run setblock ~ ~ ~ minecraft:dark_oak_wood[axis=z]
+execute if score @s s.crhf.block_id matches 6659 run setblock ~ ~ ~ minecraft:dark_prismarine
+execute if score @s s.crhf.block_id matches 6660 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6661 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6662 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6663 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6664 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6665 run setblock ~ ~ ~ minecraft:dark_prismarine_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6666 run setblock ~ ~ ~ minecraft:dark_prismarine_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6667 run setblock ~ ~ ~ minecraft:dark_prismarine_stairs[facing=north,half=top,shape=straight,waterlogged=false]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15389 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15390 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15391 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15392 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15393 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15394 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15395 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15396 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15397 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15398 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15399 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15400 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_stairs", Count: 1b}}

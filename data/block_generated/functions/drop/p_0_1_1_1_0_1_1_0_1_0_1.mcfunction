@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11181 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11182 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11183 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11184 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}

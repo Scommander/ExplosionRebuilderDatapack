@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11111 run setblock ~ ~ ~ minecraft:light_gray_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 11112 run setblock ~ ~ ~ minecraft:light_gray_terracotta
+execute if score @s s.crhf.block_id matches 11113 run setblock ~ ~ ~ minecraft:light_gray_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 11114 run setblock ~ ~ ~ minecraft:light_gray_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 11115 run setblock ~ ~ ~ minecraft:light_gray_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 11116 run setblock ~ ~ ~ minecraft:light_gray_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 11117 run setblock ~ ~ ~ minecraft:light_gray_wool
+execute if score @s s.crhf.block_id matches 11118 run setblock ~ ~ ~ minecraft:light_weighted_pressure_plate[power=0]
+execute if score @s s.crhf.block_id matches 11119 run setblock ~ ~ ~ minecraft:light_weighted_pressure_plate[power=1]
+execute if score @s s.crhf.block_id matches 11120 run setblock ~ ~ ~ minecraft:light_weighted_pressure_plate[power=2]
+execute if score @s s.crhf.block_id matches 11121 run setblock ~ ~ ~ minecraft:light_weighted_pressure_plate[power=3]
+execute if score @s s.crhf.block_id matches 11122 run setblock ~ ~ ~ minecraft:light_weighted_pressure_plate[power=4]

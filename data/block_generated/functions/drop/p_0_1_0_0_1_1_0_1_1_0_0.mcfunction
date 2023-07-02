@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 7305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7315 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_tile_stairs", Count: 1b}}

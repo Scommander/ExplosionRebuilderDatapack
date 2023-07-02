@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4582 run setblock ~ ~ ~ minecraft:chiseled_bookshelf[facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false]
+execute if score @s s.crhf.block_id matches 4583 run setblock ~ ~ ~ minecraft:chiseled_bookshelf[facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true]
+execute if score @s s.crhf.block_id matches 4584 run setblock ~ ~ ~ minecraft:chiseled_bookshelf[facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false]
+execute if score @s s.crhf.block_id matches 4585 run setblock ~ ~ ~ minecraft:chiseled_bookshelf[facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true]
+execute if score @s s.crhf.block_id matches 4586 run setblock ~ ~ ~ minecraft:chiseled_bookshelf[facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false]
+execute if score @s s.crhf.block_id matches 4587 run setblock ~ ~ ~ minecraft:chiseled_deepslate
+execute if score @s s.crhf.block_id matches 4588 run setblock ~ ~ ~ minecraft:chiseled_nether_bricks
+execute if score @s s.crhf.block_id matches 4589 run setblock ~ ~ ~ minecraft:chiseled_polished_blackstone
+execute if score @s s.crhf.block_id matches 4590 run setblock ~ ~ ~ minecraft:chiseled_quartz_block
+execute if score @s s.crhf.block_id matches 4591 run setblock ~ ~ ~ minecraft:chiseled_red_sandstone
+execute if score @s s.crhf.block_id matches 4592 run setblock ~ ~ ~ minecraft:chiseled_sandstone
+execute if score @s s.crhf.block_id matches 4593 run setblock ~ ~ ~ minecraft:chiseled_stone_bricks

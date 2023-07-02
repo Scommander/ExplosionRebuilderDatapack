@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=north,waterlogged=true] run scoreboard players set @s s.crhf.block_id 480
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=north,waterlogged=false] run scoreboard players set @s s.crhf.block_id 481
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=east,waterlogged=true] run scoreboard players set @s s.crhf.block_id 482
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=east,waterlogged=false] run scoreboard players set @s s.crhf.block_id 483
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=south,waterlogged=true] run scoreboard players set @s s.crhf.block_id 484
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=south,waterlogged=false] run scoreboard players set @s s.crhf.block_id 485
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=west,waterlogged=true] run scoreboard players set @s s.crhf.block_id 486
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=west,waterlogged=false] run scoreboard players set @s s.crhf.block_id 487
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=up,waterlogged=true] run scoreboard players set @s s.crhf.block_id 488
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=up,waterlogged=false] run scoreboard players set @s s.crhf.block_id 489
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=down,waterlogged=true] run scoreboard players set @s s.crhf.block_id 490
+execute if block ~ ~ ~ minecraft:amethyst_cluster[facing=down,waterlogged=false] run scoreboard players set @s s.crhf.block_id 491

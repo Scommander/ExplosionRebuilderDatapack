@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15036 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15037 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15038 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15039 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15040 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15041 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15042 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15043 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15044 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15045 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15046 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15047 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}

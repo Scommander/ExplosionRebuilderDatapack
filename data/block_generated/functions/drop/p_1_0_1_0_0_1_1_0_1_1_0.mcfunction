@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15719 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15722 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15723 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15724 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15725 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15726 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15727 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15728 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15729 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15730 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}

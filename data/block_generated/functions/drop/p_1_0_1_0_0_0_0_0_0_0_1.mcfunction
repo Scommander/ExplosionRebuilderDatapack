@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15095 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15096 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15097 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15098 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15099 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15100 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_stairs", Count: 1b}}

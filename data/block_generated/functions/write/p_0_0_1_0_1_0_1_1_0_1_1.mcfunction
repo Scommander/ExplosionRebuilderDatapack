@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4087 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=6,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 4088 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=6,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 4089 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=6,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 4090 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=7,persistent=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 4091 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=7,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 4092 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=7,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 4093 run setblock ~ ~ ~ minecraft:cherry_leaves[distance=7,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 4094 run setblock ~ ~ ~ minecraft:cherry_log[axis=x]
+execute if score @s s.crhf.block_id matches 4095 run setblock ~ ~ ~ minecraft:cherry_log[axis=y]
+execute if score @s s.crhf.block_id matches 4096 run setblock ~ ~ ~ minecraft:cherry_log[axis=z]
+execute if score @s s.crhf.block_id matches 4097 run setblock ~ ~ ~ minecraft:cherry_planks
+execute if score @s s.crhf.block_id matches 4098 run setblock ~ ~ ~ minecraft:cherry_pressure_plate[powered=true]

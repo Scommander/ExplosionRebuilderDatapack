@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10062 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:green_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}

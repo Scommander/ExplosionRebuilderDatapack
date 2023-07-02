@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:damaged_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6202 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:damaged_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6203 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:damaged_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6204 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:damaged_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6205 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dandelion", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6206 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6207 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6208 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_button", Count: 1b}}

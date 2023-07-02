@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15461 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15462 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15463 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15464 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15465 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15466 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15467 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15468 run setblock ~ ~ ~ minecraft:oxidized_cut_copper_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15469 run setblock ~ ~ ~ minecraft:packed_ice
+execute if score @s s.crhf.block_id matches 15470 run setblock ~ ~ ~ minecraft:packed_mud
+execute if score @s s.crhf.block_id matches 15471 run setblock ~ ~ ~ minecraft:pearlescent_froglight[axis=x]

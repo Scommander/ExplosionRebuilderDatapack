@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=true] run scoreboard players set @s s.crhf.block_id 8133
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=false] run scoreboard players set @s s.crhf.block_id 8134
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=true] run scoreboard players set @s s.crhf.block_id 8135
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=false] run scoreboard players set @s s.crhf.block_id 8136
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=true] run scoreboard players set @s s.crhf.block_id 8137
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=false] run scoreboard players set @s s.crhf.block_id 8138
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=true] run scoreboard players set @s s.crhf.block_id 8139
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=false] run scoreboard players set @s s.crhf.block_id 8140
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=true] run scoreboard players set @s s.crhf.block_id 8141
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=false] run scoreboard players set @s s.crhf.block_id 8142
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=true] run scoreboard players set @s s.crhf.block_id 8143
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=false] run scoreboard players set @s s.crhf.block_id 8144

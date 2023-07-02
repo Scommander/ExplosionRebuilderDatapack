@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18183 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18184 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_mushroom_block", Count: 1b}}

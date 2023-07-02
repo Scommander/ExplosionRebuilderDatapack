@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6656 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6657 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6658 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6659 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6660 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6661 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6662 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6663 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6664 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6665 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6666 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6667 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_prismarine_stairs", Count: 1b}}

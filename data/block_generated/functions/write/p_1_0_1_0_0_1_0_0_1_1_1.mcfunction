@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15543 run setblock ~ ~ ~ minecraft:pink_candle[candles=3,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15544 run setblock ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15545 run setblock ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15546 run setblock ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15547 run setblock ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15548 run setblock ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15549 run setblock ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15550 run setblock ~ ~ ~ minecraft:pink_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 15551 run setblock ~ ~ ~ minecraft:pink_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 15552 run setblock ~ ~ ~ minecraft:pink_carpet
+execute if score @s s.crhf.block_id matches 15553 run setblock ~ ~ ~ minecraft:pink_concrete
+execute if score @s s.crhf.block_id matches 15554 run setblock ~ ~ ~ minecraft:pink_concrete_powder

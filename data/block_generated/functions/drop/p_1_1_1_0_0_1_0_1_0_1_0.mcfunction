@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21612 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21621 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21622 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21623 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_door", Count: 1b}}

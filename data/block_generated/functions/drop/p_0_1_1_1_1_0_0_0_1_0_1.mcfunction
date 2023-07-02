@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11370 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11371 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magma_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11372 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11373 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11374 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11375 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11376 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11377 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11378 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11379 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11380 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11381 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_button", Count: 1b}}

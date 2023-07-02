@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10558 run setblock ~ ~ ~ minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 10559 run setblock ~ ~ ~ minecraft:jungle_leaves[distance=7,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10560 run setblock ~ ~ ~ minecraft:jungle_leaves[distance=7,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 10561 run setblock ~ ~ ~ minecraft:jungle_log[axis=x]
+execute if score @s s.crhf.block_id matches 10562 run setblock ~ ~ ~ minecraft:jungle_log[axis=y]
+execute if score @s s.crhf.block_id matches 10563 run setblock ~ ~ ~ minecraft:jungle_log[axis=z]
+execute if score @s s.crhf.block_id matches 10564 run setblock ~ ~ ~ minecraft:jungle_planks
+execute if score @s s.crhf.block_id matches 10565 run setblock ~ ~ ~ minecraft:jungle_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 10566 run setblock ~ ~ ~ minecraft:jungle_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 10567 run setblock ~ ~ ~ minecraft:jungle_sapling[stage=0]
+execute if score @s s.crhf.block_id matches 10568 run setblock ~ ~ ~ minecraft:jungle_sapling[stage=1]

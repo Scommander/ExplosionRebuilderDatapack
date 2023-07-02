@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6421 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6422 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6423 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6424 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6425 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6426 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6427 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6428 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6429 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6430 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6431 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6432 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_leaves", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3315 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3316 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3317 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3318 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3319 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3320 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}

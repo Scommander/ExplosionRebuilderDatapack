@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6763 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6764 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6765 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6766 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6767 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6768 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6769 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6770 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6771 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6772 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6773 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6774 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}

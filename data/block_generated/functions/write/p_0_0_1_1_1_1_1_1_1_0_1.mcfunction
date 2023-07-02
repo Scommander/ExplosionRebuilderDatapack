@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5997 run setblock ~ ~ ~ minecraft:crying_obsidian
+execute if score @s s.crhf.block_id matches 5998 run setblock ~ ~ ~ minecraft:cut_copper
+execute if score @s s.crhf.block_id matches 5999 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6000 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6001 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6002 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6003 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6004 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6005 run setblock ~ ~ ~ minecraft:cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6006 run setblock ~ ~ ~ minecraft:cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6007 run setblock ~ ~ ~ minecraft:cut_copper_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6008 run setblock ~ ~ ~ minecraft:cut_copper_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]

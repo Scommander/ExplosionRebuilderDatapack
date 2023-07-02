@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22884 run setblock ~ ~ ~ minecraft:tube_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 22885 run setblock ~ ~ ~ minecraft:tube_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 22886 run setblock ~ ~ ~ minecraft:tube_coral_wall_fan[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 22887 run setblock ~ ~ ~ minecraft:tuff
+execute if score @s s.crhf.block_id matches 22888 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=0]
+execute if score @s s.crhf.block_id matches 22889 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=1]
+execute if score @s s.crhf.block_id matches 22890 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=2]
+execute if score @s s.crhf.block_id matches 22891 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=0]
+execute if score @s s.crhf.block_id matches 22892 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=1]
+execute if score @s s.crhf.block_id matches 22893 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=2]
+execute if score @s s.crhf.block_id matches 22894 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=0]
+execute if score @s s.crhf.block_id matches 22895 run setblock ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=1]

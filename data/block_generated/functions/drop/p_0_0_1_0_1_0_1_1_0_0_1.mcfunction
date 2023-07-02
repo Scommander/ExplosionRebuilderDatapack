@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_leaves", Count: 1b}}

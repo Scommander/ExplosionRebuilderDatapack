@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3922 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3923 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3924 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3925 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3926 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3927 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3928 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3929 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3930 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3931 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}

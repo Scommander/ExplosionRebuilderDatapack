@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23579 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23580 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23581 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23582 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23583 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23584 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23585 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23586 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23587 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 23588 run setblock ~ ~ ~ minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 23589 run setblock ~ ~ ~ minecraft:waxed_oxidized_copper
+execute if score @s s.crhf.block_id matches 23590 run setblock ~ ~ ~ minecraft:waxed_oxidized_cut_copper

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6822 run setblock ~ ~ ~ minecraft:dead_horn_coral_fan[waterlogged=false]
+execute if score @s s.crhf.block_id matches 6823 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6824 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6825 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6826 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6827 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6828 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6829 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6830 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6831 run setblock ~ ~ ~ minecraft:dead_tube_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 6832 run setblock ~ ~ ~ minecraft:dead_tube_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 6833 run setblock ~ ~ ~ minecraft:dead_tube_coral_block

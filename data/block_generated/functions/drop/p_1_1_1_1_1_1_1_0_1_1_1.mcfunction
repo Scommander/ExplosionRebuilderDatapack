@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24028 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24029 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24030 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24031 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24032 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24033 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24034 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24035 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24036 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24037 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24038 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24039 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_bed", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 4052 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4053 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4054 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4055 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4056 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4057 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4058 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4059 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4060 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4061 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4062 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_hanging_sign", Count: 1b}}

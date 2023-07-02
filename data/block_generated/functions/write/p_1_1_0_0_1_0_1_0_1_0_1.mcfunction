@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19101 run setblock ~ ~ ~ minecraft:red_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 19102 run setblock ~ ~ ~ minecraft:red_terracotta
+execute if score @s s.crhf.block_id matches 19103 run setblock ~ ~ ~ minecraft:red_tulip
+execute if score @s s.crhf.block_id matches 19104 run setblock ~ ~ ~ minecraft:red_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 19105 run setblock ~ ~ ~ minecraft:red_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 19106 run setblock ~ ~ ~ minecraft:red_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 19107 run setblock ~ ~ ~ minecraft:red_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 19108 run setblock ~ ~ ~ minecraft:red_wool
+execute if score @s s.crhf.block_id matches 19109 run setblock ~ ~ ~ minecraft:redstone_block
+execute if score @s s.crhf.block_id matches 19110 run setblock ~ ~ ~ minecraft:redstone_lamp[lit=true]
+execute if score @s s.crhf.block_id matches 19111 run setblock ~ ~ ~ minecraft:redstone_lamp[lit=false]
+execute if score @s s.crhf.block_id matches 19112 run setblock ~ ~ ~ minecraft:redstone_ore[lit=true]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5784 run setblock ~ ~ ~ minecraft:crimson_hanging_sign[attached=false,rotation=14,waterlogged=true]
+execute if score @s s.crhf.block_id matches 5785 run setblock ~ ~ ~ minecraft:crimson_hanging_sign[attached=false,rotation=14,waterlogged=false]
+execute if score @s s.crhf.block_id matches 5786 run setblock ~ ~ ~ minecraft:crimson_hanging_sign[attached=false,rotation=15,waterlogged=true]
+execute if score @s s.crhf.block_id matches 5787 run setblock ~ ~ ~ minecraft:crimson_hanging_sign[attached=false,rotation=15,waterlogged=false]
+execute if score @s s.crhf.block_id matches 5788 run setblock ~ ~ ~ minecraft:crimson_hyphae[axis=x]
+execute if score @s s.crhf.block_id matches 5789 run setblock ~ ~ ~ minecraft:crimson_hyphae[axis=y]
+execute if score @s s.crhf.block_id matches 5790 run setblock ~ ~ ~ minecraft:crimson_hyphae[axis=z]
+execute if score @s s.crhf.block_id matches 5791 run setblock ~ ~ ~ minecraft:crimson_nylium
+execute if score @s s.crhf.block_id matches 5792 run setblock ~ ~ ~ minecraft:crimson_planks
+execute if score @s s.crhf.block_id matches 5793 run setblock ~ ~ ~ minecraft:crimson_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 5794 run setblock ~ ~ ~ minecraft:crimson_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 5795 run setblock ~ ~ ~ minecraft:crimson_roots

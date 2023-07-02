@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 23851 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weathered_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23852 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weathered_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23853 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23854 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23855 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23856 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23857 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23858 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23859 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23860 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:weeping_vines", Count: 1b}}

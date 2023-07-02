@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 3834 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=north,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3835 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=north,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3836 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=south,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3837 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=south,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3838 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=west,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3839 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=west,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3840 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=east,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3841 run setblock ~ ~ ~ minecraft:jungle_wall_sign[facing=east,waterlogged=false]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7717 run setblock ~ ~ ~ minecraft:detector_rail[powered=false,shape=ascending_south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7718 run setblock ~ ~ ~ minecraft:diamond_block
+execute if score @s s.crhf.block_id matches 7719 run setblock ~ ~ ~ minecraft:diamond_ore
+execute if score @s s.crhf.block_id matches 7720 run setblock ~ ~ ~ minecraft:diorite
+execute if score @s s.crhf.block_id matches 7721 run setblock ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7722 run setblock ~ ~ ~ minecraft:diorite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7723 run setblock ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7724 run setblock ~ ~ ~ minecraft:diorite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7725 run setblock ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7726 run setblock ~ ~ ~ minecraft:diorite_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7727 run setblock ~ ~ ~ minecraft:diorite_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7728 run setblock ~ ~ ~ minecraft:diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]

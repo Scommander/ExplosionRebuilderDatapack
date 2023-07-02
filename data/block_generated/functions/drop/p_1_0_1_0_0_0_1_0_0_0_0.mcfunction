@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:observer", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:obsidian", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ochre_froglight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ochre_froglight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ochre_froglight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_banner", Count: 1b}}

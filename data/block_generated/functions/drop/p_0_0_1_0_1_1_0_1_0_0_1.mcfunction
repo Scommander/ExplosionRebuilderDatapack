@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4252 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4253 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4254 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4255 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4256 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4257 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4258 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4259 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4260 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_trapdoor", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19107 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19108 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19109 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19110 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_lamp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19111 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_lamp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19112 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_ore", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_birch_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_birch_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_birch_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22593 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_birch_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_birch_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_crimson_hyphae", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3180 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3181 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3182 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3183 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3184 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom_block", Count: 1b}}

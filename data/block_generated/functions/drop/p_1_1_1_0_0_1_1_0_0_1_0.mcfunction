@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21709 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_fence_gate", Count: 1b}}

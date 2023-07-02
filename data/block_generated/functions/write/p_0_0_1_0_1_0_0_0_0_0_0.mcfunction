@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3770 run setblock ~ ~ ~ minecraft:carrots[age=7]
+execute if score @s s.crhf.block_id matches 3771 run setblock ~ ~ ~ minecraft:cartography_table
+execute if score @s s.crhf.block_id matches 3772 run setblock ~ ~ ~ minecraft:carved_pumpkin[facing=north]
+execute if score @s s.crhf.block_id matches 3773 run setblock ~ ~ ~ minecraft:carved_pumpkin[facing=south]
+execute if score @s s.crhf.block_id matches 3774 run setblock ~ ~ ~ minecraft:carved_pumpkin[facing=west]
+execute if score @s s.crhf.block_id matches 3775 run setblock ~ ~ ~ minecraft:carved_pumpkin[facing=east]
+execute if score @s s.crhf.block_id matches 3776 run setblock ~ ~ ~ minecraft:cauldron
+execute if score @s s.crhf.block_id matches 3777 run setblock ~ ~ ~ minecraft:cave_air
+execute if score @s s.crhf.block_id matches 3778 run setblock ~ ~ ~ minecraft:cave_vines[age=0,berries=true]
+execute if score @s s.crhf.block_id matches 3779 run setblock ~ ~ ~ minecraft:cave_vines[age=0,berries=false]
+execute if score @s s.crhf.block_id matches 3780 run setblock ~ ~ ~ minecraft:cave_vines[age=1,berries=true]

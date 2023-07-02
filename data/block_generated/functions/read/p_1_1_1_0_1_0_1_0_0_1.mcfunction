@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=0] run scoreboard players set @s s.crhf.block_id 22888
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=1] run scoreboard players set @s s.crhf.block_id 22889
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=2] run scoreboard players set @s s.crhf.block_id 22890
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=0] run scoreboard players set @s s.crhf.block_id 22891
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=1] run scoreboard players set @s s.crhf.block_id 22892
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=2] run scoreboard players set @s s.crhf.block_id 22893
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=0] run scoreboard players set @s s.crhf.block_id 22894
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=1] run scoreboard players set @s s.crhf.block_id 22895
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=2] run scoreboard players set @s s.crhf.block_id 22896
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=0] run scoreboard players set @s s.crhf.block_id 22897
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=1] run scoreboard players set @s s.crhf.block_id 22898
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=2] run scoreboard players set @s s.crhf.block_id 22899

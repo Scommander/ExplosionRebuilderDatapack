@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22955 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=true,up=true,west=false]
+execute if score @s s.crhf.block_id matches 22956 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=true,up=false,west=true]
+execute if score @s s.crhf.block_id matches 22957 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=true,up=false,west=false]
+execute if score @s s.crhf.block_id matches 22958 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=false,up=true,west=true]
+execute if score @s s.crhf.block_id matches 22959 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=false,up=true,west=false]
+execute if score @s s.crhf.block_id matches 22960 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=false,up=false,west=true]
+execute if score @s s.crhf.block_id matches 22961 run setblock ~ ~ ~ minecraft:vine[east=false,north=false,south=false,up=false,west=false]
+execute if score @s s.crhf.block_id matches 22962 run setblock ~ ~ ~ minecraft:void_air
+execute if score @s s.crhf.block_id matches 22963 run setblock ~ ~ ~ minecraft:wall_torch[facing=north]
+execute if score @s s.crhf.block_id matches 22964 run setblock ~ ~ ~ minecraft:wall_torch[facing=south]
+execute if score @s s.crhf.block_id matches 22965 run setblock ~ ~ ~ minecraft:wall_torch[facing=west]
+execute if score @s s.crhf.block_id matches 22966 run setblock ~ ~ ~ minecraft:wall_torch[facing=east]

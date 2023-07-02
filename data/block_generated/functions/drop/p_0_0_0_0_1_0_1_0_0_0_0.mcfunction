@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 942 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 943 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 944 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 945 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azure_bluet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 946 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 947 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 948 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 949 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 950 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 951 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}
+execute if score @s s.crhf.block_id matches 952 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo", Count: 1b}}

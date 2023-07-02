@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 2120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}

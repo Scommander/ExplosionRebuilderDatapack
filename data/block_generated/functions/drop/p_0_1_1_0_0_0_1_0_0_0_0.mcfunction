@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 9238 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9239 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9240 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9241 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fletching_table", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9242 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flower_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9243 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9244 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9245 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9246 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9247 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9248 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:flowering_azalea_leaves", Count: 1b}}

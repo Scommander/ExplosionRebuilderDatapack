@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 21589 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21593 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}

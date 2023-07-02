@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5501 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5502 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5503 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5504 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5505 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5506 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5507 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5508 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5509 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5510 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5511 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5512 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_granite_stairs", Count: 1b}}

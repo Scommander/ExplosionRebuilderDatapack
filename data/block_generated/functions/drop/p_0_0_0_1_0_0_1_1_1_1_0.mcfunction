@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1862 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1863 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1864 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1865 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1866 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1867 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1868 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1869 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1870 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1871 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1872 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_sign", Count: 1b}}

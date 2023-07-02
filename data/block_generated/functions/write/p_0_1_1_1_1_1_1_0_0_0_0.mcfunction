@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11878 run setblock ~ ~ ~ minecraft:melon_stem[age=0]
+execute if score @s s.crhf.block_id matches 11879 run setblock ~ ~ ~ minecraft:melon_stem[age=1]
+execute if score @s s.crhf.block_id matches 11880 run setblock ~ ~ ~ minecraft:melon_stem[age=2]
+execute if score @s s.crhf.block_id matches 11881 run setblock ~ ~ ~ minecraft:melon_stem[age=3]
+execute if score @s s.crhf.block_id matches 11882 run setblock ~ ~ ~ minecraft:melon_stem[age=4]
+execute if score @s s.crhf.block_id matches 11883 run setblock ~ ~ ~ minecraft:melon_stem[age=5]
+execute if score @s s.crhf.block_id matches 11884 run setblock ~ ~ ~ minecraft:melon_stem[age=6]
+execute if score @s s.crhf.block_id matches 11885 run setblock ~ ~ ~ minecraft:melon_stem[age=7]
+execute if score @s s.crhf.block_id matches 11886 run setblock ~ ~ ~ minecraft:moss_block
+execute if score @s s.crhf.block_id matches 11887 run setblock ~ ~ ~ minecraft:moss_carpet
+execute if score @s s.crhf.block_id matches 11888 run setblock ~ ~ ~ minecraft:mossy_cobblestone

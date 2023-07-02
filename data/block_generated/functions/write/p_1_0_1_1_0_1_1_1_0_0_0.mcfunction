@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 17251 run setblock ~ ~ ~ minecraft:potted_cactus
+execute if score @s s.crhf.block_id matches 17252 run setblock ~ ~ ~ minecraft:potted_cherry_sapling
+execute if score @s s.crhf.block_id matches 17253 run setblock ~ ~ ~ minecraft:potted_cornflower
+execute if score @s s.crhf.block_id matches 17254 run setblock ~ ~ ~ minecraft:potted_crimson_fungus
+execute if score @s s.crhf.block_id matches 17255 run setblock ~ ~ ~ minecraft:potted_crimson_roots
+execute if score @s s.crhf.block_id matches 17256 run setblock ~ ~ ~ minecraft:potted_dandelion
+execute if score @s s.crhf.block_id matches 17257 run setblock ~ ~ ~ minecraft:potted_dark_oak_sapling
+execute if score @s s.crhf.block_id matches 17258 run setblock ~ ~ ~ minecraft:potted_dead_bush
+execute if score @s s.crhf.block_id matches 17259 run setblock ~ ~ ~ minecraft:potted_fern
+execute if score @s s.crhf.block_id matches 17260 run setblock ~ ~ ~ minecraft:potted_flowering_azalea_bush
+execute if score @s s.crhf.block_id matches 17261 run setblock ~ ~ ~ minecraft:potted_jungle_sapling

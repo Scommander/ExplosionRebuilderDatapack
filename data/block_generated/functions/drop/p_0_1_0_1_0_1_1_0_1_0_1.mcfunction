@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8164 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_wall_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8165 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_wall_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8166 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dried_kelp_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8167 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dripstone_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8168 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8169 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8170 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8171 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8172 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8173 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8174 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8175 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dropper", Count: 1b}}

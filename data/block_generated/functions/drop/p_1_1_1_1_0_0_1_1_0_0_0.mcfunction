@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22908 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22909 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22910 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22911 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22912 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:twisting_vines", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15534
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15535
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15536
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15537
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15538
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15539
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15540
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15541
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15542
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15543
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15544
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15545
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15546
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15547
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15548
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15549

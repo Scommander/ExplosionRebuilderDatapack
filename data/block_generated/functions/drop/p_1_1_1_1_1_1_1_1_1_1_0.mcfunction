@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24111 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24112 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:zombie_head", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10322 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10323 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10324 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10325 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_button", Count: 1b}}

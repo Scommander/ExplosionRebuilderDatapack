@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24099 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 24100 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 24101 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 24102 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 24103 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 24104 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 24105 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 24106 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 24107 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 24108 run setblock ~ ~ ~ minecraft:yellow_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 24109 run setblock ~ ~ ~ minecraft:yellow_terracotta
+execute if score @s s.crhf.block_id matches 24110 run setblock ~ ~ ~ minecraft:yellow_wall_banner[facing=north]

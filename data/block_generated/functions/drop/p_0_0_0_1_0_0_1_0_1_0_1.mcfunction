@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1754 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1755 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1756 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1757 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1758 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1759 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1760 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1761 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1762 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1763 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1764 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1765 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_hanging_sign", Count: 1b}}

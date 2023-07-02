@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22626 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22627 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22628 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22629 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22630 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22631 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22632 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22633 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22634 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22635 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22636 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_spruce_wood", Count: 1b}}

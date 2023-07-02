@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeating_command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeating_command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeating_command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20495 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeating_command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20496 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeating_command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20497 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:respawn_anchor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20498 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:respawn_anchor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20499 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:respawn_anchor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20500 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:respawn_anchor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20501 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:respawn_anchor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20502 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rooted_dirt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20503 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:rose_bush", Count: 1b}}

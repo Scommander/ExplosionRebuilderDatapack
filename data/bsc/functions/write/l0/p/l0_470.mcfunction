@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 16999 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 17000 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 17001 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 17002 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 17003 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 17004 run setblock ~ ~ ~ minecraft:polished_blackstone_slab[type=double,waterlogged=false]

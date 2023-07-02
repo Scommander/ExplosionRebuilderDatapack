@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22919 run setblock ~ ~ ~ minecraft:twisting_vines[age=19]
+execute if score @s s.crhf.block_id matches 22920 run setblock ~ ~ ~ minecraft:twisting_vines[age=20]
+execute if score @s s.crhf.block_id matches 22921 run setblock ~ ~ ~ minecraft:twisting_vines[age=21]
+execute if score @s s.crhf.block_id matches 22922 run setblock ~ ~ ~ minecraft:twisting_vines[age=22]
+execute if score @s s.crhf.block_id matches 22923 run setblock ~ ~ ~ minecraft:twisting_vines[age=23]
+execute if score @s s.crhf.block_id matches 22924 run setblock ~ ~ ~ minecraft:twisting_vines[age=24]
+execute if score @s s.crhf.block_id matches 22925 run setblock ~ ~ ~ minecraft:twisting_vines[age=25]
+execute if score @s s.crhf.block_id matches 22926 run setblock ~ ~ ~ minecraft:twisting_vines_plant
+execute if score @s s.crhf.block_id matches 22927 run setblock ~ ~ ~ minecraft:verdant_froglight[axis=x]
+execute if score @s s.crhf.block_id matches 22928 run setblock ~ ~ ~ minecraft:verdant_froglight[axis=y]
+execute if score @s s.crhf.block_id matches 22929 run setblock ~ ~ ~ minecraft:verdant_froglight[axis=z]
+execute if score @s s.crhf.block_id matches 22930 run setblock ~ ~ ~ minecraft:vine[east=true,north=true,south=true,up=true,west=true]

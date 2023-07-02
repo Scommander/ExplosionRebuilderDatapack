@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21247 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=upper,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21248 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21249 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21250 run setblock ~ ~ ~ minecraft:smithing_table
+execute if score @s s.crhf.block_id matches 21251 run setblock ~ ~ ~ minecraft:smoker[facing=north,lit=true]
+execute if score @s s.crhf.block_id matches 21252 run setblock ~ ~ ~ minecraft:smoker[facing=north,lit=false]
+execute if score @s s.crhf.block_id matches 21253 run setblock ~ ~ ~ minecraft:smoker[facing=south,lit=true]
+execute if score @s s.crhf.block_id matches 21254 run setblock ~ ~ ~ minecraft:smoker[facing=south,lit=false]
+execute if score @s s.crhf.block_id matches 21255 run setblock ~ ~ ~ minecraft:smoker[facing=west,lit=true]
+execute if score @s s.crhf.block_id matches 21256 run setblock ~ ~ ~ minecraft:smoker[facing=west,lit=false]
+execute if score @s s.crhf.block_id matches 21257 run setblock ~ ~ ~ minecraft:smoker[facing=east,lit=true]
+execute if score @s s.crhf.block_id matches 21258 run setblock ~ ~ ~ minecraft:smoker[facing=east,lit=false]

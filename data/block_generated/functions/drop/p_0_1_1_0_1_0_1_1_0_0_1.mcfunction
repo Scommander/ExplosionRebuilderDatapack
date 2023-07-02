@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10097 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10098 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10099 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10100 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:honey_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:honeycomb_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10107 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10108 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}

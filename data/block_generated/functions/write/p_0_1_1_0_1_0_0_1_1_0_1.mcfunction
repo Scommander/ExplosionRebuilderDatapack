@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9956 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 9957 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 9958 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 9959 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 9960 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 9961 run setblock ~ ~ ~ minecraft:gray_terracotta
+execute if score @s s.crhf.block_id matches 9962 run setblock ~ ~ ~ minecraft:gray_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 9963 run setblock ~ ~ ~ minecraft:gray_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 9964 run setblock ~ ~ ~ minecraft:gray_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 9965 run setblock ~ ~ ~ minecraft:gray_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 9966 run setblock ~ ~ ~ minecraft:gray_wool
+execute if score @s s.crhf.block_id matches 9967 run setblock ~ ~ ~ minecraft:green_banner[rotation=0]

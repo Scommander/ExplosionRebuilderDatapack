@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=north,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21222
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=north,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21223
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=east,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21224
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=east,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21225
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=south,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21226
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=south,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21227
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=west,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21228
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=west,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21229
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=up,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21230
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=up,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21231
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=down,waterlogged=true] run scoreboard players set @s s.crhf.block_id 21232
+execute if block ~ ~ ~ minecraft:small_amethyst_bud[facing=down,waterlogged=false] run scoreboard players set @s s.crhf.block_id 21233

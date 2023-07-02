@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 9285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:gilded_blackstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9286 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9287 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9288 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9289 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9290 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9291 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9292 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9293 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9294 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9295 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_pane", Count: 1b}}

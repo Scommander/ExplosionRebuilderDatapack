@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5796 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5797 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5798 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5799 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5800 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5801 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5802 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5803 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5804 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5805 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5806 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5807 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}

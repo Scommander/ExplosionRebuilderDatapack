@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21235 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21236 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21237 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21238 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21239 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21240 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21241 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21242 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21243 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21244 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21245 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21246 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}

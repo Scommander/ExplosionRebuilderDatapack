@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5548 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cracked_polished_blackstone_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5549 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cracked_stone_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5550 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crafting_table", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5551 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5552 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5553 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5554 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5555 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5556 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5557 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5558 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5559 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:creeper_head", Count: 1b}}

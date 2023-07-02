@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10109 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10110 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10111 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10112 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hopper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:horn_coral_wall_fan", Count: 1b}}

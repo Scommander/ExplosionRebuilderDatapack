@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22637 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22638 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22639 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22640 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22641 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22642 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_warped_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22643 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:structure_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22644 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:structure_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22645 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:structure_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22646 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:structure_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22647 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:structure_void", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22648 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}

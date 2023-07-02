@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 15518
+execute if block ~ ~ ~ minecraft:pink_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 15519
+execute if block ~ ~ ~ minecraft:pink_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 15520
+execute if block ~ ~ ~ minecraft:pink_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 15521
+execute if block ~ ~ ~ minecraft:pink_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 15522
+execute if block ~ ~ ~ minecraft:pink_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 15523
+execute if block ~ ~ ~ minecraft:pink_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 15524
+execute if block ~ ~ ~ minecraft:pink_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 15525
+execute if block ~ ~ ~ minecraft:pink_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 15526
+execute if block ~ ~ ~ minecraft:pink_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 15527
+execute if block ~ ~ ~ minecraft:pink_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 15528
+execute if block ~ ~ ~ minecraft:pink_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 15529
+execute if block ~ ~ ~ minecraft:pink_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 15530
+execute if block ~ ~ ~ minecraft:pink_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 15531
+execute if block ~ ~ ~ minecraft:pink_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 15532
+execute if block ~ ~ ~ minecraft:pink_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 15533

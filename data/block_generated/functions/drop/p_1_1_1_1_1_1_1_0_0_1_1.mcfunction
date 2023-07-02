@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23981 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23982 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23983 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23984 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23985 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23986 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23987 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23988 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23989 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23990 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23991 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23992 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wither_rose", Count: 1b}}

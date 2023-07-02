@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11158 run setblock ~ ~ ~ minecraft:lilac[half=upper]
+execute if score @s s.crhf.block_id matches 11159 run setblock ~ ~ ~ minecraft:lilac[half=lower]
+execute if score @s s.crhf.block_id matches 11160 run setblock ~ ~ ~ minecraft:lily_of_the_valley
+execute if score @s s.crhf.block_id matches 11161 run setblock ~ ~ ~ minecraft:lily_pad
+execute if score @s s.crhf.block_id matches 11162 run setblock ~ ~ ~ minecraft:lime_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 11163 run setblock ~ ~ ~ minecraft:lime_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 11164 run setblock ~ ~ ~ minecraft:lime_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 11165 run setblock ~ ~ ~ minecraft:lime_banner[rotation=3]
+execute if score @s s.crhf.block_id matches 11166 run setblock ~ ~ ~ minecraft:lime_banner[rotation=4]
+execute if score @s s.crhf.block_id matches 11167 run setblock ~ ~ ~ minecraft:lime_banner[rotation=5]
+execute if score @s s.crhf.block_id matches 11168 run setblock ~ ~ ~ minecraft:lime_banner[rotation=6]
+execute if score @s s.crhf.block_id matches 11169 run setblock ~ ~ ~ minecraft:lime_banner[rotation=7]

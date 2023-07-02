@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4323 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4324 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4325 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chipped_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chipped_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chipped_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chipped_anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4333 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4334 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}

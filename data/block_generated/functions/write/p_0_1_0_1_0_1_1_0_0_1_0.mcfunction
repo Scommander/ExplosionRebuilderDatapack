@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8129 run setblock ~ ~ ~ minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 8130 run setblock ~ ~ ~ minecraft:diorite_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 8131 run setblock ~ ~ ~ minecraft:dirt
+execute if score @s s.crhf.block_id matches 8132 run setblock ~ ~ ~ minecraft:dirt_path
+execute if score @s s.crhf.block_id matches 8133 run setblock ~ ~ ~ minecraft:dispenser[facing=north,triggered=true]
+execute if score @s s.crhf.block_id matches 8134 run setblock ~ ~ ~ minecraft:dispenser[facing=north,triggered=false]
+execute if score @s s.crhf.block_id matches 8135 run setblock ~ ~ ~ minecraft:dispenser[facing=east,triggered=true]
+execute if score @s s.crhf.block_id matches 8136 run setblock ~ ~ ~ minecraft:dispenser[facing=east,triggered=false]
+execute if score @s s.crhf.block_id matches 8137 run setblock ~ ~ ~ minecraft:dispenser[facing=south,triggered=true]
+execute if score @s s.crhf.block_id matches 8138 run setblock ~ ~ ~ minecraft:dispenser[facing=south,triggered=false]
+execute if score @s s.crhf.block_id matches 8139 run setblock ~ ~ ~ minecraft:dispenser[facing=west,triggered=true]
+execute if score @s s.crhf.block_id matches 8140 run setblock ~ ~ ~ minecraft:dispenser[facing=west,triggered=false]

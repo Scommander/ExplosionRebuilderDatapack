@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17923 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17924 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17925 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17926 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17927 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17928 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17929 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17930 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17931 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purpur_stairs", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:player_head[rotation=0] run scoreboard players set @s s.crhf.block_id 15669
+execute if block ~ ~ ~ minecraft:player_head[rotation=1] run scoreboard players set @s s.crhf.block_id 15670
+execute if block ~ ~ ~ minecraft:player_head[rotation=2] run scoreboard players set @s s.crhf.block_id 15671
+execute if block ~ ~ ~ minecraft:player_head[rotation=3] run scoreboard players set @s s.crhf.block_id 15672
+execute if block ~ ~ ~ minecraft:player_head[rotation=4] run scoreboard players set @s s.crhf.block_id 15673
+execute if block ~ ~ ~ minecraft:player_head[rotation=5] run scoreboard players set @s s.crhf.block_id 15674
+execute if block ~ ~ ~ minecraft:player_head[rotation=6] run scoreboard players set @s s.crhf.block_id 15675
+execute if block ~ ~ ~ minecraft:player_head[rotation=7] run scoreboard players set @s s.crhf.block_id 15676
+execute if block ~ ~ ~ minecraft:player_head[rotation=8] run scoreboard players set @s s.crhf.block_id 15677
+execute if block ~ ~ ~ minecraft:player_head[rotation=9] run scoreboard players set @s s.crhf.block_id 15678
+execute if block ~ ~ ~ minecraft:player_head[rotation=10] run scoreboard players set @s s.crhf.block_id 15679
+execute if block ~ ~ ~ minecraft:player_head[rotation=11] run scoreboard players set @s s.crhf.block_id 15680
+execute if block ~ ~ ~ minecraft:player_head[rotation=12] run scoreboard players set @s s.crhf.block_id 15681
+execute if block ~ ~ ~ minecraft:player_head[rotation=13] run scoreboard players set @s s.crhf.block_id 15682
+execute if block ~ ~ ~ minecraft:player_head[rotation=14] run scoreboard players set @s s.crhf.block_id 15683
+execute if block ~ ~ ~ minecraft:player_head[rotation=15] run scoreboard players set @s s.crhf.block_id 15684

@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=north] run scoreboard players set @s s.crhf.block_id 3838
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=east] run scoreboard players set @s s.crhf.block_id 3839
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=south] run scoreboard players set @s s.crhf.block_id 3840
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=west] run scoreboard players set @s s.crhf.block_id 3841
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=up] run scoreboard players set @s s.crhf.block_id 3842
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=true,facing=down] run scoreboard players set @s s.crhf.block_id 3843
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=north] run scoreboard players set @s s.crhf.block_id 3844
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=east] run scoreboard players set @s s.crhf.block_id 3845
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=south] run scoreboard players set @s s.crhf.block_id 3846
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=west] run scoreboard players set @s s.crhf.block_id 3847
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=up] run scoreboard players set @s s.crhf.block_id 3848
+execute if block ~ ~ ~ minecraft:chain_command_block[conditional=false,facing=down] run scoreboard players set @s s.crhf.block_id 3849

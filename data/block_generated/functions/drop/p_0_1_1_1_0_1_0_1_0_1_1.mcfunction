@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_concrete", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_concrete_powder", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11075 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_gray_shulker_box", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3864 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3865 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3866 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3867 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3868 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3869 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3870 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3871 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3872 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3873 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3874 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_door", Count: 1b}}

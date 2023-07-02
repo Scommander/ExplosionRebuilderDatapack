@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 12726 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12727 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12728 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12729 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12730 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12731 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12732 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12733 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12734 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12735 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12736 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mud_brick_stairs", Count: 1b}}

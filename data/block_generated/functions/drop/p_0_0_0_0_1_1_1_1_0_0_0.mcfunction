@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 1413 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1414 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1415 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1416 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1417 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1418 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1419 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1420 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1421 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1422 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1423 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}

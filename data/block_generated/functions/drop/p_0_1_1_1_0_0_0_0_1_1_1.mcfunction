@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10640 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10641 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10642 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10643 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10644 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10645 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10646 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10647 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10648 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10649 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10650 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10651 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_stairs", Count: 1b}}

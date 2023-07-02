@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 20504 run setblock ~ ~ ~ minecraft:rose_bush[half=lower]
+execute if score @s s.crhf.block_id matches 20505 run setblock ~ ~ ~ minecraft:sand
+execute if score @s s.crhf.block_id matches 20506 run setblock ~ ~ ~ minecraft:sandstone
+execute if score @s s.crhf.block_id matches 20507 run setblock ~ ~ ~ minecraft:sandstone_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20508 run setblock ~ ~ ~ minecraft:sandstone_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20509 run setblock ~ ~ ~ minecraft:sandstone_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20510 run setblock ~ ~ ~ minecraft:sandstone_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20511 run setblock ~ ~ ~ minecraft:sandstone_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20512 run setblock ~ ~ ~ minecraft:sandstone_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20513 run setblock ~ ~ ~ minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20514 run setblock ~ ~ ~ minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]

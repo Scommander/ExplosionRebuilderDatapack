@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 24063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_concrete", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_concrete_powder", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 24074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:yellow_shulker_box", Count: 1b}}

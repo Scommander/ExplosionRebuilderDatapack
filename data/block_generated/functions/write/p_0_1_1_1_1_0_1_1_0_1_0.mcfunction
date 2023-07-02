@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11617 run setblock ~ ~ ~ minecraft:mangrove_log[axis=y]
+execute if score @s s.crhf.block_id matches 11618 run setblock ~ ~ ~ minecraft:mangrove_log[axis=z]
+execute if score @s s.crhf.block_id matches 11619 run setblock ~ ~ ~ minecraft:mangrove_planks
+execute if score @s s.crhf.block_id matches 11620 run setblock ~ ~ ~ minecraft:mangrove_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 11621 run setblock ~ ~ ~ minecraft:mangrove_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 11622 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=true,stage=0,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11623 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=true,stage=0,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11624 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=true,stage=1,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11625 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=true,stage=1,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11626 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=false,stage=0,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11627 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=false,stage=0,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11628 run setblock ~ ~ ~ minecraft:mangrove_propagule[age=0,hanging=false,stage=1,waterlogged=true]

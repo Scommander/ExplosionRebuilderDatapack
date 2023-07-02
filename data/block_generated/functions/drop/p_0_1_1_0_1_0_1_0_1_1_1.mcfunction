@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10075 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10076 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10078 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10079 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10080 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:grindstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10081 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hanging_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10082 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hanging_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hay_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10084 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hay_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10085 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:hay_block", Count: 1b}}

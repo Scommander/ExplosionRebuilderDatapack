@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobweb", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5495 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5496 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5497 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5498 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5499 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5500 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cocoa", Count: 1b}}

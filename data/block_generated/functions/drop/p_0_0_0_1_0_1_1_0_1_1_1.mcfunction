@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2159 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2160 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2161 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2162 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2163 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2164 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2165 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2166 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_slab", Count: 1b}}

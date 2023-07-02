@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1472 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1473 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrel", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:barrier", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:basalt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:basalt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:basalt", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beacon", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bedrock", Count: 1b}}

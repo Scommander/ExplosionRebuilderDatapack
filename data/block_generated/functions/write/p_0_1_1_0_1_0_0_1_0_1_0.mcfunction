@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9921 run setblock ~ ~ ~ minecraft:gray_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 9922 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 9923 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 9924 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 9925 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 9926 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 9927 run setblock ~ ~ ~ minecraft:gray_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 9928 run setblock ~ ~ ~ minecraft:gray_stained_glass
+execute if score @s s.crhf.block_id matches 9929 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 9930 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 9931 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 9932 run setblock ~ ~ ~ minecraft:gray_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]

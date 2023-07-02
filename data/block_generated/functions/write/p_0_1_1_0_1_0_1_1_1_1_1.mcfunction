@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10169 run setblock ~ ~ ~ minecraft:iron_block
+execute if score @s s.crhf.block_id matches 10170 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=left,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 10171 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=left,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 10172 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 10173 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 10174 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=right,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 10175 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=right,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 10176 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 10177 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 10178 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=lower,hinge=left,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 10179 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=lower,hinge=left,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 10180 run setblock ~ ~ ~ minecraft:iron_door[facing=north,half=lower,hinge=left,open=false,powered=true]

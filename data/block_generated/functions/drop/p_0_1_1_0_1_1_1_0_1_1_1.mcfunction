@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10451 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10452 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10453 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10454 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10455 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10456 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10457 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10458 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10459 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10460 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10461 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10462 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_fence_gate", Count: 1b}}

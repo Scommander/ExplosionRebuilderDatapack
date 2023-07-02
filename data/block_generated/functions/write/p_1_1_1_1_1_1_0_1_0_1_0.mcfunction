@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23874 run setblock ~ ~ ~ minecraft:weeping_vines[age=21]
+execute if score @s s.crhf.block_id matches 23875 run setblock ~ ~ ~ minecraft:weeping_vines[age=22]
+execute if score @s s.crhf.block_id matches 23876 run setblock ~ ~ ~ minecraft:weeping_vines[age=23]
+execute if score @s s.crhf.block_id matches 23877 run setblock ~ ~ ~ minecraft:weeping_vines[age=24]
+execute if score @s s.crhf.block_id matches 23878 run setblock ~ ~ ~ minecraft:weeping_vines[age=25]
+execute if score @s s.crhf.block_id matches 23879 run setblock ~ ~ ~ minecraft:weeping_vines_plant
+execute if score @s s.crhf.block_id matches 23880 run setblock ~ ~ ~ minecraft:wet_sponge
+execute if score @s s.crhf.block_id matches 23881 run setblock ~ ~ ~ minecraft:wheat[age=0]
+execute if score @s s.crhf.block_id matches 23882 run setblock ~ ~ ~ minecraft:wheat[age=1]
+execute if score @s s.crhf.block_id matches 23883 run setblock ~ ~ ~ minecraft:wheat[age=2]
+execute if score @s s.crhf.block_id matches 23884 run setblock ~ ~ ~ minecraft:wheat[age=3]
+execute if score @s s.crhf.block_id matches 23885 run setblock ~ ~ ~ minecraft:wheat[age=4]

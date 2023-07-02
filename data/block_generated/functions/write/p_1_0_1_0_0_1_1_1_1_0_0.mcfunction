@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15790 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15791 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15792 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15793 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15794 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15795 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15796 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 15797 run setblock ~ ~ ~ minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 15798 run setblock ~ ~ ~ minecraft:polished_basalt[axis=x]
+execute if score @s s.crhf.block_id matches 15799 run setblock ~ ~ ~ minecraft:polished_basalt[axis=y]
+execute if score @s s.crhf.block_id matches 15800 run setblock ~ ~ ~ minecraft:polished_basalt[axis=z]
+execute if score @s s.crhf.block_id matches 15801 run setblock ~ ~ ~ minecraft:polished_blackstone

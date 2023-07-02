@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 12714 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=south]
+execute if score @s s.crhf.block_id matches 12715 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=south]
+execute if score @s s.crhf.block_id matches 12716 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=west]
+execute if score @s s.crhf.block_id matches 12717 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=west]
+execute if score @s s.crhf.block_id matches 12718 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=up]
+execute if score @s s.crhf.block_id matches 12719 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=up]
+execute if score @s s.crhf.block_id matches 12720 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=down]
+execute if score @s s.crhf.block_id matches 12721 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=down]
+execute if score @s s.crhf.block_id matches 12722 run setblock ~ ~ ~ minecraft:mud
+execute if score @s s.crhf.block_id matches 12723 run setblock ~ ~ ~ minecraft:mud_brick_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 12724 run setblock ~ ~ ~ minecraft:mud_brick_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 12725 run setblock ~ ~ ~ minecraft:mud_brick_slab[type=bottom,waterlogged=true]

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=north,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6844
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=north,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6845
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=south,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6846
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=south,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6847
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=west,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6848
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=west,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6849
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=east,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6850
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=east,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6851
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=north,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6852
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=north,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6853
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=south,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6854
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=south,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6855
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=west,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6856
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=west,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6857
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=east,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6858
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=east,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6859
