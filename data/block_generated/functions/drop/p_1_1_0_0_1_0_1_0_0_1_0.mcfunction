@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19070 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19071 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19072 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19073 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19074 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19075 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19076 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19077 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_stained_glass_pane", Count: 1b}}

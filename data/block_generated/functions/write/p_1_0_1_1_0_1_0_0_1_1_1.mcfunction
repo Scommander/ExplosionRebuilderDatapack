@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17051 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 17052 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 17053 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 17054 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 17055 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 17056 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 17057 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 17058 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 17059 run setblock ~ ~ ~ minecraft:polished_deepslate_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 17060 run setblock ~ ~ ~ minecraft:polished_diorite
+execute if score @s s.crhf.block_id matches 17061 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17062 run setblock ~ ~ ~ minecraft:polished_diorite_slab[type=top,waterlogged=false]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19644 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19645 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19646 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19647 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19648 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19649 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19650 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19651 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19652 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19653 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19654 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19655 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}

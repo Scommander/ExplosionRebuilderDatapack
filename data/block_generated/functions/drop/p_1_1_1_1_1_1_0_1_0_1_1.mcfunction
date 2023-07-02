@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23886 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wheat", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23887 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wheat", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23888 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wheat", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23889 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23890 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23891 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23892 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23893 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23894 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23895 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23896 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23897 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_banner", Count: 1b}}

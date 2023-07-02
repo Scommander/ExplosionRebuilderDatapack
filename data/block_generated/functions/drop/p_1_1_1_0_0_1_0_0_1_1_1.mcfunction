@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21577 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_sand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21578 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_soil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21579 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21580 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21581 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21582 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21583 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21584 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spawner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21585 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sponge", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21586 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spore_blossom", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21587 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21588 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_button", Count: 1b}}

@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 3422 run setblock ~ ~ ~ minecraft:farmland[moisture=0]
-execute if score @s s.crhf.block_id matches 3423 run setblock ~ ~ ~ minecraft:farmland[moisture=1]
-execute if score @s s.crhf.block_id matches 3424 run setblock ~ ~ ~ minecraft:farmland[moisture=2]
-execute if score @s s.crhf.block_id matches 3425 run setblock ~ ~ ~ minecraft:farmland[moisture=3]
-execute if score @s s.crhf.block_id matches 3426 run setblock ~ ~ ~ minecraft:farmland[moisture=4]
-execute if score @s s.crhf.block_id matches 3427 run setblock ~ ~ ~ minecraft:farmland[moisture=5]
-execute if score @s s.crhf.block_id matches 3428 run setblock ~ ~ ~ minecraft:farmland[moisture=6]
-execute if score @s s.crhf.block_id matches 3429 run setblock ~ ~ ~ minecraft:farmland[moisture=7]

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 989 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 990 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 991 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 992 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 993 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 994 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 995 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 996 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 997 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 998 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 999 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_door", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 13575 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13576 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13577 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13578 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13579 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13580 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13581 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13582 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13583 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13584 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13585 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_wall", Count: 1b}}

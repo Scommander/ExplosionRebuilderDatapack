@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_portal_frame", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_portal_frame", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_portal_frame", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_portal_frame", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_portal_frame", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_rod", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone", Count: 1b}}

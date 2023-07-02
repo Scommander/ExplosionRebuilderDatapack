@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 12702 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 12703 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 12704 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 12705 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 12706 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 12707 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 12708 run setblock ~ ~ ~ minecraft:mossy_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 12709 run setblock ~ ~ ~ minecraft:mossy_stone_bricks
+execute if score @s s.crhf.block_id matches 12710 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=north]
+execute if score @s s.crhf.block_id matches 12711 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=north]
+execute if score @s s.crhf.block_id matches 12712 run setblock ~ ~ ~ minecraft:moving_piston[type=normal,facing=east]
+execute if score @s s.crhf.block_id matches 12713 run setblock ~ ~ ~ minecraft:moving_piston[type=sticky,facing=east]

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3298 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3299 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3300 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3301 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3302 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3303 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bubble_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3304 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:budding_amethyst", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cactus", Count: 1b}}

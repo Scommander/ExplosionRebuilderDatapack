@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3958 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3959 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3960 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3961 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3962 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3963 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3964 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3965 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3966 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3967 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3968 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_fence", Count: 1b}}

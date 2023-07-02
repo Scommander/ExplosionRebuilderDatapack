@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 159 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 160 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 161 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 162 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 163 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_hanging_sign", Count: 1b}}

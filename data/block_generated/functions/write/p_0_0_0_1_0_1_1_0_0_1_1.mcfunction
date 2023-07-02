@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2108 run setblock ~ ~ ~ minecraft:black_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 2109 run setblock ~ ~ ~ minecraft:black_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 2110 run setblock ~ ~ ~ minecraft:black_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 2111 run setblock ~ ~ ~ minecraft:black_carpet
+execute if score @s s.crhf.block_id matches 2112 run setblock ~ ~ ~ minecraft:black_concrete
+execute if score @s s.crhf.block_id matches 2113 run setblock ~ ~ ~ minecraft:black_concrete_powder
+execute if score @s s.crhf.block_id matches 2114 run setblock ~ ~ ~ minecraft:black_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 2115 run setblock ~ ~ ~ minecraft:black_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 2116 run setblock ~ ~ ~ minecraft:black_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 2117 run setblock ~ ~ ~ minecraft:black_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 2118 run setblock ~ ~ ~ minecraft:black_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 2119 run setblock ~ ~ ~ minecraft:black_shulker_box[facing=east]

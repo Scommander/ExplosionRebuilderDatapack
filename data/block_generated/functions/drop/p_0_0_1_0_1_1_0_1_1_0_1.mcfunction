@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4299 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4300 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4301 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4302 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4303 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4304 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chest", Count: 1b}}

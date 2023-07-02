@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23981 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 23982 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 23983 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 23984 run setblock ~ ~ ~ minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 23985 run setblock ~ ~ ~ minecraft:white_terracotta
+execute if score @s s.crhf.block_id matches 23986 run setblock ~ ~ ~ minecraft:white_tulip
+execute if score @s s.crhf.block_id matches 23987 run setblock ~ ~ ~ minecraft:white_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 23988 run setblock ~ ~ ~ minecraft:white_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 23989 run setblock ~ ~ ~ minecraft:white_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 23990 run setblock ~ ~ ~ minecraft:white_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 23991 run setblock ~ ~ ~ minecraft:white_wool
+execute if score @s s.crhf.block_id matches 23992 run setblock ~ ~ ~ minecraft:wither_rose

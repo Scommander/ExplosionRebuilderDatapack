@@ -6,7 +6,7 @@ execute if score @s s.crhf.countdown matches 1 if block ~ ~ ~ #explosion_rebuild
 execute if score @s s.crhf.countdown matches 1 unless block ~ ~ ~ #explosion_rebuilder:air run kill @s
 
 #add tag if not already got it if above wait time
-execute if score @s s.crhf.countdown > $actual_wait_time s.crhf.settings run tag @s[tag=!s.crhf.ready_to_replace] add s.crhf.ready_to_replace
+execute unless block ~ -64 ~ minecraft:structure_void if score @s s.crhf.countdown > $actual_wait_time s.crhf.settings run tag @s[tag=!s.crhf.ready_to_replace] add s.crhf.ready_to_replace
 
 #init
 execute if score @s s.crhf.countdown matches 1 run tag @e[tag=s.crhf.uninit] remove s.crhf.uninit

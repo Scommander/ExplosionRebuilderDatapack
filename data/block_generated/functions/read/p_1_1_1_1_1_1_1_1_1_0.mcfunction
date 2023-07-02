@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=0] run scoreboard players set @s s.crhf.block_id 24115
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=1] run scoreboard players set @s s.crhf.block_id 24116
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=2] run scoreboard players set @s s.crhf.block_id 24117
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=3] run scoreboard players set @s s.crhf.block_id 24118
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=4] run scoreboard players set @s s.crhf.block_id 24119
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=5] run scoreboard players set @s s.crhf.block_id 24120
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=6] run scoreboard players set @s s.crhf.block_id 24121
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=7] run scoreboard players set @s s.crhf.block_id 24122
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=8] run scoreboard players set @s s.crhf.block_id 24123
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=9] run scoreboard players set @s s.crhf.block_id 24124
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=10] run scoreboard players set @s s.crhf.block_id 24125
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=11] run scoreboard players set @s s.crhf.block_id 24126
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=12] run scoreboard players set @s s.crhf.block_id 24127
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=13] run scoreboard players set @s s.crhf.block_id 24128
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=14] run scoreboard players set @s s.crhf.block_id 24129
+execute if block ~ ~ ~ minecraft:zombie_head[rotation=15] run scoreboard players set @s s.crhf.block_id 24130

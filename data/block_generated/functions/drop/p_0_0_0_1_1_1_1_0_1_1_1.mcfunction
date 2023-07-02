@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2909 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2910 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2911 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2912 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2919 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2920 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brick_wall", Count: 1b}}

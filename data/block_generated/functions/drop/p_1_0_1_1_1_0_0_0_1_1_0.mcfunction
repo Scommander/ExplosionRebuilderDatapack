@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17416 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17417 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17418 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17419 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17420 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17421 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17422 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17423 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17424 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17425 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17426 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17427 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:prismarine_stairs", Count: 1b}}

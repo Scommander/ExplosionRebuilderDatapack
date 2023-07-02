@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6326 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6327 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6328 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6329 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6333 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6334 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6335 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6336 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6337 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_fence_gate", Count: 1b}}

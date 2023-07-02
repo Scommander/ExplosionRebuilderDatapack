@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 21259 run setblock ~ ~ ~ minecraft:smooth_basalt
+execute if score @s s.crhf.block_id matches 21260 run setblock ~ ~ ~ minecraft:smooth_quartz
+execute if score @s s.crhf.block_id matches 21261 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21262 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21263 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21264 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21265 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21266 run setblock ~ ~ ~ minecraft:smooth_quartz_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21267 run setblock ~ ~ ~ minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21268 run setblock ~ ~ ~ minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21269 run setblock ~ ~ ~ minecraft:smooth_quartz_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]

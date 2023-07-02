@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15672 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15673 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15674 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15675 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15676 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15677 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15678 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15679 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15682 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15683 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:player_head", Count: 1b}}

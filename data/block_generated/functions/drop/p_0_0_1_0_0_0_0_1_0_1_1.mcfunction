@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23108 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=west,in_wall=false,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 23109 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=west,in_wall=false,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 23110 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=west,in_wall=false,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 23111 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=true,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 23112 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=true,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 23113 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=true,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 23114 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=true,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 23115 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=false,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 23116 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=false,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 23117 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=false,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 23118 run setblock ~ ~ ~ minecraft:warped_fence_gate[facing=east,in_wall=false,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 23119 run setblock ~ ~ ~ minecraft:warped_fungus

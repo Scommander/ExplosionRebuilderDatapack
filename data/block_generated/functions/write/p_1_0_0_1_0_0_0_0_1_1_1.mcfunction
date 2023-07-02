@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13657 run setblock ~ ~ ~ minecraft:netherrack
+execute if score @s s.crhf.block_id matches 13658 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=0,powered=true]
+execute if score @s s.crhf.block_id matches 13659 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=0,powered=false]
+execute if score @s s.crhf.block_id matches 13660 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=1,powered=true]
+execute if score @s s.crhf.block_id matches 13661 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=1,powered=false]
+execute if score @s s.crhf.block_id matches 13662 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=2,powered=true]
+execute if score @s s.crhf.block_id matches 13663 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=2,powered=false]
+execute if score @s s.crhf.block_id matches 13664 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=3,powered=true]
+execute if score @s s.crhf.block_id matches 13665 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=3,powered=false]
+execute if score @s s.crhf.block_id matches 13666 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=4,powered=true]
+execute if score @s s.crhf.block_id matches 13667 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=4,powered=false]
+execute if score @s s.crhf.block_id matches 13668 run setblock ~ ~ ~ minecraft:note_block[instrument=harp,note=5,powered=true]

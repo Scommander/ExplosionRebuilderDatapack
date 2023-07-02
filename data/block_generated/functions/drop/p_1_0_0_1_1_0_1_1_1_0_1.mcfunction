@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 14670 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14671 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14672 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14673 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14674 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14675 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14676 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14677 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14678 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14679 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:note_block", Count: 1b}}

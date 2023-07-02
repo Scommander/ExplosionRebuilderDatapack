@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10086 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10087 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10088 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10089 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10090 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10091 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10092 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10093 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10094 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10095 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10096 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:heavy_weighted_pressure_plate", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_planks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11621 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11622 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11623 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11624 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11625 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11626 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11627 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11628 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_propagule", Count: 1b}}

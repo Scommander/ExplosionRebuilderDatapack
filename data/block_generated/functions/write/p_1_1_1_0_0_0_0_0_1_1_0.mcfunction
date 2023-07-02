@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21188 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=2,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21189 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=3,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21190 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=3,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21191 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=4,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21192 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=4,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21193 run setblock ~ ~ ~ minecraft:seagrass
+execute if score @s s.crhf.block_id matches 21194 run setblock ~ ~ ~ minecraft:shroomlight
+execute if score @s s.crhf.block_id matches 21195 run setblock ~ ~ ~ minecraft:shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 21196 run setblock ~ ~ ~ minecraft:shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 21197 run setblock ~ ~ ~ minecraft:shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 21198 run setblock ~ ~ ~ minecraft:shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 21199 run setblock ~ ~ ~ minecraft:shulker_box[facing=up]

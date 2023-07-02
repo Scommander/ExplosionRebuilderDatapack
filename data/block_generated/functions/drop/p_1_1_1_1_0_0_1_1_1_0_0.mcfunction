@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22955 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22956 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22957 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22958 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22959 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22960 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22961 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22962 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:void_air", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22963 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22964 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22965 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22966 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:wall_torch", Count: 1b}}

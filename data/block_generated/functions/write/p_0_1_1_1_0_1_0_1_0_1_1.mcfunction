@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11064 run setblock ~ ~ ~ minecraft:light_gray_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 11065 run setblock ~ ~ ~ minecraft:light_gray_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 11066 run setblock ~ ~ ~ minecraft:light_gray_carpet
+execute if score @s s.crhf.block_id matches 11067 run setblock ~ ~ ~ minecraft:light_gray_concrete
+execute if score @s s.crhf.block_id matches 11068 run setblock ~ ~ ~ minecraft:light_gray_concrete_powder
+execute if score @s s.crhf.block_id matches 11069 run setblock ~ ~ ~ minecraft:light_gray_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 11070 run setblock ~ ~ ~ minecraft:light_gray_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 11071 run setblock ~ ~ ~ minecraft:light_gray_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 11072 run setblock ~ ~ ~ minecraft:light_gray_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 11073 run setblock ~ ~ ~ minecraft:light_gray_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 11074 run setblock ~ ~ ~ minecraft:light_gray_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 11075 run setblock ~ ~ ~ minecraft:light_gray_shulker_box[facing=south]

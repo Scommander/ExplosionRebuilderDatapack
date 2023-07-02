@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 16215 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16216 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16217 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16218 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16219 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16220 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16221 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16222 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16223 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16224 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16225 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_button", Count: 1b}}

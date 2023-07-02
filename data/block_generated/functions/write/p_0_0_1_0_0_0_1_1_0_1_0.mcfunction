@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3321 run setblock ~ ~ ~ minecraft:cake[bites=0]
+execute if score @s s.crhf.block_id matches 3322 run setblock ~ ~ ~ minecraft:cake[bites=1]
+execute if score @s s.crhf.block_id matches 3323 run setblock ~ ~ ~ minecraft:cake[bites=2]
+execute if score @s s.crhf.block_id matches 3324 run setblock ~ ~ ~ minecraft:cake[bites=3]
+execute if score @s s.crhf.block_id matches 3325 run setblock ~ ~ ~ minecraft:cake[bites=4]
+execute if score @s s.crhf.block_id matches 3326 run setblock ~ ~ ~ minecraft:cake[bites=5]
+execute if score @s s.crhf.block_id matches 3327 run setblock ~ ~ ~ minecraft:cake[bites=6]
+execute if score @s s.crhf.block_id matches 3328 run setblock ~ ~ ~ minecraft:calcite
+execute if score @s s.crhf.block_id matches 3329 run setblock ~ ~ ~ minecraft:calibrated_sculk_sensor[facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3330 run setblock ~ ~ ~ minecraft:calibrated_sculk_sensor[facing=north,power=0,sculk_sensor_phase=inactive,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3331 run setblock ~ ~ ~ minecraft:calibrated_sculk_sensor[facing=north,power=0,sculk_sensor_phase=active,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3332 run setblock ~ ~ ~ minecraft:calibrated_sculk_sensor[facing=north,power=0,sculk_sensor_phase=active,waterlogged=false]

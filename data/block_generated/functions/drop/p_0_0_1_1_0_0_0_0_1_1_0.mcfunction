@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_flower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4602 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4603 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4604 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4605 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chorus_plant", Count: 1b}}

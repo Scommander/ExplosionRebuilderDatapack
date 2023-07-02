@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 495 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 496 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 497 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 498 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 499 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 500 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 501 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 502 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 503 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 504 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 505 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_stairs", Count: 1b}}

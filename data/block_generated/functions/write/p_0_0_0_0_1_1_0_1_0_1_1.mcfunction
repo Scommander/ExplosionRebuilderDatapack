@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1260 run setblock ~ ~ ~ minecraft:bamboo_mosaic_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1261 run setblock ~ ~ ~ minecraft:bamboo_mosaic_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1262 run setblock ~ ~ ~ minecraft:bamboo_mosaic_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1263 run setblock ~ ~ ~ minecraft:bamboo_mosaic_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1264 run setblock ~ ~ ~ minecraft:bamboo_planks
+execute if score @s s.crhf.block_id matches 1265 run setblock ~ ~ ~ minecraft:bamboo_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 1266 run setblock ~ ~ ~ minecraft:bamboo_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 1267 run setblock ~ ~ ~ minecraft:bamboo_sapling
+execute if score @s s.crhf.block_id matches 1268 run setblock ~ ~ ~ minecraft:bamboo_sign[rotation=0,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1269 run setblock ~ ~ ~ minecraft:bamboo_sign[rotation=0,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1270 run setblock ~ ~ ~ minecraft:bamboo_sign[rotation=1,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1271 run setblock ~ ~ ~ minecraft:bamboo_sign[rotation=1,waterlogged=false]

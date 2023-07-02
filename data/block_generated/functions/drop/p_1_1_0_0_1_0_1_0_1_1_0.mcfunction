@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wall_torch", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:redstone_wire", Count: 1b}}

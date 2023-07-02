@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18112 run setblock ~ ~ ~ minecraft:rail[shape=north_west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 18113 run setblock ~ ~ ~ minecraft:rail[shape=north_east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 18114 run setblock ~ ~ ~ minecraft:rail[shape=north_east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 18115 run setblock ~ ~ ~ minecraft:raw_copper_block
+execute if score @s s.crhf.block_id matches 18116 run setblock ~ ~ ~ minecraft:raw_gold_block
+execute if score @s s.crhf.block_id matches 18117 run setblock ~ ~ ~ minecraft:raw_iron_block
+execute if score @s s.crhf.block_id matches 18118 run setblock ~ ~ ~ minecraft:red_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 18119 run setblock ~ ~ ~ minecraft:red_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 18120 run setblock ~ ~ ~ minecraft:red_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 18121 run setblock ~ ~ ~ minecraft:red_banner[rotation=3]
+execute if score @s s.crhf.block_id matches 18122 run setblock ~ ~ ~ minecraft:red_banner[rotation=4]
+execute if score @s s.crhf.block_id matches 18123 run setblock ~ ~ ~ minecraft:red_banner[rotation=5]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6845 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6846 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6847 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6848 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6849 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6850 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6851 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6852 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6853 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6854 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6855 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6856 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:decorated_pot", Count: 1b}}

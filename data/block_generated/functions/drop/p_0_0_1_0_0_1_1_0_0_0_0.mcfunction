@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3581 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3582 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3583 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3584 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3585 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3586 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3587 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3588 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3589 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:calibrated_sculk_sensor", Count: 1b}}

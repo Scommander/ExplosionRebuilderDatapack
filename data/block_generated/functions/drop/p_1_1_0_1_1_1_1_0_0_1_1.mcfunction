@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20964 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20965 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20966 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20967 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20968 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20969 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20970 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20971 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20972 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20973 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20974 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20975 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_sensor", Count: 1b}}

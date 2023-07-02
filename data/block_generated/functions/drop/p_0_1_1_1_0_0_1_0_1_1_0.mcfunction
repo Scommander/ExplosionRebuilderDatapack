@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10816 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10817 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10818 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10819 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10820 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10821 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10822 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10823 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_fern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10824 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_fern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10825 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10826 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lava", Count: 1b}}

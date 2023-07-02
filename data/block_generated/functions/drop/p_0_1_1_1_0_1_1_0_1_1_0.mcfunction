@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11202 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11203 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11204 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_candle", Count: 1b}}

@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 9308 run setblock ~ ~ ~ minecraft:end_rod[facing=north]
-execute if score @s s.crhf.block_id matches 9309 run setblock ~ ~ ~ minecraft:end_rod[facing=east]
-execute if score @s s.crhf.block_id matches 9310 run setblock ~ ~ ~ minecraft:end_rod[facing=south]
-execute if score @s s.crhf.block_id matches 9311 run setblock ~ ~ ~ minecraft:end_rod[facing=west]
-execute if score @s s.crhf.block_id matches 9312 run setblock ~ ~ ~ minecraft:end_rod[facing=up]
-execute if score @s s.crhf.block_id matches 9313 run setblock ~ ~ ~ minecraft:end_rod[facing=down]

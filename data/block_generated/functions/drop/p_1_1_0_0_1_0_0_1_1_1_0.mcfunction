@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 19019 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19020 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19021 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19022 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19023 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19024 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19025 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19026 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19027 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19028 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19029 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 19030 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_sandstone_wall", Count: 1b}}

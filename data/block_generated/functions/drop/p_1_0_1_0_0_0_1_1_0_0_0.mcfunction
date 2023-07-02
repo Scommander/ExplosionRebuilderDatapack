@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15366 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15367 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15368 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15369 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15370 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15371 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15372 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15373 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15374 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15375 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15376 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_wall_banner", Count: 1b}}

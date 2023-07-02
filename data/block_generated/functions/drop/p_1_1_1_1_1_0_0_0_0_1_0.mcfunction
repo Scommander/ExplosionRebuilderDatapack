@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23403 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23404 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23405 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23406 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23407 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23408 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23409 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23410 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23411 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23412 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:water_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23413 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_copper_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23414 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:waxed_cut_copper", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2197 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2198 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2199 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_stairs", Count: 1b}}

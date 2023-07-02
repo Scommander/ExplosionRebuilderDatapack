@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 8861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8862 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8863 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8864 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8865 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8866 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8867 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8868 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8869 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8870 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8871 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}

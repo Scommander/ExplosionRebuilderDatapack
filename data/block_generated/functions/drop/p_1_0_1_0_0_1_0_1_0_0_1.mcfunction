@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15566 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15567 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15568 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15569 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15570 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15571 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15572 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15573 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15574 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_petals", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15575 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15576 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15577 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_shulker_box", Count: 1b}}

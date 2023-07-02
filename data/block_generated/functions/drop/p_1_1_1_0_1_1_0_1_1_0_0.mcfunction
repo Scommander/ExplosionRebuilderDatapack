@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22390 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22391 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22392 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22393 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22394 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22395 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22396 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22397 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22398 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22399 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22400 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_brick_wall", Count: 1b}}

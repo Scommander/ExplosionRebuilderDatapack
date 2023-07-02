@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10781 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10782 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10783 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10784 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10785 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10786 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10787 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10788 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10789 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10790 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10791 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10792 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:kelp", Count: 1b}}

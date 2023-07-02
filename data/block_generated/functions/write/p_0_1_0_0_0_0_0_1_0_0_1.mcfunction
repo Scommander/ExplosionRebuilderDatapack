@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6138 run setblock ~ ~ ~ minecraft:cyan_candle[candles=2,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6139 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6140 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6141 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6142 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6143 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6144 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6145 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6146 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6147 run setblock ~ ~ ~ minecraft:cyan_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 6148 run setblock ~ ~ ~ minecraft:cyan_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 6149 run setblock ~ ~ ~ minecraft:cyan_carpet

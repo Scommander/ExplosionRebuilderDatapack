@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 14883 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14884 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14885 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14886 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14887 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14888 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14889 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14890 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14891 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14892 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14893 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 14894 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_door", Count: 1b}}

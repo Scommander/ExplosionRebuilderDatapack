@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 12632 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12633 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12634 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12635 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12636 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12637 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12638 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12639 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12640 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12641 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 12642 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_stone_brick_wall", Count: 1b}}

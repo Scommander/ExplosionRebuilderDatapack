@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9450 run setblock ~ ~ ~ minecraft:granite
+execute if score @s s.crhf.block_id matches 9451 run setblock ~ ~ ~ minecraft:granite_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9452 run setblock ~ ~ ~ minecraft:granite_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9453 run setblock ~ ~ ~ minecraft:granite_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9454 run setblock ~ ~ ~ minecraft:granite_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9455 run setblock ~ ~ ~ minecraft:granite_slab[type=double,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9456 run setblock ~ ~ ~ minecraft:granite_slab[type=double,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9457 run setblock ~ ~ ~ minecraft:granite_stairs[facing=north,half=top,shape=straight,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9458 run setblock ~ ~ ~ minecraft:granite_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9459 run setblock ~ ~ ~ minecraft:granite_stairs[facing=north,half=top,shape=inner_left,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9460 run setblock ~ ~ ~ minecraft:granite_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9461 run setblock ~ ~ ~ minecraft:granite_stairs[facing=north,half=top,shape=inner_right,waterlogged=true]

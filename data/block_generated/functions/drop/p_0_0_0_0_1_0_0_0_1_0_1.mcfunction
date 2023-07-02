@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 812 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 813 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 814 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 815 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 816 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 817 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 818 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 819 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 820 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 821 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 822 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 823 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite_wall", Count: 1b}}

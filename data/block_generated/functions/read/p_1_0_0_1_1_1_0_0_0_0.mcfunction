@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:orange_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15309
+execute if block ~ ~ ~ minecraft:orange_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15310
+execute if block ~ ~ ~ minecraft:orange_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15311
+execute if block ~ ~ ~ minecraft:orange_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15312
+execute if block ~ ~ ~ minecraft:orange_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15313
+execute if block ~ ~ ~ minecraft:orange_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15314
+execute if block ~ ~ ~ minecraft:orange_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15315
+execute if block ~ ~ ~ minecraft:orange_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15316
+execute if block ~ ~ ~ minecraft:orange_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15317
+execute if block ~ ~ ~ minecraft:orange_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15318
+execute if block ~ ~ ~ minecraft:orange_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15319
+execute if block ~ ~ ~ minecraft:orange_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15320
+execute if block ~ ~ ~ minecraft:orange_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15321
+execute if block ~ ~ ~ minecraft:orange_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15322
+execute if block ~ ~ ~ minecraft:orange_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 15323
+execute if block ~ ~ ~ minecraft:orange_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 15324

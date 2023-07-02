@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15508 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15509 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15510 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15511 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15512 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15513 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15514 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15515 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15516 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15517 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15518 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_bed", Count: 1b}}

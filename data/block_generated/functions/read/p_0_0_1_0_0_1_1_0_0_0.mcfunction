@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cactus[age=0] run scoreboard players set @s s.crhf.block_id 3305
+execute if block ~ ~ ~ minecraft:cactus[age=1] run scoreboard players set @s s.crhf.block_id 3306
+execute if block ~ ~ ~ minecraft:cactus[age=2] run scoreboard players set @s s.crhf.block_id 3307
+execute if block ~ ~ ~ minecraft:cactus[age=3] run scoreboard players set @s s.crhf.block_id 3308
+execute if block ~ ~ ~ minecraft:cactus[age=4] run scoreboard players set @s s.crhf.block_id 3309
+execute if block ~ ~ ~ minecraft:cactus[age=5] run scoreboard players set @s s.crhf.block_id 3310
+execute if block ~ ~ ~ minecraft:cactus[age=6] run scoreboard players set @s s.crhf.block_id 3311
+execute if block ~ ~ ~ minecraft:cactus[age=7] run scoreboard players set @s s.crhf.block_id 3312
+execute if block ~ ~ ~ minecraft:cactus[age=8] run scoreboard players set @s s.crhf.block_id 3313
+execute if block ~ ~ ~ minecraft:cactus[age=9] run scoreboard players set @s s.crhf.block_id 3314
+execute if block ~ ~ ~ minecraft:cactus[age=10] run scoreboard players set @s s.crhf.block_id 3315
+execute if block ~ ~ ~ minecraft:cactus[age=11] run scoreboard players set @s s.crhf.block_id 3316
+execute if block ~ ~ ~ minecraft:cactus[age=12] run scoreboard players set @s s.crhf.block_id 3317
+execute if block ~ ~ ~ minecraft:cactus[age=13] run scoreboard players set @s s.crhf.block_id 3318
+execute if block ~ ~ ~ minecraft:cactus[age=14] run scoreboard players set @s s.crhf.block_id 3319
+execute if block ~ ~ ~ minecraft:cactus[age=15] run scoreboard players set @s s.crhf.block_id 3320

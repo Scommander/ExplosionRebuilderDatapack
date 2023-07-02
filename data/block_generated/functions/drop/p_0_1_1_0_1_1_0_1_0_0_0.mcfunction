@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_trapdoor", Count: 1b}}

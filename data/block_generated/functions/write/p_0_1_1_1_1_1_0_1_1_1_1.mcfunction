@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11866 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11867 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11868 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11869 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11870 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11871 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11872 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11873 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=up,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11874 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=up,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11875 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=down,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11876 run setblock ~ ~ ~ minecraft:medium_amethyst_bud[facing=down,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11877 run setblock ~ ~ ~ minecraft:melon

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3239 run setblock ~ ~ ~ minecraft:brown_mushroom_block[down=false,east=false,north=false,south=true,up=false,west=false]
+execute if score @s s.crhf.block_id matches 3240 run setblock ~ ~ ~ minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=true]
+execute if score @s s.crhf.block_id matches 3241 run setblock ~ ~ ~ minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=true,west=false]
+execute if score @s s.crhf.block_id matches 3242 run setblock ~ ~ ~ minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=true]
+execute if score @s s.crhf.block_id matches 3243 run setblock ~ ~ ~ minecraft:brown_mushroom_block[down=false,east=false,north=false,south=false,up=false,west=false]
+execute if score @s s.crhf.block_id matches 3244 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 3245 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 3246 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 3247 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 3248 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 3249 run setblock ~ ~ ~ minecraft:brown_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 3250 run setblock ~ ~ ~ minecraft:brown_stained_glass

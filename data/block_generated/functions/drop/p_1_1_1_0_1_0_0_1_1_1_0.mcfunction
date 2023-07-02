@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22036 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22037 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22038 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22039 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22040 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22041 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22042 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22043 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22044 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22045 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22046 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22047 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sticky_piston", Count: 1b}}

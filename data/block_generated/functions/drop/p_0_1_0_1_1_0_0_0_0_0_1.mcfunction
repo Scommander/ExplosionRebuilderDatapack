@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8315 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8316 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8317 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:end_stone_brick_wall", Count: 1b}}

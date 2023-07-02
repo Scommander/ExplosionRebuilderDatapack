@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diamond_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7719 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diamond_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7722 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7723 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7724 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7725 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7726 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7727 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7728 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}

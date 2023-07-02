@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_warped_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_white_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_wither_rose", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powder_snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powder_snow_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powder_snow_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powder_snow_cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powered_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powered_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powered_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powered_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:powered_rail", Count: 1b}}

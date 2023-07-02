@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15048 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15049 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15050 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15051 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15052 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15053 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15054 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15055 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_planks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15056 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15057 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15058 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15059 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_sapling", Count: 1b}}

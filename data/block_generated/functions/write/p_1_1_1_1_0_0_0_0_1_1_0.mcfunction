@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22696 run setblock ~ ~ ~ minecraft:target[power=14]
+execute if score @s s.crhf.block_id matches 22697 run setblock ~ ~ ~ minecraft:target[power=15]
+execute if score @s s.crhf.block_id matches 22698 run setblock ~ ~ ~ minecraft:terracotta
+execute if score @s s.crhf.block_id matches 22699 run setblock ~ ~ ~ minecraft:tinted_glass
+execute if score @s s.crhf.block_id matches 22700 run setblock ~ ~ ~ minecraft:tnt[unstable=true]
+execute if score @s s.crhf.block_id matches 22701 run setblock ~ ~ ~ minecraft:tnt[unstable=false]
+execute if score @s s.crhf.block_id matches 22702 run setblock ~ ~ ~ minecraft:torch
+execute if score @s s.crhf.block_id matches 22703 run setblock ~ ~ ~ minecraft:torchflower
+execute if score @s s.crhf.block_id matches 22704 run setblock ~ ~ ~ minecraft:torchflower_crop[age=0]
+execute if score @s s.crhf.block_id matches 22705 run setblock ~ ~ ~ minecraft:torchflower_crop[age=1]
+execute if score @s s.crhf.block_id matches 22706 run setblock ~ ~ ~ minecraft:trapped_chest[type=single,facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 22707 run setblock ~ ~ ~ minecraft:trapped_chest[type=single,facing=north,waterlogged=false]

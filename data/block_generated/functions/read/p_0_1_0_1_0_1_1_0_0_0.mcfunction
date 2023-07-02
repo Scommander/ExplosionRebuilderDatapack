@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=0] run scoreboard players set @s s.crhf.block_id 8146
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=1] run scoreboard players set @s s.crhf.block_id 8147
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=2] run scoreboard players set @s s.crhf.block_id 8148
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=3] run scoreboard players set @s s.crhf.block_id 8149
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=4] run scoreboard players set @s s.crhf.block_id 8150
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=5] run scoreboard players set @s s.crhf.block_id 8151
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=6] run scoreboard players set @s s.crhf.block_id 8152
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=7] run scoreboard players set @s s.crhf.block_id 8153
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=8] run scoreboard players set @s s.crhf.block_id 8154
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=9] run scoreboard players set @s s.crhf.block_id 8155
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=10] run scoreboard players set @s s.crhf.block_id 8156
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=11] run scoreboard players set @s s.crhf.block_id 8157
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=12] run scoreboard players set @s s.crhf.block_id 8158
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=13] run scoreboard players set @s s.crhf.block_id 8159
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=14] run scoreboard players set @s s.crhf.block_id 8160
+execute if block ~ ~ ~ minecraft:dragon_head[rotation=15] run scoreboard players set @s s.crhf.block_id 8161

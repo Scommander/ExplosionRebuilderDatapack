@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:dropper[facing=north,triggered=true] run scoreboard players set @s s.crhf.block_id 8168
+execute if block ~ ~ ~ minecraft:dropper[facing=north,triggered=false] run scoreboard players set @s s.crhf.block_id 8169
+execute if block ~ ~ ~ minecraft:dropper[facing=east,triggered=true] run scoreboard players set @s s.crhf.block_id 8170
+execute if block ~ ~ ~ minecraft:dropper[facing=east,triggered=false] run scoreboard players set @s s.crhf.block_id 8171
+execute if block ~ ~ ~ minecraft:dropper[facing=south,triggered=true] run scoreboard players set @s s.crhf.block_id 8172
+execute if block ~ ~ ~ minecraft:dropper[facing=south,triggered=false] run scoreboard players set @s s.crhf.block_id 8173
+execute if block ~ ~ ~ minecraft:dropper[facing=west,triggered=true] run scoreboard players set @s s.crhf.block_id 8174
+execute if block ~ ~ ~ minecraft:dropper[facing=west,triggered=false] run scoreboard players set @s s.crhf.block_id 8175
+execute if block ~ ~ ~ minecraft:dropper[facing=up,triggered=true] run scoreboard players set @s s.crhf.block_id 8176
+execute if block ~ ~ ~ minecraft:dropper[facing=up,triggered=false] run scoreboard players set @s s.crhf.block_id 8177
+execute if block ~ ~ ~ minecraft:dropper[facing=down,triggered=true] run scoreboard players set @s s.crhf.block_id 8178
+execute if block ~ ~ ~ minecraft:dropper[facing=down,triggered=false] run scoreboard players set @s s.crhf.block_id 8179

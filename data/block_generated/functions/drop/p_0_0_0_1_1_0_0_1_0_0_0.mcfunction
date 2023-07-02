@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 2356 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2357 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2358 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2359 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2360 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2361 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2362 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2363 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2364 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2365 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2366 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blackstone_wall", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15472 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pearlescent_froglight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15473 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pearlescent_froglight", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:peony", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:peony", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:petrified_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piglin_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:piglin_head", Count: 1b}}

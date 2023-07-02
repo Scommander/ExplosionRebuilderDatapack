@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9862 run setblock ~ ~ ~ minecraft:grass_block[snowy=true]
+execute if score @s s.crhf.block_id matches 9863 run setblock ~ ~ ~ minecraft:grass_block[snowy=false]
+execute if score @s s.crhf.block_id matches 9864 run setblock ~ ~ ~ minecraft:gravel
+execute if score @s s.crhf.block_id matches 9865 run setblock ~ ~ ~ minecraft:gray_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 9866 run setblock ~ ~ ~ minecraft:gray_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 9867 run setblock ~ ~ ~ minecraft:gray_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 9868 run setblock ~ ~ ~ minecraft:gray_banner[rotation=3]
+execute if score @s s.crhf.block_id matches 9869 run setblock ~ ~ ~ minecraft:gray_banner[rotation=4]
+execute if score @s s.crhf.block_id matches 9870 run setblock ~ ~ ~ minecraft:gray_banner[rotation=5]
+execute if score @s s.crhf.block_id matches 9871 run setblock ~ ~ ~ minecraft:gray_banner[rotation=6]
+execute if score @s s.crhf.block_id matches 9872 run setblock ~ ~ ~ minecraft:gray_banner[rotation=7]
+execute if score @s s.crhf.block_id matches 9873 run setblock ~ ~ ~ minecraft:gray_banner[rotation=8]

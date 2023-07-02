@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7140 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7141 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7142 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7143 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7144 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:deepslate_brick_wall", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 6099
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 6100
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 6101
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 6102
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 6103
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 6104
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 6105
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 6106
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 6107
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 6108
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 6109
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 6110
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 6111
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 6112
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 6113
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 6114

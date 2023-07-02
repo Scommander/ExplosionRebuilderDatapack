@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17262 run setblock ~ ~ ~ minecraft:potted_lily_of_the_valley
+execute if score @s s.crhf.block_id matches 17263 run setblock ~ ~ ~ minecraft:potted_mangrove_propagule
+execute if score @s s.crhf.block_id matches 17264 run setblock ~ ~ ~ minecraft:potted_oak_sapling
+execute if score @s s.crhf.block_id matches 17265 run setblock ~ ~ ~ minecraft:potted_orange_tulip
+execute if score @s s.crhf.block_id matches 17266 run setblock ~ ~ ~ minecraft:potted_oxeye_daisy
+execute if score @s s.crhf.block_id matches 17267 run setblock ~ ~ ~ minecraft:potted_pink_tulip
+execute if score @s s.crhf.block_id matches 17268 run setblock ~ ~ ~ minecraft:potted_poppy
+execute if score @s s.crhf.block_id matches 17269 run setblock ~ ~ ~ minecraft:potted_red_mushroom
+execute if score @s s.crhf.block_id matches 17270 run setblock ~ ~ ~ minecraft:potted_red_tulip
+execute if score @s s.crhf.block_id matches 17271 run setblock ~ ~ ~ minecraft:potted_spruce_sapling
+execute if score @s s.crhf.block_id matches 17272 run setblock ~ ~ ~ minecraft:potted_torchflower
+execute if score @s s.crhf.block_id matches 17273 run setblock ~ ~ ~ minecraft:potted_warped_fungus

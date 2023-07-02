@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10109 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=down]
+execute if score @s s.crhf.block_id matches 10110 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=north]
+execute if score @s s.crhf.block_id matches 10111 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=south]
+execute if score @s s.crhf.block_id matches 10112 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=west]
+execute if score @s s.crhf.block_id matches 10113 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=east]
+execute if score @s s.crhf.block_id matches 10114 run setblock ~ ~ ~ minecraft:horn_coral[waterlogged=true]
+execute if score @s s.crhf.block_id matches 10115 run setblock ~ ~ ~ minecraft:horn_coral[waterlogged=false]
+execute if score @s s.crhf.block_id matches 10116 run setblock ~ ~ ~ minecraft:horn_coral_block
+execute if score @s s.crhf.block_id matches 10117 run setblock ~ ~ ~ minecraft:horn_coral_fan[waterlogged=true]
+execute if score @s s.crhf.block_id matches 10118 run setblock ~ ~ ~ minecraft:horn_coral_fan[waterlogged=false]
+execute if score @s s.crhf.block_id matches 10119 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10120 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=false]

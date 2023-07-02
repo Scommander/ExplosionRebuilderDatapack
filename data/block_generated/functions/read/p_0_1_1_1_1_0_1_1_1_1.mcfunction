@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 11016
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 11017
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 11018
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 11019
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 11020
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 11021
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 11022
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 11023
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 11024
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 11025
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 11026
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 11027
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 11028
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 11029
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 11030
+execute if block ~ ~ ~ minecraft:light_gray_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 11031

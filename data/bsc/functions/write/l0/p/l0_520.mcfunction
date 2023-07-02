@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 18162 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 18163 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 18164 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 18165 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 18166 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 18167 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=false]

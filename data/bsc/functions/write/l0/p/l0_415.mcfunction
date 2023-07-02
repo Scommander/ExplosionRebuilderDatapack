@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 15053 run setblock ~ ~ ~ minecraft:smoker[facing=north,lit=true]
-execute if score @s s.crhf.block_id matches 15054 run setblock ~ ~ ~ minecraft:smoker[facing=north,lit=false]
-execute if score @s s.crhf.block_id matches 15055 run setblock ~ ~ ~ minecraft:smoker[facing=south,lit=true]
-execute if score @s s.crhf.block_id matches 15056 run setblock ~ ~ ~ minecraft:smoker[facing=south,lit=false]
-execute if score @s s.crhf.block_id matches 15057 run setblock ~ ~ ~ minecraft:smoker[facing=west,lit=true]
-execute if score @s s.crhf.block_id matches 15058 run setblock ~ ~ ~ minecraft:smoker[facing=west,lit=false]
-execute if score @s s.crhf.block_id matches 15059 run setblock ~ ~ ~ minecraft:smoker[facing=east,lit=true]
-execute if score @s s.crhf.block_id matches 15060 run setblock ~ ~ ~ minecraft:smoker[facing=east,lit=false]

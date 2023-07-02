@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 5513 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5514 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:command_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5515 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5516 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5517 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5518 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5519 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5520 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5521 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5522 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5523 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:comparator", Count: 1b}}

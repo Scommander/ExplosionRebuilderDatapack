@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6194 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6195 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6196 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_wall_banner", Count: 1b}}

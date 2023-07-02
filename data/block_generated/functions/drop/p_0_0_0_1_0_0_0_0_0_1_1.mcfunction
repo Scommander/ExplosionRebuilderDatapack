@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1546 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1547 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1548 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1549 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1550 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1551 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1552 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1553 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1554 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bell", Count: 1b}}

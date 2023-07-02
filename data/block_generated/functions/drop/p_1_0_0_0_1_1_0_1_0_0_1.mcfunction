@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13303 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13304 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13305 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13306 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13307 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13308 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13309 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13310 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13311 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13312 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13313 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13314 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_brick_stairs", Count: 1b}}

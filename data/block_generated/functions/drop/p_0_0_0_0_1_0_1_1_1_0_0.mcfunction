@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1083 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1084 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1085 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1086 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1087 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1088 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1089 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1090 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1091 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1092 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1093 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1094 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_fence_gate", Count: 1b}}

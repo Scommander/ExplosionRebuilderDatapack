@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11878 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11879 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11880 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11881 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11882 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11883 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11884 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11885 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11886 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moss_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11887 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:moss_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11888 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mossy_cobblestone", Count: 1b}}

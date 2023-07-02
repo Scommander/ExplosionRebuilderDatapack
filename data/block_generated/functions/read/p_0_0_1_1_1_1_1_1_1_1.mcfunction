@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 6115
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 6116
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 6117
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 6118
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 6119
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 6120
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 6121
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 6122
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 6123
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 6124
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 6125
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 6126
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 6127
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 6128
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 6129
+execute if block ~ ~ ~ minecraft:cyan_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 6130

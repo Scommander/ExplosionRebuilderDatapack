@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1330 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1331 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1332 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1333 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1334 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1335 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1336 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1337 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1338 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1339 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1340 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1341 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_stairs", Count: 1b}}

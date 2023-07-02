@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10970 run setblock ~ ~ ~ minecraft:light_blue_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 10971 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 10972 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 10973 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 10974 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 10975 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 10976 run setblock ~ ~ ~ minecraft:light_blue_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 10977 run setblock ~ ~ ~ minecraft:light_blue_stained_glass
+execute if score @s s.crhf.block_id matches 10978 run setblock ~ ~ ~ minecraft:light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 10979 run setblock ~ ~ ~ minecraft:light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 10980 run setblock ~ ~ ~ minecraft:light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 10981 run setblock ~ ~ ~ minecraft:light_blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]

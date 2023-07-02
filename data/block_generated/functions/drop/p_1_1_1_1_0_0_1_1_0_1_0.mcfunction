@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22931 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22935 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22936 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22937 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22938 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22939 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22940 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22941 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22942 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:vine", Count: 1b}}

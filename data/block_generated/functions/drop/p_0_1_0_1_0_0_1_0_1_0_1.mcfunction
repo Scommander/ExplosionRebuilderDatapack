@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7787 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7788 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7789 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7790 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7791 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7792 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7793 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7794 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7795 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7796 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7797 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7798 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_stairs", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9261 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=5,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9262 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=5,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9263 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=5,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9264 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=6,persistent=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9265 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=6,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9266 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=6,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9267 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=6,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9268 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=7,persistent=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9269 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=7,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9270 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=7,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9271 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=7,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9272 run setblock ~ ~ ~ minecraft:frogspawn

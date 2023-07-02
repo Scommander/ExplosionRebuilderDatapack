@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22673 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:suspicious_sand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22674 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sweet_berry_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22675 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sweet_berry_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22676 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sweet_berry_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22677 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sweet_berry_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22678 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tall_grass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22679 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tall_grass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tall_seagrass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tall_seagrass", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22682 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22683 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=0] run scoreboard players set @s s.crhf.block_id 5551
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=1] run scoreboard players set @s s.crhf.block_id 5552
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=2] run scoreboard players set @s s.crhf.block_id 5553
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=3] run scoreboard players set @s s.crhf.block_id 5554
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=4] run scoreboard players set @s s.crhf.block_id 5555
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=5] run scoreboard players set @s s.crhf.block_id 5556
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=6] run scoreboard players set @s s.crhf.block_id 5557
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=7] run scoreboard players set @s s.crhf.block_id 5558
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=8] run scoreboard players set @s s.crhf.block_id 5559
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=9] run scoreboard players set @s s.crhf.block_id 5560
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=10] run scoreboard players set @s s.crhf.block_id 5561
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=11] run scoreboard players set @s s.crhf.block_id 5562
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=12] run scoreboard players set @s s.crhf.block_id 5563
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=13] run scoreboard players set @s s.crhf.block_id 5564
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=14] run scoreboard players set @s s.crhf.block_id 5565
+execute if block ~ ~ ~ minecraft:creeper_head[rotation=15] run scoreboard players set @s s.crhf.block_id 5566

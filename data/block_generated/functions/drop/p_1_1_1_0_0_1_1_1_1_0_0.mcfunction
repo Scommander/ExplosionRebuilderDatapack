@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21824 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21825 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21826 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21834 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_planks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21835 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_pressure_plate", Count: 1b}}

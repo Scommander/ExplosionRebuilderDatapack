@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4111 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4112 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4113 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4114 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_sign", Count: 1b}}

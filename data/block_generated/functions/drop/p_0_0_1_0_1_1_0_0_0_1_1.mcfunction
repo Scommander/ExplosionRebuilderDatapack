@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4182 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4183 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4184 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4191 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4192 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4193 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cherry_stairs", Count: 1b}}

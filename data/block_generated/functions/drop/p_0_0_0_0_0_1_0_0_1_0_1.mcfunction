@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 435 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 436 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 437 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 438 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 439 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 440 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 441 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 442 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 443 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 444 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 445 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 446 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}

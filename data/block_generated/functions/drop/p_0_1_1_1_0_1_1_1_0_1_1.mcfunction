@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11252 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11253 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11254 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11255 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11256 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11257 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11258 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11259 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11260 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_wool", Count: 1b}}

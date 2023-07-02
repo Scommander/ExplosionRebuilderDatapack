@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5602 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5603 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5604 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5605 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5606 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_door", Count: 1b}}

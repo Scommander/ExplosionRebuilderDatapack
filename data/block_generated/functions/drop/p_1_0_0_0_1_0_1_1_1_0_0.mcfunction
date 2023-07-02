@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13159 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13160 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13161 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mushroom_stem", Count: 1b}}

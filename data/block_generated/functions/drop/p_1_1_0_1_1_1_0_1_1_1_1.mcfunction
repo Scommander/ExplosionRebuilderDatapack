@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20919 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20920 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20921 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20922 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20923 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20924 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20925 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20926 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20927 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20928 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:scaffolding", Count: 1b}}

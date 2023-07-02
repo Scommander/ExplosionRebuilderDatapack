@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:iron_bars", Count: 1b}}

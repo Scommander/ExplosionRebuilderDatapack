@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21247 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21248 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21249 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:small_dripleaf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21250 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smithing_table", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21251 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21252 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21253 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21254 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21255 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21256 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21257 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21258 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:smoker", Count: 1b}}

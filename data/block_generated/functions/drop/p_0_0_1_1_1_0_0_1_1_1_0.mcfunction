@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5442 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5443 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5444 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5445 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5446 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5447 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5448 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5449 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5450 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5451 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5452 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5453 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobblestone_wall", Count: 1b}}

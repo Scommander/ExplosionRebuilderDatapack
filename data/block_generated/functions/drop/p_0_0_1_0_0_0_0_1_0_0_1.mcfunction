@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_banner", Count: 1b}}

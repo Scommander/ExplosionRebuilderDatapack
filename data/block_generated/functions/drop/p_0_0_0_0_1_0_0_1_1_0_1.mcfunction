@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 906 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 907 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:anvil", Count: 1b}}
+execute if score @s s.crhf.block_id matches 908 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 909 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 910 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 911 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_melon_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 912 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:attached_pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea", Count: 1b}}
+execute if score @s s.crhf.block_id matches 917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:azalea_leaves", Count: 1b}}

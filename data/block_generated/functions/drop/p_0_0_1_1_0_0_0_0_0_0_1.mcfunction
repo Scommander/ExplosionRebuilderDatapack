@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4535 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4536 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4537 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4538 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4539 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4540 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4541 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4542 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4546 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:chiseled_bookshelf", Count: 1b}}

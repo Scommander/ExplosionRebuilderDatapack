@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5678 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5679 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5682 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5683 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5684 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5685 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5686 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5687 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5688 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5689 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_fence", Count: 1b}}

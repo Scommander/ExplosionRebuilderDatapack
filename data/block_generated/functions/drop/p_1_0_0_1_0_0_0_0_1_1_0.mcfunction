@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 13645 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13646 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_gold_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13647 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_portal", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13648 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_portal", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13649 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_quartz_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13650 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_sprouts", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13651 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_wart", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13652 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_wart", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13653 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_wart", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13654 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_wart", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13655 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:nether_wart_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 13656 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:netherite_block", Count: 1b}}

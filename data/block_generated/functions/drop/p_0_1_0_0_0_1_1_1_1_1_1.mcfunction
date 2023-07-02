@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6775 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6776 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6777 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:daylight_detector", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6778 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6779 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6780 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6781 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6782 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6783 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6784 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6785 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6786 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_brain_coral_wall_fan", Count: 1b}}

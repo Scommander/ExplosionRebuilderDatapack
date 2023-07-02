@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=north] run scoreboard players set @s s.crhf.block_id 5503
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=east] run scoreboard players set @s s.crhf.block_id 5504
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=south] run scoreboard players set @s s.crhf.block_id 5505
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=west] run scoreboard players set @s s.crhf.block_id 5506
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=up] run scoreboard players set @s s.crhf.block_id 5507
+execute if block ~ ~ ~ minecraft:command_block[conditional=true,facing=down] run scoreboard players set @s s.crhf.block_id 5508
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=north] run scoreboard players set @s s.crhf.block_id 5509
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=east] run scoreboard players set @s s.crhf.block_id 5510
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=south] run scoreboard players set @s s.crhf.block_id 5511
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=west] run scoreboard players set @s s.crhf.block_id 5512
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=up] run scoreboard players set @s s.crhf.block_id 5513
+execute if block ~ ~ ~ minecraft:command_block[conditional=false,facing=down] run scoreboard players set @s s.crhf.block_id 5514

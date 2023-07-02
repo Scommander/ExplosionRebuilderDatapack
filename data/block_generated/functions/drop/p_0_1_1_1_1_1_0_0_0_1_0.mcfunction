@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11719 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11722 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11723 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_stairs", Count: 1b}}

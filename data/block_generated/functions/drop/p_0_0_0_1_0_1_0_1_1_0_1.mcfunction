@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2037 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2038 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2039 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2040 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2041 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2042 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2043 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2044 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2045 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2046 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2047 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2048 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_wall_hanging_sign", Count: 1b}}

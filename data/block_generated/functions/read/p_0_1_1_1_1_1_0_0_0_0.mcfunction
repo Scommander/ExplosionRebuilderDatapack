@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11032
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11033
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11034
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11035
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11036
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11037
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11038
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11039
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11040
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11041
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11042
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11043
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11044
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11045
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11046
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11047

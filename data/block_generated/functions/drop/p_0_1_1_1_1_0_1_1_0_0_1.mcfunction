@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11605 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11606 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11607 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11608 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11609 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11610 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11611 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11612 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_log", Count: 1b}}

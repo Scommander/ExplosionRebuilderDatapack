@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20940 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=3,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20941 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=4,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20942 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=4,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20943 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=5,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20944 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=5,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20945 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=6,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20946 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=6,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20947 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=7,waterlogged=true]
+execute if score @s s.crhf.block_id matches 20948 run setblock ~ ~ ~ minecraft:scaffolding[bottom=false,distance=7,waterlogged=false]
+execute if score @s s.crhf.block_id matches 20949 run setblock ~ ~ ~ minecraft:sculk
+execute if score @s s.crhf.block_id matches 20950 run setblock ~ ~ ~ minecraft:sculk_catalyst[bloom=true]
+execute if score @s s.crhf.block_id matches 20951 run setblock ~ ~ ~ minecraft:sculk_catalyst[bloom=false]

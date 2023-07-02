@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5536 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:composter", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5537 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:composter", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5538 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:composter", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5539 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:composter", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5540 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:conduit", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5541 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:conduit", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5542 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:copper_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:copper_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cornflower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cracked_deepslate_bricks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5546 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cracked_deepslate_tiles", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5547 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cracked_nether_bricks", Count: 1b}}

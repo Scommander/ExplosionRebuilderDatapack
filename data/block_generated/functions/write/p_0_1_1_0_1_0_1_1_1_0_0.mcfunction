@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10133 run setblock ~ ~ ~ minecraft:infested_deepslate[axis=z]
+execute if score @s s.crhf.block_id matches 10134 run setblock ~ ~ ~ minecraft:infested_mossy_stone_bricks
+execute if score @s s.crhf.block_id matches 10135 run setblock ~ ~ ~ minecraft:infested_stone
+execute if score @s s.crhf.block_id matches 10136 run setblock ~ ~ ~ minecraft:infested_stone_bricks
+execute if score @s s.crhf.block_id matches 10137 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 10138 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 10139 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 10140 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 10141 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 10142 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 10143 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 10144 run setblock ~ ~ ~ minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]

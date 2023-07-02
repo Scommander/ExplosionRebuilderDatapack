@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10097 run setblock ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=11]
+execute if score @s s.crhf.block_id matches 10098 run setblock ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=12]
+execute if score @s s.crhf.block_id matches 10099 run setblock ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=13]
+execute if score @s s.crhf.block_id matches 10100 run setblock ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=14]
+execute if score @s s.crhf.block_id matches 10101 run setblock ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=15]
+execute if score @s s.crhf.block_id matches 10102 run setblock ~ ~ ~ minecraft:honey_block
+execute if score @s s.crhf.block_id matches 10103 run setblock ~ ~ ~ minecraft:honeycomb_block
+execute if score @s s.crhf.block_id matches 10104 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=down]
+execute if score @s s.crhf.block_id matches 10105 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=north]
+execute if score @s s.crhf.block_id matches 10106 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=south]
+execute if score @s s.crhf.block_id matches 10107 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=west]
+execute if score @s s.crhf.block_id matches 10108 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=east]

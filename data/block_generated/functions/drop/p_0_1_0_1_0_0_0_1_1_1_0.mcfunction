@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7705 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7709 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:detector_rail", Count: 1b}}

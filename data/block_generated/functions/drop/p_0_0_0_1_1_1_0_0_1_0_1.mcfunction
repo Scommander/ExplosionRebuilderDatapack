@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2697 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2698 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2699 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2700 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2701 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2702 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brain_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2703 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2704 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2705 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2706 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brewing_stand", Count: 1b}}

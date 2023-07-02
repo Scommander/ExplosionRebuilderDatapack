@@ -1,8 +1,0 @@
-execute if score @s s.crhf.block_id matches 3826 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=north,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3827 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=north,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3828 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=south,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3829 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=south,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3830 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=west,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3831 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=west,waterlogged=false]
-execute if score @s s.crhf.block_id matches 3832 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=east,waterlogged=true]
-execute if score @s s.crhf.block_id matches 3833 run setblock ~ ~ ~ minecraft:acacia_wall_sign[facing=east,waterlogged=false]

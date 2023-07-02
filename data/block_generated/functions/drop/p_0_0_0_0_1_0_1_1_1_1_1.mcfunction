@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_hanging_sign", Count: 1b}}

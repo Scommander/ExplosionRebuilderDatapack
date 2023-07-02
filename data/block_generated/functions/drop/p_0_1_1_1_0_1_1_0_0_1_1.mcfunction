@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lilac", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11159 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lilac", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11160 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lily_of_the_valley", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11161 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lily_pad", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11162 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11163 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11164 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11165 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11166 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11167 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11168 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11169 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lime_banner", Count: 1b}}

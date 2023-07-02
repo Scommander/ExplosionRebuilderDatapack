@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 23097 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23098 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23099 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23100 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23107 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_fence_gate", Count: 1b}}

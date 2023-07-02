@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 4688 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4689 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4690 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4691 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4692 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4693 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4694 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4695 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4696 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4697 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4698 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4699 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cobbled_deepslate_stairs", Count: 1b}}

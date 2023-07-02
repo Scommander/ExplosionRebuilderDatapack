@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 0 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 4 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 7 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_button", Count: 1b}}

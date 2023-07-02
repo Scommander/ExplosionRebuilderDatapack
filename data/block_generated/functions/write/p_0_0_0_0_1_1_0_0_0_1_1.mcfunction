@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1166 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=10,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1167 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=11,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1168 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=11,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1169 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=12,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1170 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=12,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1171 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=13,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1172 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=13,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1173 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=14,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1174 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=14,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1175 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=15,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1176 run setblock ~ ~ ~ minecraft:bamboo_hanging_sign[attached=false,rotation=15,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1177 run setblock ~ ~ ~ minecraft:bamboo_mosaic

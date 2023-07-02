@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 906 run setblock ~ ~ ~ minecraft:anvil[facing=west]
+execute if score @s s.crhf.block_id matches 907 run setblock ~ ~ ~ minecraft:anvil[facing=east]
+execute if score @s s.crhf.block_id matches 908 run setblock ~ ~ ~ minecraft:attached_melon_stem[facing=north]
+execute if score @s s.crhf.block_id matches 909 run setblock ~ ~ ~ minecraft:attached_melon_stem[facing=south]
+execute if score @s s.crhf.block_id matches 910 run setblock ~ ~ ~ minecraft:attached_melon_stem[facing=west]
+execute if score @s s.crhf.block_id matches 911 run setblock ~ ~ ~ minecraft:attached_melon_stem[facing=east]
+execute if score @s s.crhf.block_id matches 912 run setblock ~ ~ ~ minecraft:attached_pumpkin_stem[facing=north]
+execute if score @s s.crhf.block_id matches 913 run setblock ~ ~ ~ minecraft:attached_pumpkin_stem[facing=south]
+execute if score @s s.crhf.block_id matches 914 run setblock ~ ~ ~ minecraft:attached_pumpkin_stem[facing=west]
+execute if score @s s.crhf.block_id matches 915 run setblock ~ ~ ~ minecraft:attached_pumpkin_stem[facing=east]
+execute if score @s s.crhf.block_id matches 916 run setblock ~ ~ ~ minecraft:azalea
+execute if score @s s.crhf.block_id matches 917 run setblock ~ ~ ~ minecraft:azalea_leaves[distance=1,persistent=true,waterlogged=true]

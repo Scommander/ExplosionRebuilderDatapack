@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 10228 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=left,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 10229 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=left,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 10230 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=right,open=true,powered=true]
+execute if score @s s.crhf.block_id matches 10231 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=right,open=true,powered=false]
+execute if score @s s.crhf.block_id matches 10232 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=true]
+execute if score @s s.crhf.block_id matches 10233 run setblock ~ ~ ~ minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=false]
+execute if score @s s.crhf.block_id matches 10234 run setblock ~ ~ ~ minecraft:iron_ore
+execute if score @s s.crhf.block_id matches 10235 run setblock ~ ~ ~ minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10236 run setblock ~ ~ ~ minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 10237 run setblock ~ ~ ~ minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 10238 run setblock ~ ~ ~ minecraft:iron_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]

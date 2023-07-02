@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 16827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16834 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16835 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16836 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16837 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_deepslate_wall", Count: 1b}}

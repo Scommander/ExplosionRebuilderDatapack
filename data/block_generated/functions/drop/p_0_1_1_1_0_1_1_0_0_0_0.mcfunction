@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11127 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11128 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11129 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11130 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11131 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11132 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11133 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light_weighted_pressure_plate", Count: 1b}}

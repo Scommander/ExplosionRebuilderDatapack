@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 22484 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22486 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22487 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22488 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22494 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stone_slab", Count: 1b}}

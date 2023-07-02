@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:barrel[facing=north,open=true] run scoreboard players set @s s.crhf.block_id 1466
+execute if block ~ ~ ~ minecraft:barrel[facing=north,open=false] run scoreboard players set @s s.crhf.block_id 1467
+execute if block ~ ~ ~ minecraft:barrel[facing=east,open=true] run scoreboard players set @s s.crhf.block_id 1468
+execute if block ~ ~ ~ minecraft:barrel[facing=east,open=false] run scoreboard players set @s s.crhf.block_id 1469
+execute if block ~ ~ ~ minecraft:barrel[facing=south,open=true] run scoreboard players set @s s.crhf.block_id 1470
+execute if block ~ ~ ~ minecraft:barrel[facing=south,open=false] run scoreboard players set @s s.crhf.block_id 1471
+execute if block ~ ~ ~ minecraft:barrel[facing=west,open=true] run scoreboard players set @s s.crhf.block_id 1472
+execute if block ~ ~ ~ minecraft:barrel[facing=west,open=false] run scoreboard players set @s s.crhf.block_id 1473
+execute if block ~ ~ ~ minecraft:barrel[facing=up,open=true] run scoreboard players set @s s.crhf.block_id 1474
+execute if block ~ ~ ~ minecraft:barrel[facing=up,open=false] run scoreboard players set @s s.crhf.block_id 1475
+execute if block ~ ~ ~ minecraft:barrel[facing=down,open=true] run scoreboard players set @s s.crhf.block_id 1476
+execute if block ~ ~ ~ minecraft:barrel[facing=down,open=false] run scoreboard players set @s s.crhf.block_id 1477

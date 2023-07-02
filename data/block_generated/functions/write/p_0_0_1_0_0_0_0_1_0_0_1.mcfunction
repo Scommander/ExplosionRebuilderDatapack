@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3121 run setblock ~ ~ ~ minecraft:bricks
+execute if score @s s.crhf.block_id matches 3122 run setblock ~ ~ ~ minecraft:brown_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 3123 run setblock ~ ~ ~ minecraft:brown_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 3124 run setblock ~ ~ ~ minecraft:brown_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 3125 run setblock ~ ~ ~ minecraft:brown_banner[rotation=3]
+execute if score @s s.crhf.block_id matches 3126 run setblock ~ ~ ~ minecraft:brown_banner[rotation=4]
+execute if score @s s.crhf.block_id matches 3127 run setblock ~ ~ ~ minecraft:brown_banner[rotation=5]
+execute if score @s s.crhf.block_id matches 3128 run setblock ~ ~ ~ minecraft:brown_banner[rotation=6]
+execute if score @s s.crhf.block_id matches 3129 run setblock ~ ~ ~ minecraft:brown_banner[rotation=7]
+execute if score @s s.crhf.block_id matches 3130 run setblock ~ ~ ~ minecraft:brown_banner[rotation=8]
+execute if score @s s.crhf.block_id matches 3131 run setblock ~ ~ ~ minecraft:brown_banner[rotation=9]
+execute if score @s s.crhf.block_id matches 3132 run setblock ~ ~ ~ minecraft:brown_banner[rotation=10]

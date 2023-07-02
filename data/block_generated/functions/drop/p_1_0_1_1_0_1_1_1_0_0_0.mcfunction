@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 17251 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_cactus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17252 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_cherry_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17253 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_cornflower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17254 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_crimson_fungus", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17255 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_crimson_roots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17256 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_dandelion", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17257 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_dark_oak_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17258 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_dead_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17259 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_fern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17260 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_flowering_azalea_bush", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17261 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_jungle_sapling", Count: 1b}}

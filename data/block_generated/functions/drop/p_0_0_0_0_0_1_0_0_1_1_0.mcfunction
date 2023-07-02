@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 447 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 448 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 449 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 450 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 451 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 452 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 453 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 454 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 455 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 456 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 457 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}
+execute if score @s s.crhf.block_id matches 458 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:activator_rail", Count: 1b}}

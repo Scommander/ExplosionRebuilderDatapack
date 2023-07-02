@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1448 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1449 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1450 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1451 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1452 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1453 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1454 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1455 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1456 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1457 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1458 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1459 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:bamboo_wall_sign", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8000 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8001 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8002 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8003 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8004 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8005 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8006 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8007 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8008 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8009 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8010 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8011 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:diorite_wall", Count: 1b}}

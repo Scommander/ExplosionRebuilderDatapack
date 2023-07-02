@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6115 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6116 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6117 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6118 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6119 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6120 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6121 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6122 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6123 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6124 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6125 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6126 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cyan_bed", Count: 1b}}

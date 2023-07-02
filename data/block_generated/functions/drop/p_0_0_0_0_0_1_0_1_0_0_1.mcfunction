@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 484 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 486 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 487 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 488 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:amethyst_cluster", Count: 1b}}
+execute if score @s s.crhf.block_id matches 492 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ancient_debris", Count: 1b}}
+execute if score @s s.crhf.block_id matches 493 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:andesite", Count: 1b}}

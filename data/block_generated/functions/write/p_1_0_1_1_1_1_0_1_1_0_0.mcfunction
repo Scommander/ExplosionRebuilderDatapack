@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17864 run setblock ~ ~ ~ minecraft:purple_concrete_powder
+execute if score @s s.crhf.block_id matches 17865 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 17866 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 17867 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 17868 run setblock ~ ~ ~ minecraft:purple_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 17869 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 17870 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 17871 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 17872 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 17873 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 17874 run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 17875 run setblock ~ ~ ~ minecraft:purple_stained_glass

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2674 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2675 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2676 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2677 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2678 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2679 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2680 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2681 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2682 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2683 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2684 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2685 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_wool", Count: 1b}}

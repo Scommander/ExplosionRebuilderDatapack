@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3168 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3169 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3170 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3171 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3172 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3173 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_concrete", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3174 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_concrete_powder", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3175 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3176 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3177 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3178 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_glazed_terracotta", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3179 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:brown_mushroom", Count: 1b}}

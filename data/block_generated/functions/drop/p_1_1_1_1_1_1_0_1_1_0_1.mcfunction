@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23910 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23911 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23912 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23913 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23914 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23915 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23916 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23917 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23918 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23919 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23920 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23921 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:white_candle", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21058 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21059 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21060 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21061 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21062 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21063 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21064 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21065 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21066 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21067 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21068 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21069 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sculk_vein", Count: 1b}}

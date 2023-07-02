@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9226 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9227 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9228 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9229 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9230 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9231 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9232 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9233 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9234 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9235 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9236 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9237 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:fire_coral_wall_fan", Count: 1b}}

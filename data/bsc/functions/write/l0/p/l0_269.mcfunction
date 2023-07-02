@@ -1,6 +1,0 @@
-execute if score @s s.crhf.block_id matches 8610 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=top,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8611 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=top,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8612 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=bottom,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8613 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=bottom,waterlogged=false]
-execute if score @s s.crhf.block_id matches 8614 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=double,waterlogged=true]
-execute if score @s s.crhf.block_id matches 8615 run setblock ~ ~ ~ minecraft:petrified_oak_slab[type=double,waterlogged=false]

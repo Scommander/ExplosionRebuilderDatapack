@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=north,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11285
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=north,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11286
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=north,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11287
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=north,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11288
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=south,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11289
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=south,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11290
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=south,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11291
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=south,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11292
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=west,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11293
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=west,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11294
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=west,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11295
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=west,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11296
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=east,occupied=true,part=head] run scoreboard players set @s s.crhf.block_id 11297
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=east,occupied=true,part=foot] run scoreboard players set @s s.crhf.block_id 11298
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=east,occupied=false,part=head] run scoreboard players set @s s.crhf.block_id 11299
+execute if block ~ ~ ~ minecraft:magenta_bed[facing=east,occupied=false,part=foot] run scoreboard players set @s s.crhf.block_id 11300

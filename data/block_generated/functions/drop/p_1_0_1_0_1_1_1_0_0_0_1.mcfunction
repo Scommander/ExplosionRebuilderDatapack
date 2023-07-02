@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 16414 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16415 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16416 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16417 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16418 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16419 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16420 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16421 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16422 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16423 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16424 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}
+execute if score @s s.crhf.block_id matches 16425 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_blackstone_wall", Count: 1b}}

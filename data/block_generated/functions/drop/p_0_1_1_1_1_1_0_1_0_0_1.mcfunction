@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11794 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11795 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11796 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11797 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11798 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11799 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11800 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11801 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11802 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11803 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11804 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11805 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:mangrove_trapdoor", Count: 1b}}

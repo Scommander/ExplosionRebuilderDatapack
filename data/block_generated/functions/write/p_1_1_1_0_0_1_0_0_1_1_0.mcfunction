@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21565 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=true,signal_fire=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21566 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=true,signal_fire=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21567 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=true,signal_fire=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21568 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=false,signal_fire=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21569 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=false,signal_fire=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21570 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21571 run setblock ~ ~ ~ minecraft:soul_campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21572 run setblock ~ ~ ~ minecraft:soul_fire
+execute if score @s s.crhf.block_id matches 21573 run setblock ~ ~ ~ minecraft:soul_lantern[hanging=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21574 run setblock ~ ~ ~ minecraft:soul_lantern[hanging=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21575 run setblock ~ ~ ~ minecraft:soul_lantern[hanging=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21576 run setblock ~ ~ ~ minecraft:soul_lantern[hanging=false,waterlogged=false]

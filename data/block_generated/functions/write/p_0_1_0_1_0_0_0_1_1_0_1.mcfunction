@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 7693 run setblock ~ ~ ~ minecraft:deepslate_tiles
+execute if score @s s.crhf.block_id matches 7694 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=north_south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7695 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=north_south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7696 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=east_west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7697 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=east_west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7698 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7699 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7700 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7701 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7702 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 7703 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 7704 run setblock ~ ~ ~ minecraft:detector_rail[powered=true,shape=ascending_south,waterlogged=true]

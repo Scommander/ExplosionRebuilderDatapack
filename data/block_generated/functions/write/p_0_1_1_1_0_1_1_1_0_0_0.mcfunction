@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 11217 run setblock ~ ~ ~ minecraft:lime_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 11218 run setblock ~ ~ ~ minecraft:lime_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 11219 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 11220 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 11221 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 11222 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 11223 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 11224 run setblock ~ ~ ~ minecraft:lime_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 11225 run setblock ~ ~ ~ minecraft:lime_stained_glass
+execute if score @s s.crhf.block_id matches 11226 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 11227 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]

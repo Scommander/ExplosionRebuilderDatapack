@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 235 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 236 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 237 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 238 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 239 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 240 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 241 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 242 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 243 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 244 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 245 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:acacia_log", Count: 1b}}

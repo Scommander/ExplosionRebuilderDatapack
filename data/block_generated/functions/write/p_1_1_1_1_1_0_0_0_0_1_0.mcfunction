@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23403 run setblock ~ ~ ~ minecraft:water[level=9]
+execute if score @s s.crhf.block_id matches 23404 run setblock ~ ~ ~ minecraft:water[level=10]
+execute if score @s s.crhf.block_id matches 23405 run setblock ~ ~ ~ minecraft:water[level=11]
+execute if score @s s.crhf.block_id matches 23406 run setblock ~ ~ ~ minecraft:water[level=12]
+execute if score @s s.crhf.block_id matches 23407 run setblock ~ ~ ~ minecraft:water[level=13]
+execute if score @s s.crhf.block_id matches 23408 run setblock ~ ~ ~ minecraft:water[level=14]
+execute if score @s s.crhf.block_id matches 23409 run setblock ~ ~ ~ minecraft:water[level=15]
+execute if score @s s.crhf.block_id matches 23410 run setblock ~ ~ ~ minecraft:water_cauldron[level=1]
+execute if score @s s.crhf.block_id matches 23411 run setblock ~ ~ ~ minecraft:water_cauldron[level=2]
+execute if score @s s.crhf.block_id matches 23412 run setblock ~ ~ ~ minecraft:water_cauldron[level=3]
+execute if score @s s.crhf.block_id matches 23413 run setblock ~ ~ ~ minecraft:waxed_copper_block
+execute if score @s s.crhf.block_id matches 23414 run setblock ~ ~ ~ minecraft:waxed_cut_copper

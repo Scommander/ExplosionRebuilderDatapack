@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8141 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dispenser", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8142 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dispenser", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8143 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dispenser", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8144 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dispenser", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8145 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8146 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8147 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dragon_head", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22684 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22685 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22686 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22687 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22688 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22689 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22690 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22691 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22692 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22693 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22694 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22695 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:target", Count: 1b}}

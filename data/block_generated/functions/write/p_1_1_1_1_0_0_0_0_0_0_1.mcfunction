@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22637 run setblock ~ ~ ~ minecraft:stripped_warped_hyphae[axis=x]
+execute if score @s s.crhf.block_id matches 22638 run setblock ~ ~ ~ minecraft:stripped_warped_hyphae[axis=y]
+execute if score @s s.crhf.block_id matches 22639 run setblock ~ ~ ~ minecraft:stripped_warped_hyphae[axis=z]
+execute if score @s s.crhf.block_id matches 22640 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=x]
+execute if score @s s.crhf.block_id matches 22641 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=y]
+execute if score @s s.crhf.block_id matches 22642 run setblock ~ ~ ~ minecraft:stripped_warped_stem[axis=z]
+execute if score @s s.crhf.block_id matches 22643 run setblock ~ ~ ~ minecraft:structure_block[mode=save]
+execute if score @s s.crhf.block_id matches 22644 run setblock ~ ~ ~ minecraft:structure_block[mode=load]
+execute if score @s s.crhf.block_id matches 22645 run setblock ~ ~ ~ minecraft:structure_block[mode=corner]
+execute if score @s s.crhf.block_id matches 22646 run setblock ~ ~ ~ minecraft:structure_block[mode=data]
+execute if score @s s.crhf.block_id matches 22647 run setblock ~ ~ ~ minecraft:structure_void
+execute if score @s s.crhf.block_id matches 22648 run setblock ~ ~ ~ minecraft:sugar_cane[age=0]

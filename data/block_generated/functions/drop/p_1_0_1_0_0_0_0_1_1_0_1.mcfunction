@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15236 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15237 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15238 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15239 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15240 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15241 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15242 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15243 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15244 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15245 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15246 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15247 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oak_wall_hanging_sign", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15593 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15595 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15596 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15597 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15598 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15599 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15600 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15601 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pink_stained_glass_pane", Count: 1b}}

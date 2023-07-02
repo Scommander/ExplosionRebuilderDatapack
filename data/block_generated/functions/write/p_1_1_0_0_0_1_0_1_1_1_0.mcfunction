@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 18642 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 18643 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 18644 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 18645 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 18646 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 18647 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 18648 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 18649 run setblock ~ ~ ~ minecraft:red_nether_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 18650 run setblock ~ ~ ~ minecraft:red_nether_bricks
+execute if score @s s.crhf.block_id matches 18651 run setblock ~ ~ ~ minecraft:red_sand
+execute if score @s s.crhf.block_id matches 18652 run setblock ~ ~ ~ minecraft:red_sandstone
+execute if score @s s.crhf.block_id matches 18653 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=top,waterlogged=true]

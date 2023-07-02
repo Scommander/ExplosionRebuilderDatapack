@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1849 run setblock ~ ~ ~ minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1850 run setblock ~ ~ ~ minecraft:birch_leaves[distance=7,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 1851 run setblock ~ ~ ~ minecraft:birch_leaves[distance=7,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 1852 run setblock ~ ~ ~ minecraft:birch_log[axis=x]
+execute if score @s s.crhf.block_id matches 1853 run setblock ~ ~ ~ minecraft:birch_log[axis=y]
+execute if score @s s.crhf.block_id matches 1854 run setblock ~ ~ ~ minecraft:birch_log[axis=z]
+execute if score @s s.crhf.block_id matches 1855 run setblock ~ ~ ~ minecraft:birch_planks
+execute if score @s s.crhf.block_id matches 1856 run setblock ~ ~ ~ minecraft:birch_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 1857 run setblock ~ ~ ~ minecraft:birch_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 1858 run setblock ~ ~ ~ minecraft:birch_sapling[stage=0]
+execute if score @s s.crhf.block_id matches 1859 run setblock ~ ~ ~ minecraft:birch_sapling[stage=1]
+execute if score @s s.crhf.block_id matches 1860 run setblock ~ ~ ~ minecraft:birch_sign[rotation=0,waterlogged=true]

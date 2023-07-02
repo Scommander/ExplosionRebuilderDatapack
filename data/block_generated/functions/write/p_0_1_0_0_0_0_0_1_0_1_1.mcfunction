@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6162 run setblock ~ ~ ~ minecraft:cyan_stained_glass
+execute if score @s s.crhf.block_id matches 6163 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 6164 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 6165 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 6166 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 6167 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 6168 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 6169 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 6170 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 6171 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=false,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 6172 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=false,south=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 6173 run setblock ~ ~ ~ minecraft:cyan_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]

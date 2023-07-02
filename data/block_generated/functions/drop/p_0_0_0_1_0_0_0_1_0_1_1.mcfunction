@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1637 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1638 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1639 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1640 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1641 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1642 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1643 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1644 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1645 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1646 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1647 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1648 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_door", Count: 1b}}

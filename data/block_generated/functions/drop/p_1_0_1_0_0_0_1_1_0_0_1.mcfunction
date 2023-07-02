@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15377 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15378 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_wall_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15379 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:orange_wool", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15380 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxeye_daisy", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15381 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_copper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15382 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15383 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15384 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15385 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15386 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15387 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15388 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:oxidized_cut_copper_slab", Count: 1b}}

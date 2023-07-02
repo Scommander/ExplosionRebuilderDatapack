@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10581 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10582 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10583 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10584 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10585 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10586 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10587 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10588 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10589 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_sign", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=0] run scoreboard players set @s s.crhf.block_id 10086
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=1] run scoreboard players set @s s.crhf.block_id 10087
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=2] run scoreboard players set @s s.crhf.block_id 10088
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=3] run scoreboard players set @s s.crhf.block_id 10089
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=4] run scoreboard players set @s s.crhf.block_id 10090
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=5] run scoreboard players set @s s.crhf.block_id 10091
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=6] run scoreboard players set @s s.crhf.block_id 10092
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=7] run scoreboard players set @s s.crhf.block_id 10093
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=8] run scoreboard players set @s s.crhf.block_id 10094
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=9] run scoreboard players set @s s.crhf.block_id 10095
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=10] run scoreboard players set @s s.crhf.block_id 10096
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=11] run scoreboard players set @s s.crhf.block_id 10097
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=12] run scoreboard players set @s s.crhf.block_id 10098
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=13] run scoreboard players set @s s.crhf.block_id 10099
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=14] run scoreboard players set @s s.crhf.block_id 10100
+execute if block ~ ~ ~ minecraft:heavy_weighted_pressure_plate[power=15] run scoreboard players set @s s.crhf.block_id 10101

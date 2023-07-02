@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11285 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11286 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 11287 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:magenta_bed", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 2639 run setblock ~ ~ ~ minecraft:blue_ice
+execute if score @s s.crhf.block_id matches 2640 run setblock ~ ~ ~ minecraft:blue_orchid
+execute if score @s s.crhf.block_id matches 2641 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 2642 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 2643 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=south]
+execute if score @s s.crhf.block_id matches 2644 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=west]
+execute if score @s s.crhf.block_id matches 2645 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=up]
+execute if score @s s.crhf.block_id matches 2646 run setblock ~ ~ ~ minecraft:blue_shulker_box[facing=down]
+execute if score @s s.crhf.block_id matches 2647 run setblock ~ ~ ~ minecraft:blue_stained_glass
+execute if score @s s.crhf.block_id matches 2648 run setblock ~ ~ ~ minecraft:blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 2649 run setblock ~ ~ ~ minecraft:blue_stained_glass_pane[east=true,north=true,south=true,waterlogged=true,west=false]

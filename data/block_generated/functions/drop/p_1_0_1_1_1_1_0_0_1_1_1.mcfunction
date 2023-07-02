@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17805 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17806 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17807 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17808 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17809 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17810 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17811 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pumpkin_stem", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17812 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17813 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17814 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17815 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17816 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_banner", Count: 1b}}

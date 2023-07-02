@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17852 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17853 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17854 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17855 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17856 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17857 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17858 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17859 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17860 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17861 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_candle_cake", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17862 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_carpet", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17863 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:purple_concrete", Count: 1b}}

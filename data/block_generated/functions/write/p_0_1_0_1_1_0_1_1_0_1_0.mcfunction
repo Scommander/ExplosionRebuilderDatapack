@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8600 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 8601 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 8602 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 8603 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 8604 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=none]
+execute if score @s s.crhf.block_id matches 8605 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=low]
+execute if score @s s.crhf.block_id matches 8606 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=true,west=tall]
+execute if score @s s.crhf.block_id matches 8607 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 8608 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 8609 run setblock ~ ~ ~ minecraft:end_stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 8610 run setblock ~ ~ ~ minecraft:end_stone_bricks
+execute if score @s s.crhf.block_id matches 8611 run setblock ~ ~ ~ minecraft:ender_chest[facing=north,waterlogged=true]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5583 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5584 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5585 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5586 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5587 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5588 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5589 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5590 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5591 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5592 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5593 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5594 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_button", Count: 1b}}

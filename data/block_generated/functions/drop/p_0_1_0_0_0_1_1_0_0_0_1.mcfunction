@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6609 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6610 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6611 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6612 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_trapdoor", Count: 1b}}

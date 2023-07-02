@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:frosted_ice", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9274 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:frosted_ice", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9275 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:frosted_ice", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9276 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:frosted_ice", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9277 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9278 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9279 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9280 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9281 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9282 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9283 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9284 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:furnace", Count: 1b}}

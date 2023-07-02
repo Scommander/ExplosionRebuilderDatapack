@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_jungle_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_jungle_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_jungle_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_jungle_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_jungle_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22621 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_log", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22622 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22623 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22624 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_mangrove_wood", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22625 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:stripped_oak_log", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22001 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22002 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22003 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22004 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22005 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22006 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22007 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22008 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22009 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22010 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22011 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22012 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:spruce_trapdoor", Count: 1b}}

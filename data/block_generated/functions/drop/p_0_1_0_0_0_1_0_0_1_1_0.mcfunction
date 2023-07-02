@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6480 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6481 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6482 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6483 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6484 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6485 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6486 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6487 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6488 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6489 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6490 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6491 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dark_oak_slab", Count: 1b}}

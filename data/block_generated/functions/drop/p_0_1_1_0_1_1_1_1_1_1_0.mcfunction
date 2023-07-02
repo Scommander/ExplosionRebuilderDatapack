@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10534 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10535 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10536 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10537 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10538 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10539 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10540 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10541 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10542 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10543 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10544 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10545 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_leaves", Count: 1b}}

@@ -1,7 +1,0 @@
-execute if score @s s.crhf.block_id matches 4093 run setblock ~ ~ ~ minecraft:cake[bites=0]
-execute if score @s s.crhf.block_id matches 4094 run setblock ~ ~ ~ minecraft:cake[bites=1]
-execute if score @s s.crhf.block_id matches 4095 run setblock ~ ~ ~ minecraft:cake[bites=2]
-execute if score @s s.crhf.block_id matches 4096 run setblock ~ ~ ~ minecraft:cake[bites=3]
-execute if score @s s.crhf.block_id matches 4097 run setblock ~ ~ ~ minecraft:cake[bites=4]
-execute if score @s s.crhf.block_id matches 4098 run setblock ~ ~ ~ minecraft:cake[bites=5]
-execute if score @s s.crhf.block_id matches 4099 run setblock ~ ~ ~ minecraft:cake[bites=6]

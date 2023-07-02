@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8141 run setblock ~ ~ ~ minecraft:dispenser[facing=up,triggered=true]
+execute if score @s s.crhf.block_id matches 8142 run setblock ~ ~ ~ minecraft:dispenser[facing=up,triggered=false]
+execute if score @s s.crhf.block_id matches 8143 run setblock ~ ~ ~ minecraft:dispenser[facing=down,triggered=true]
+execute if score @s s.crhf.block_id matches 8144 run setblock ~ ~ ~ minecraft:dispenser[facing=down,triggered=false]
+execute if score @s s.crhf.block_id matches 8145 run setblock ~ ~ ~ minecraft:dragon_egg
+execute if score @s s.crhf.block_id matches 8146 run setblock ~ ~ ~ minecraft:dragon_head[rotation=0]
+execute if score @s s.crhf.block_id matches 8147 run setblock ~ ~ ~ minecraft:dragon_head[rotation=1]
+execute if score @s s.crhf.block_id matches 8148 run setblock ~ ~ ~ minecraft:dragon_head[rotation=2]
+execute if score @s s.crhf.block_id matches 8149 run setblock ~ ~ ~ minecraft:dragon_head[rotation=3]
+execute if score @s s.crhf.block_id matches 8150 run setblock ~ ~ ~ minecraft:dragon_head[rotation=4]
+execute if score @s s.crhf.block_id matches 8151 run setblock ~ ~ ~ minecraft:dragon_head[rotation=5]
+execute if score @s s.crhf.block_id matches 8152 run setblock ~ ~ ~ minecraft:dragon_head[rotation=6]

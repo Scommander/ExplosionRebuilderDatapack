@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17298 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17299 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17300 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17301 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17302 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17303 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17304 run setblock ~ ~ ~ minecraft:powered_rail[powered=false,shape=ascending_south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17305 run setblock ~ ~ ~ minecraft:prismarine
+execute if score @s s.crhf.block_id matches 17306 run setblock ~ ~ ~ minecraft:prismarine_brick_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17307 run setblock ~ ~ ~ minecraft:prismarine_brick_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17308 run setblock ~ ~ ~ minecraft:prismarine_brick_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17309 run setblock ~ ~ ~ minecraft:prismarine_brick_slab[type=bottom,waterlogged=false]

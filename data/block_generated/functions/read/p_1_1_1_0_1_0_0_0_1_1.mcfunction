@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=north,powered=true] run scoreboard players set @s s.crhf.block_id 22858
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=north,powered=false] run scoreboard players set @s s.crhf.block_id 22859
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=south,powered=true] run scoreboard players set @s s.crhf.block_id 22860
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=south,powered=false] run scoreboard players set @s s.crhf.block_id 22861
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=west,powered=true] run scoreboard players set @s s.crhf.block_id 22862
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=west,powered=false] run scoreboard players set @s s.crhf.block_id 22863
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=east,powered=true] run scoreboard players set @s s.crhf.block_id 22864
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=east,powered=false] run scoreboard players set @s s.crhf.block_id 22865
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=north,powered=true] run scoreboard players set @s s.crhf.block_id 22866
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=north,powered=false] run scoreboard players set @s s.crhf.block_id 22867
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=south,powered=true] run scoreboard players set @s s.crhf.block_id 22868
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=south,powered=false] run scoreboard players set @s s.crhf.block_id 22869
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=west,powered=true] run scoreboard players set @s s.crhf.block_id 22870
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=west,powered=false] run scoreboard players set @s s.crhf.block_id 22871
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=east,powered=true] run scoreboard players set @s s.crhf.block_id 22872
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=east,powered=false] run scoreboard players set @s s.crhf.block_id 22873

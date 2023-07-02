@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5820 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5821 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5822 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5823 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5824 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5825 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5826 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_slab", Count: 1b}}

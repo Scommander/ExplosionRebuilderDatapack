@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8612 run setblock ~ ~ ~ minecraft:ender_chest[facing=north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8613 run setblock ~ ~ ~ minecraft:ender_chest[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8614 run setblock ~ ~ ~ minecraft:ender_chest[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8615 run setblock ~ ~ ~ minecraft:ender_chest[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8616 run setblock ~ ~ ~ minecraft:ender_chest[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8617 run setblock ~ ~ ~ minecraft:ender_chest[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8618 run setblock ~ ~ ~ minecraft:ender_chest[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8619 run setblock ~ ~ ~ minecraft:exposed_copper
+execute if score @s s.crhf.block_id matches 8620 run setblock ~ ~ ~ minecraft:exposed_cut_copper
+execute if score @s s.crhf.block_id matches 8621 run setblock ~ ~ ~ minecraft:exposed_cut_copper_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 8622 run setblock ~ ~ ~ minecraft:exposed_cut_copper_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 8623 run setblock ~ ~ ~ minecraft:exposed_cut_copper_slab[type=bottom,waterlogged=true]

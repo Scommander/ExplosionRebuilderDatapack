@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10887 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10888 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10889 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10890 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10891 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10892 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10893 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10894 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10895 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10896 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10897 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10898 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:light", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21200 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_box", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21201 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21202 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21203 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21204 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21205 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21206 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21207 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21208 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21209 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21210 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21211 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:skeleton_skull", Count: 1b}}

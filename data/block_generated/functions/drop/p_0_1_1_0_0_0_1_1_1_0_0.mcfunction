@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 9379 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9380 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9381 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9382 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9383 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9384 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9385 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9386 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9387 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9388 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9389 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}
+execute if score @s s.crhf.block_id matches 9390 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glow_lichen", Count: 1b}}

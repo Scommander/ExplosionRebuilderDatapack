@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 1508 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1509 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1510 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1511 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1512 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1513 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1514 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1515 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1516 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1517 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1518 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:beehive", Count: 1b}}

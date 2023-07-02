@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 17262 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_lily_of_the_valley", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17263 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_mangrove_propagule", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17264 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_oak_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17265 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_orange_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17266 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_oxeye_daisy", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17267 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_pink_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17268 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_poppy", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17269 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_red_mushroom", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17270 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_red_tulip", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17271 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_spruce_sapling", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17272 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_torchflower", Count: 1b}}
+execute if score @s s.crhf.block_id matches 17273 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:potted_warped_fungus", Count: 1b}}

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 18148 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18149 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_bed", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18150 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18151 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18152 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18153 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18154 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18155 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18156 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18157 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 18158 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:red_candle", Count: 1b}}

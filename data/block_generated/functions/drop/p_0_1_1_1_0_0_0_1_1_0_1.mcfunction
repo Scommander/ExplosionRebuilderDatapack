@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10719 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10720 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10721 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:jungle_trapdoor", Count: 1b}}

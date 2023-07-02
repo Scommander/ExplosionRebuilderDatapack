@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8707 run setblock ~ ~ ~ minecraft:farmland[moisture=0]
+execute if score @s s.crhf.block_id matches 8708 run setblock ~ ~ ~ minecraft:farmland[moisture=1]
+execute if score @s s.crhf.block_id matches 8709 run setblock ~ ~ ~ minecraft:farmland[moisture=2]
+execute if score @s s.crhf.block_id matches 8710 run setblock ~ ~ ~ minecraft:farmland[moisture=3]
+execute if score @s s.crhf.block_id matches 8711 run setblock ~ ~ ~ minecraft:farmland[moisture=4]
+execute if score @s s.crhf.block_id matches 8712 run setblock ~ ~ ~ minecraft:farmland[moisture=5]
+execute if score @s s.crhf.block_id matches 8713 run setblock ~ ~ ~ minecraft:farmland[moisture=6]
+execute if score @s s.crhf.block_id matches 8714 run setblock ~ ~ ~ minecraft:farmland[moisture=7]
+execute if score @s s.crhf.block_id matches 8715 run setblock ~ ~ ~ minecraft:fern
+execute if score @s s.crhf.block_id matches 8716 run setblock ~ ~ ~ minecraft:fire[age=0,east=true,north=true,south=true,up=true,west=true]
+execute if score @s s.crhf.block_id matches 8717 run setblock ~ ~ ~ minecraft:fire[age=0,east=true,north=true,south=true,up=true,west=false]
+execute if score @s s.crhf.block_id matches 8718 run setblock ~ ~ ~ minecraft:fire[age=0,east=true,north=true,south=true,up=false,west=true]

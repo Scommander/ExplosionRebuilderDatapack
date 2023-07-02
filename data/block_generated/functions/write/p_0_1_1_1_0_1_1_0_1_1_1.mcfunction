@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11205 run setblock ~ ~ ~ minecraft:lime_candle[candles=3,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11206 run setblock ~ ~ ~ minecraft:lime_candle[candles=4,lit=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11207 run setblock ~ ~ ~ minecraft:lime_candle[candles=4,lit=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11208 run setblock ~ ~ ~ minecraft:lime_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 11209 run setblock ~ ~ ~ minecraft:lime_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 11210 run setblock ~ ~ ~ minecraft:lime_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 11211 run setblock ~ ~ ~ minecraft:lime_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 11212 run setblock ~ ~ ~ minecraft:lime_carpet
+execute if score @s s.crhf.block_id matches 11213 run setblock ~ ~ ~ minecraft:lime_concrete
+execute if score @s s.crhf.block_id matches 11214 run setblock ~ ~ ~ minecraft:lime_concrete_powder
+execute if score @s s.crhf.block_id matches 11215 run setblock ~ ~ ~ minecraft:lime_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 11216 run setblock ~ ~ ~ minecraft:lime_glazed_terracotta[facing=south]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21530 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sniffer_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21531 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21532 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21533 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21534 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21535 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21536 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21537 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21538 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21539 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:snow_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21540 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 21541 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:soul_campfire", Count: 1b}}

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6131
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6132
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6133
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6134
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6135
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6136
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6137
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6138
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6139
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6140
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6141
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6142
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6143
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6144
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set @s s.crhf.block_id 6145
+execute if block ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set @s s.crhf.block_id 6146

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 21176 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 21177 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 21178 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 21179 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 21180 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 21181 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 21182 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 21183 run setblock ~ ~ ~ minecraft:sculk_vein[down=false,east=false,north=false,south=false,up=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 21184 run setblock ~ ~ ~ minecraft:sea_lantern
+execute if score @s s.crhf.block_id matches 21185 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=1,waterlogged=true]
+execute if score @s s.crhf.block_id matches 21186 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=1,waterlogged=false]
+execute if score @s s.crhf.block_id matches 21187 run setblock ~ ~ ~ minecraft:sea_pickle[pickles=2,waterlogged=true]

@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 9238 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9239 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9240 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9241 run setblock ~ ~ ~ minecraft:fletching_table
+execute if score @s s.crhf.block_id matches 9242 run setblock ~ ~ ~ minecraft:flower_pot
+execute if score @s s.crhf.block_id matches 9243 run setblock ~ ~ ~ minecraft:flowering_azalea
+execute if score @s s.crhf.block_id matches 9244 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=1,persistent=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9245 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=1,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9246 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=1,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 9247 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=1,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 9248 run setblock ~ ~ ~ minecraft:flowering_azalea_leaves[distance=2,persistent=true,waterlogged=true]

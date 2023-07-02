@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22460 run setblock ~ ~ ~ minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=none]
+execute if score @s s.crhf.block_id matches 22461 run setblock ~ ~ ~ minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=low]
+execute if score @s s.crhf.block_id matches 22462 run setblock ~ ~ ~ minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]
+execute if score @s s.crhf.block_id matches 22463 run setblock ~ ~ ~ minecraft:stone_bricks
+execute if score @s s.crhf.block_id matches 22464 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=north,powered=true]
+execute if score @s s.crhf.block_id matches 22465 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=north,powered=false]
+execute if score @s s.crhf.block_id matches 22466 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=south,powered=true]
+execute if score @s s.crhf.block_id matches 22467 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=south,powered=false]
+execute if score @s s.crhf.block_id matches 22468 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=west,powered=true]
+execute if score @s s.crhf.block_id matches 22469 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=west,powered=false]
+execute if score @s s.crhf.block_id matches 22470 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=east,powered=true]
+execute if score @s s.crhf.block_id matches 22471 run setblock ~ ~ ~ minecraft:stone_button[face=floor,facing=east,powered=false]

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 15707 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15708 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15709 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15710 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:pointed_dripstone", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15711 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15712 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15713 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15714 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15715 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15716 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15717 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_slab", Count: 1b}}
+execute if score @s s.crhf.block_id matches 15718 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:polished_andesite_stairs", Count: 1b}}

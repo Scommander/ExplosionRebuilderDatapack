@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3298 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3299 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3300 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3301 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3302 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=east,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3303 run setblock ~ ~ ~ minecraft:bubble_coral_wall_fan[facing=east,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3304 run setblock ~ ~ ~ minecraft:budding_amethyst
+execute if score @s s.crhf.block_id matches 3305 run setblock ~ ~ ~ minecraft:cactus[age=0]
+execute if score @s s.crhf.block_id matches 3306 run setblock ~ ~ ~ minecraft:cactus[age=1]
+execute if score @s s.crhf.block_id matches 3307 run setblock ~ ~ ~ minecraft:cactus[age=2]
+execute if score @s s.crhf.block_id matches 3308 run setblock ~ ~ ~ minecraft:cactus[age=3]

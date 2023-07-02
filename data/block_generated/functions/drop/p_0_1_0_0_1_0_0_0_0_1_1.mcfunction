@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6822 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6823 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6824 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6825 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6826 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6827 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6828 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6829 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6830 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_horn_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6831 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_tube_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6832 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_tube_coral", Count: 1b}}
+execute if score @s s.crhf.block_id matches 6833 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:dead_tube_coral_block", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22884 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22885 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22886 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tube_coral_wall_fan", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22887 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:tuff", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22888 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22889 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22890 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22891 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22892 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22893 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22894 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22895 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:turtle_egg", Count: 1b}}

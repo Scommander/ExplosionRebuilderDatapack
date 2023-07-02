@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 8660 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8661 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8662 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8663 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8664 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8665 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8666 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8667 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8668 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8669 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8670 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}
+execute if score @s s.crhf.block_id matches 8671 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:exposed_cut_copper_stairs", Count: 1b}}

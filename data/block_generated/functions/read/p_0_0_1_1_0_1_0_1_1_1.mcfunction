@@ -1,0 +1,9 @@
+execute if block ~ ~ ~ minecraft:composter[level=0] run scoreboard players set @s s.crhf.block_id 5531
+execute if block ~ ~ ~ minecraft:composter[level=1] run scoreboard players set @s s.crhf.block_id 5532
+execute if block ~ ~ ~ minecraft:composter[level=2] run scoreboard players set @s s.crhf.block_id 5533
+execute if block ~ ~ ~ minecraft:composter[level=3] run scoreboard players set @s s.crhf.block_id 5534
+execute if block ~ ~ ~ minecraft:composter[level=4] run scoreboard players set @s s.crhf.block_id 5535
+execute if block ~ ~ ~ minecraft:composter[level=5] run scoreboard players set @s s.crhf.block_id 5536
+execute if block ~ ~ ~ minecraft:composter[level=6] run scoreboard players set @s s.crhf.block_id 5537
+execute if block ~ ~ ~ minecraft:composter[level=7] run scoreboard players set @s s.crhf.block_id 5538
+execute if block ~ ~ ~ minecraft:composter[level=8] run scoreboard players set @s s.crhf.block_id 5539

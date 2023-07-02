@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10804 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:ladder", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10805 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lantern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10806 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lantern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10807 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lantern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10808 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lantern", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10809 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lapis_block", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10810 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:lapis_ore", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10811 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10812 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10813 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10814 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}
+execute if score @s s.crhf.block_id matches 10815 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:large_amethyst_bud", Count: 1b}}

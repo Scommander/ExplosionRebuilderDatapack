@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 3770 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carrots", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3771 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cartography_table", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3772 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carved_pumpkin", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3773 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carved_pumpkin", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3774 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carved_pumpkin", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3775 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:carved_pumpkin", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3776 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cauldron", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3777 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_air", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3778 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3779 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3780 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:cave_vines", Count: 1b}}

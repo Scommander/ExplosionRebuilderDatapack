@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2096 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2097 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2098 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2099 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2100 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2101 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2102 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2103 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2104 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2105 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2106 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2107 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:black_candle", Count: 1b}}

@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3734 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3735 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3736 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3737 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3738 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3739 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3740 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3741 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3742 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3743 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3744 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:campfire", Count: 1b}}
+execute if score @s s.crhf.block_id matches 3745 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:candle", Count: 1b}}

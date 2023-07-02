@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23368 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23369 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23370 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23371 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23372 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23373 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23374 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23375 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23376 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23377 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23378 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_wall_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23379 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_wall_hanging_sign", Count: 1b}}

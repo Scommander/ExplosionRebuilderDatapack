@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 23179 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23180 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23181 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23182 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23183 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hanging_sign", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23184 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23185 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23186 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_hyphae", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23187 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_nylium", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23188 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_planks", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23189 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_pressure_plate", Count: 1b}}
+execute if score @s s.crhf.block_id matches 23190 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:warped_pressure_plate", Count: 1b}}

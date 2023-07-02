@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 20468 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20469 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20470 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20471 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20472 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20473 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20474 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20475 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20476 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20477 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20478 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}
+execute if score @s s.crhf.block_id matches 20479 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:repeater", Count: 1b}}

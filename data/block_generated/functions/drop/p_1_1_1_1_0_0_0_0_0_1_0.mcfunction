@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 22649 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22650 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22651 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22652 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22653 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22654 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22655 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22656 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22657 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22658 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22659 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 22660 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:sugar_cane", Count: 1b}}

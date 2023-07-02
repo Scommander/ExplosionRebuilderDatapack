@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=0] run scoreboard players set @s s.crhf.block_id 11162
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=1] run scoreboard players set @s s.crhf.block_id 11163
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=2] run scoreboard players set @s s.crhf.block_id 11164
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=3] run scoreboard players set @s s.crhf.block_id 11165
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=4] run scoreboard players set @s s.crhf.block_id 11166
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=5] run scoreboard players set @s s.crhf.block_id 11167
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=6] run scoreboard players set @s s.crhf.block_id 11168
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=7] run scoreboard players set @s s.crhf.block_id 11169
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=8] run scoreboard players set @s s.crhf.block_id 11170
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=9] run scoreboard players set @s s.crhf.block_id 11171
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=10] run scoreboard players set @s s.crhf.block_id 11172
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=11] run scoreboard players set @s s.crhf.block_id 11173
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=12] run scoreboard players set @s s.crhf.block_id 11174
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=13] run scoreboard players set @s s.crhf.block_id 11175
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=14] run scoreboard players set @s s.crhf.block_id 11176
+execute if block ~ ~ ~ minecraft:lime_banner[rotation=15] run scoreboard players set @s s.crhf.block_id 11177

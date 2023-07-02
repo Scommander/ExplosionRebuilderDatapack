@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 10015 run setblock ~ ~ ~ minecraft:green_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 10016 run setblock ~ ~ ~ minecraft:green_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 10017 run setblock ~ ~ ~ minecraft:green_carpet
+execute if score @s s.crhf.block_id matches 10018 run setblock ~ ~ ~ minecraft:green_concrete
+execute if score @s s.crhf.block_id matches 10019 run setblock ~ ~ ~ minecraft:green_concrete_powder
+execute if score @s s.crhf.block_id matches 10020 run setblock ~ ~ ~ minecraft:green_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 10021 run setblock ~ ~ ~ minecraft:green_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 10022 run setblock ~ ~ ~ minecraft:green_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 10023 run setblock ~ ~ ~ minecraft:green_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 10024 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=north]
+execute if score @s s.crhf.block_id matches 10025 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=east]
+execute if score @s s.crhf.block_id matches 10026 run setblock ~ ~ ~ minecraft:green_shulker_box[facing=south]

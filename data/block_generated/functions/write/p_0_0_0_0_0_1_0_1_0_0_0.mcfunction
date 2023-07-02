@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 471 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_west,waterlogged=true]
+execute if score @s s.crhf.block_id matches 472 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_west,waterlogged=false]
+execute if score @s s.crhf.block_id matches 473 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 474 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_north,waterlogged=false]
+execute if score @s s.crhf.block_id matches 475 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_south,waterlogged=true]
+execute if score @s s.crhf.block_id matches 476 run setblock ~ ~ ~ minecraft:activator_rail[powered=false,shape=ascending_south,waterlogged=false]
+execute if score @s s.crhf.block_id matches 477 run setblock ~ ~ ~ minecraft:air
+execute if score @s s.crhf.block_id matches 478 run setblock ~ ~ ~ minecraft:allium
+execute if score @s s.crhf.block_id matches 479 run setblock ~ ~ ~ minecraft:amethyst_block
+execute if score @s s.crhf.block_id matches 480 run setblock ~ ~ ~ minecraft:amethyst_cluster[facing=north,waterlogged=true]
+execute if score @s s.crhf.block_id matches 481 run setblock ~ ~ ~ minecraft:amethyst_cluster[facing=north,waterlogged=false]

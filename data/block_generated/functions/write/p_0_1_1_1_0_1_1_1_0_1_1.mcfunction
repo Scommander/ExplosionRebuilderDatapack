@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 11252 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 11253 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 11254 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=true]
+execute if score @s s.crhf.block_id matches 11255 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=false,waterlogged=true,west=false]
+execute if score @s s.crhf.block_id matches 11256 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]
+execute if score @s s.crhf.block_id matches 11257 run setblock ~ ~ ~ minecraft:lime_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]
+execute if score @s s.crhf.block_id matches 11258 run setblock ~ ~ ~ minecraft:lime_terracotta
+execute if score @s s.crhf.block_id matches 11259 run setblock ~ ~ ~ minecraft:lime_wall_banner[facing=north]
+execute if score @s s.crhf.block_id matches 11260 run setblock ~ ~ ~ minecraft:lime_wall_banner[facing=south]
+execute if score @s s.crhf.block_id matches 11261 run setblock ~ ~ ~ minecraft:lime_wall_banner[facing=west]
+execute if score @s s.crhf.block_id matches 11262 run setblock ~ ~ ~ minecraft:lime_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 11263 run setblock ~ ~ ~ minecraft:lime_wool

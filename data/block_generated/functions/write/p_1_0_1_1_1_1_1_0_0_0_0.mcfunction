@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 17912 run setblock ~ ~ ~ minecraft:purple_wall_banner[facing=east]
+execute if score @s s.crhf.block_id matches 17913 run setblock ~ ~ ~ minecraft:purple_wool
+execute if score @s s.crhf.block_id matches 17914 run setblock ~ ~ ~ minecraft:purpur_block
+execute if score @s s.crhf.block_id matches 17915 run setblock ~ ~ ~ minecraft:purpur_pillar[axis=x]
+execute if score @s s.crhf.block_id matches 17916 run setblock ~ ~ ~ minecraft:purpur_pillar[axis=y]
+execute if score @s s.crhf.block_id matches 17917 run setblock ~ ~ ~ minecraft:purpur_pillar[axis=z]
+execute if score @s s.crhf.block_id matches 17918 run setblock ~ ~ ~ minecraft:purpur_slab[type=top,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17919 run setblock ~ ~ ~ minecraft:purpur_slab[type=top,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17920 run setblock ~ ~ ~ minecraft:purpur_slab[type=bottom,waterlogged=true]
+execute if score @s s.crhf.block_id matches 17921 run setblock ~ ~ ~ minecraft:purpur_slab[type=bottom,waterlogged=false]
+execute if score @s s.crhf.block_id matches 17922 run setblock ~ ~ ~ minecraft:purpur_slab[type=double,waterlogged=true]

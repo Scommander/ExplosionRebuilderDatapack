@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 5926 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5927 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5928 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5929 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5930 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5931 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5932 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5933 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5934 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5935 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5936 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}
+execute if score @s s.crhf.block_id matches 5937 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:crimson_trapdoor", Count: 1b}}

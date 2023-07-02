@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 1613 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1614 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1615 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1616 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1617 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1618 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1619 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1620 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1621 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1622 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1623 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}
+execute if score @s s.crhf.block_id matches 1624 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:birch_button", Count: 1b}}

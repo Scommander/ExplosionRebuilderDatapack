@@ -1,0 +1,11 @@
+execute if score @s s.crhf.block_id matches 15272 run setblock ~ ~ ~ minecraft:observer[facing=down,powered=false]
+execute if score @s s.crhf.block_id matches 15273 run setblock ~ ~ ~ minecraft:obsidian
+execute if score @s s.crhf.block_id matches 15274 run setblock ~ ~ ~ minecraft:ochre_froglight[axis=x]
+execute if score @s s.crhf.block_id matches 15275 run setblock ~ ~ ~ minecraft:ochre_froglight[axis=y]
+execute if score @s s.crhf.block_id matches 15276 run setblock ~ ~ ~ minecraft:ochre_froglight[axis=z]
+execute if score @s s.crhf.block_id matches 15277 run setblock ~ ~ ~ minecraft:orange_banner[rotation=0]
+execute if score @s s.crhf.block_id matches 15278 run setblock ~ ~ ~ minecraft:orange_banner[rotation=1]
+execute if score @s s.crhf.block_id matches 15279 run setblock ~ ~ ~ minecraft:orange_banner[rotation=2]
+execute if score @s s.crhf.block_id matches 15280 run setblock ~ ~ ~ minecraft:orange_banner[rotation=3]
+execute if score @s s.crhf.block_id matches 15281 run setblock ~ ~ ~ minecraft:orange_banner[rotation=4]
+execute if score @s s.crhf.block_id matches 15282 run setblock ~ ~ ~ minecraft:orange_banner[rotation=5]

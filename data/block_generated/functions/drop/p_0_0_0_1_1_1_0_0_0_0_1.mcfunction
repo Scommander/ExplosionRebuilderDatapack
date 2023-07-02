@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 2650 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2651 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2652 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2653 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2654 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2655 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2656 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2657 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2658 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2659 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2660 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}
+execute if score @s s.crhf.block_id matches 2661 run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:blue_stained_glass_pane", Count: 1b}}

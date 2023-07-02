@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 6445 run setblock ~ ~ ~ minecraft:dark_oak_leaves[distance=6,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6446 run setblock ~ ~ ~ minecraft:dark_oak_leaves[distance=7,persistent=true,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6447 run setblock ~ ~ ~ minecraft:dark_oak_leaves[distance=7,persistent=true,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6448 run setblock ~ ~ ~ minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 6449 run setblock ~ ~ ~ minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 6450 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=x]
+execute if score @s s.crhf.block_id matches 6451 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=y]
+execute if score @s s.crhf.block_id matches 6452 run setblock ~ ~ ~ minecraft:dark_oak_log[axis=z]
+execute if score @s s.crhf.block_id matches 6453 run setblock ~ ~ ~ minecraft:dark_oak_planks
+execute if score @s s.crhf.block_id matches 6454 run setblock ~ ~ ~ minecraft:dark_oak_pressure_plate[powered=true]
+execute if score @s s.crhf.block_id matches 6455 run setblock ~ ~ ~ minecraft:dark_oak_pressure_plate[powered=false]
+execute if score @s s.crhf.block_id matches 6456 run setblock ~ ~ ~ minecraft:dark_oak_sapling[stage=0]

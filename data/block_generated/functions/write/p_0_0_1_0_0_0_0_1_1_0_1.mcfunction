@@ -1,0 +1,12 @@
+execute if score @s s.crhf.block_id matches 3168 run setblock ~ ~ ~ minecraft:brown_candle[candles=4,lit=false,waterlogged=true]
+execute if score @s s.crhf.block_id matches 3169 run setblock ~ ~ ~ minecraft:brown_candle[candles=4,lit=false,waterlogged=false]
+execute if score @s s.crhf.block_id matches 3170 run setblock ~ ~ ~ minecraft:brown_candle_cake[lit=true]
+execute if score @s s.crhf.block_id matches 3171 run setblock ~ ~ ~ minecraft:brown_candle_cake[lit=false]
+execute if score @s s.crhf.block_id matches 3172 run setblock ~ ~ ~ minecraft:brown_carpet
+execute if score @s s.crhf.block_id matches 3173 run setblock ~ ~ ~ minecraft:brown_concrete
+execute if score @s s.crhf.block_id matches 3174 run setblock ~ ~ ~ minecraft:brown_concrete_powder
+execute if score @s s.crhf.block_id matches 3175 run setblock ~ ~ ~ minecraft:brown_glazed_terracotta[facing=north]
+execute if score @s s.crhf.block_id matches 3176 run setblock ~ ~ ~ minecraft:brown_glazed_terracotta[facing=south]
+execute if score @s s.crhf.block_id matches 3177 run setblock ~ ~ ~ minecraft:brown_glazed_terracotta[facing=west]
+execute if score @s s.crhf.block_id matches 3178 run setblock ~ ~ ~ minecraft:brown_glazed_terracotta[facing=east]
+execute if score @s s.crhf.block_id matches 3179 run setblock ~ ~ ~ minecraft:brown_mushroom
