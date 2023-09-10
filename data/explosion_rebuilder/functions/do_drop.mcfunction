@@ -3,4 +3,4 @@ execute positioned 29999987 5 259 unless block ~ ~ ~ #explosion_rebuilder:nbt ru
 execute positioned 29999987 5 259 if block ~ ~ ~ #explosion_rebuilder:nbt run fill ~ ~ ~ ~ ~ ~ minecraft:air destroy
 execute positioned 29999987 5 259 run tp @e[type=item,distance=..3] @s
 
-say hi
+#say hi
